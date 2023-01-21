@@ -1,0 +1,1670 @@
+h008$$h_Bristleback$$h008$$632ac976-98d9-4e34-bfab-b68c847a20ed
+e005$$h_Moon Rider$$e005$$0cb44b69-4a9f-4db3-94d2-406225e0e360
+npbm$$h_Pandaren Brewmaster$$npbm$$8e3a491c-9ff6-4c27-ac8e-c150f55eacb9
+h000$$h_Centaur Warchief$$h000$$9ac36bde-4f06-44bb-a7ad-7783cf04c5f1
+nbrn$$h_Drow Ranger$$nbrn$$c7162128-1b61-4d93-8e56-9bf79aca5a9a
+hlgr$$h_Dragon Knight$$hlgr$$30897034-b60b-4f63-9760-c550205d7683
+edem$$h_Anti-Mage$$edem$$def2ed21-2371-43cc-8ccc-195f163377e1
+usyl$$h_Dwarven Sniper$$usyl$$2e29043a-d75d-4836-ada6-7dcbf8bf0542
+harf$$h_Omniknight$$harf$$70dd1a3c-3333-49c1-9312-0d9f51653a82
+n016$$h_Troll Warlord$$n016$$3e2d3aab-cd92-4118-9080-6e0a6ca20e16
+naka$$h_Bounty Hunter$$naka$$325f48a5-0353-4773-aa46-519cfa359727
+orkn$$h_Shadow Shaman$$orkn$$7208911b-76b1-47ac-bc32-608787010451
+u006$$h_Broodmother$$u006$$bb7c3908-dfb1-4148-9b8f-3ef746890e45
+hvsh$$h_Bloodseeker$$hvsh$$211ffa6b-5724-4ed7-a284-f91363e26a2b
+e01b$$h_Spectre$$e01b$$28842af3-c152-45b1-806d-c6d4cb83410b
+ec77$$h_Netherdrake$$ec77$$8ff96973-d88a-4158-8dab-05c9bc30b1c2
+ewar$$h_Phantom Assassin$$ewar$$0ba201bb-72e8-444f-a1b8-6cde95c30d91
+u000$$h_Nerubian Assassin$$u000$$08fd19d6-0093-4216-aeb6-c359711519d0
+e004$$h_Bone Fletcher$$e004$$16e941f6-001a-4474-bf84-acd4acc2c6bd
+ubal$$h_Nerubian Weaver$$ubal$$2bd8d781-c55e-4aa5-a81f-0dafe046312e
+ec57$$h_Venomancer$$ec57$$41619ae0-2a78-4bad-8de6-90d900d20947
+eevi$$h_Soul Keeper$$eevi$$090ba562-b23d-46e7-b3af-818bd474c02a
+nfir$$h_Shadow Fiend$$nfir$$27887272-73e0-46b5-bcc8-85aa2e1087ae
+h00i$$h_Geomancer$$h00i$$33db4c94-2937-4d90-93a7-aa088335d378
+hmbr$$h_Lord of Olympus$$hmbr$$ac48c990-f482-4c89-8be1-98e2f98b140f
+hjai$$h_Crystal Maiden$$hjai$$b8ee30c9-46ee-496c-8c4f-f3a51a0af7d3
+h004$$h_Slayer$$h004$$998d5dea-c7d0-4e12-8a17-85518e68d57e
+hblm$$h_Keeper of the Light$$hblm$$21baa57a-c78d-46b0-9f61-37f06e18c52f
+n00b$$h_Faerie Dragon$$n00b$$445d2f6e-0bb9-46a5-8b39-f2d449598366
+n0eg$$h_Windrunner$$n0eg$$afcb8c0e-b79e-4109-8759-638fb4704c37
+h00a$$h_Holy Knight$$h00a$$d5ab4c09-22b6-46b9-9c90-ade7d0fcc46f
+emoo$$h_Enchantress$$emoo$$7d252fd6-bb0f-434a-b5a0-91abc4e576ff
+emns$$h_Prophet$$emns$$0eb7d58b-6881-4cd8-8ae4-b42a8a4c9499
+h00s$$h_Storm Spirit$$h00s$$dcf59326-f979-4bba-b5e0-9abecd534e6a
+n01a$$h_Silencer$$n01a$$1266993c-d650-46aa-b98f-88497ba22b22
+e02j$$h_Disruptor$$e02j$$79111a13-2f21-4109-a48b-93cef64d6403
+hamg$$h_Treant Protector$$hamg$$d8a351d2-6a44-4093-80b8-5a030fe19f07
+ucrl$$h_Stone Giant$$ucrl$$f6adb0cb-1e96-4571-a822-ed65cee0e142
+otch$$h_Earthshaker$$otch$$7183c431-cacf-4a48-a558-8b4b2671ce5a
+h00d$$h_Beastmaster$$h00d$$ad3278ee-8d41-42ee-bae3-2c4d322855b3
+h06s$$h_Admiral$$h06s$$c0c2d114-b6a2-4786-a1d5-60cb67db7fea
+h001$$h_Rogue Knight$$h001$$d9040ef4-da8f-490b-8c36-93847b6299c5
+o015$$h_Tauren Chieftain$$o015$$eb89cea5-3dba-4cbc-8327-c623c6f8f389
+n01i$$h_Alchemist$$n01i$$c33cba58-9d96-439f-8900-62067266166f
+o01f$$h_Guardian Wisp$$o01f$$742ef756-f341-42a0-bf23-a01a6786e0b7
+uktl$$h_Enigma$$uktl$$49d38a2c-64e5-4981-9025-5d44aa49fd93
+ulic$$h_Lich$$ulic$$94bc4627-7661-4abe-90a4-65b944fafd20
+uc76$$h_Death Prophet$$uc76$$e6eddae8-03f7-433b-976c-05da4720cd74
+uc18$$h_Demon Witch$$uc18$$da367721-6eca-4b4a-9de3-fb41d999bbf1
+uc01$$h_Queen of Pain$$uc01$$6e210479-d560-4f05-af8a-a5f00f506277
+h00h$$h_Oblivion$$h00h$$14711dce-af68-41ce-9f22-2a9190f69acd
+u00e$$h_Necrolyte$$u00e$$d5e88b56-5ddc-4d88-a5d5-37419dd37d94
+h00n$$h_Dark Seer$$h00n$$e2403ba7-85f3-419a-aa5e-7f9f9998eecd
+u00p$$h_Obsidian Destroyer$$u00p$$585a278d-b19b-4d8b-8402-874882bc44b2
+oshd$$h_Bane Elemental$$oshd$$e56aa624-bea4-40ec-97da-c8a30f7f883a
+e01c$$h_Warlock$$e01c$$032bcf5b-ec59-4438-9a6c-a1162c0124e4
+e02h$$h_Shadow Demon$$e02h$$47b98b04-1141-451e-85e2-554b68759b92
+huth$$h_Ursa Warrior$$huth$$da4c9fc7-2796-454d-9d53-77afed7938fb
+e01y$$h_Templar Assassin$$e01y$$1c282b8d-b2db-40cc-8985-3bc06ee20dbd
+hvwd$$h_Vengeful Spirit$$hvwd$$5e984996-da4a-4e27-bcc3-c22748a91986
+n01v$$h_Priestess of the Moon$$n01v$$77f9cf0d-44d5-4c1a-a23b-e6d3b38493e0
+n01o$$h_Lone Druid$$n01o$$d3ed1c42-bf14-4aa1-a7d5-fa0149bd0020
+nbbc$$h_Juggernaut$$nbbc$$4993390e-f9c3-4646-b061-df1f25198f1b
+ogrh$$h_Phantom Lancer$$ogrh$$e11290b8-b990-4481-85be-42ea7db2cf9c
+hc92$$h_Stealth Assassin$$hc92$$8acb19bb-7305-4f02-80f4-6a375b4d91a4
+hc49$$h_Naga Siren$$hc49$$8c77952c-4e3c-423d-9160-92d9df8e7aa9
+o00p$$h_Morphling$$o00p$$72bace03-3cca-459e-b58a-d4ec18015ee7
+e02n$$h_Gyrocopter$$e02n$$13c66bf1-64f7-4522-80a9-48b7f3367b88
+h00q$$h_Sacred Warrior$$h00q$$155a07de-4cf9-4b13-be0d-dc72442df76d
+h00t$$h_Clockwerk Goblin$$h00t$$f5d12c36-eba3-4457-af47-68b356447b5f
+e02i$$h_Tuskarr$$e02i$$0d582e71-46af-42c4-8fa3-2511319cd79d
+e02f$$h_Phoenix$$e02f$$7721ba49-53f5-44bd-9621-31fc932ca382
+ntin$$h_Tinker$$ntin$$acc74821-5c3b-4ae2-bdf1-0d070afc24b2
+h00k$$h_Goblin Techies$$h00k$$11078ca8-6681-4a81-b2da-9e9ca4500337
+hmkg$$h_Ogre Magi$$hmkg$$ff8ef79c-2cf5-4648-9151-3f328f7ae0c7
+e00p$$h_Twin Head Dragon$$e00p$$54feffbb-31c8-49d1-9a66-2b49d2feb2d6
+e02x$$h_Grand Magus$$e02x$$3534b878-07f5-4489-919e-d3206993925d
+u00a$$h_Chaos Knight$$u00a$$d0f9d06a-8040-4672-ae61-d4e50aadf3eb
+u008$$h_Lycanthrope$$u008$$72d0acb8-09ed-41ec-bd03-804903a47a7f
+nc00$$h_Skeleton King$$nc00$$509faefb-9545-4f9f-bbb4-9cf63a4f76bb
+udea$$h_Lord of Avernus$$udea$$4ab4a463-500e-4a30-81ca-da51d44b4829
+uc91$$h_Slithereen Guard$$uc91$$02156f48-e690-457c-9f5b-ccb75a8b74e1
+opgh$$h_Axe$$opgh$$d191a136-6047-4965-8890-16bc8baecd22
+n00r$$h_Pit Lord$$n00r$$07593e6c-84fc-4c89-8d04-a7b2cce6a8f9
+h00r$$h_Undying$$h00r$$9da6652a-890f-47b2-b0e7-84656a138978
+u00f$$h_Butcher$$u00f$$55338626-7928-4ddd-8558-e2bf89ac54e4
+udre$$h_Night Stalker$$udre$$9384c389-ade7-448e-8149-0f42b1904c15
+u00c$$h_Lifestealer$$u00c$$2b1f20ee-0082-4a49-a5e2-8e57cd3eea3a
+uc42$$h_Doom Bringer$$uc42$$bf4c26d7-d72c-4677-9bd2-788ee456e289
+n0hp$$h_Ancient Apparition$$n0hp$$e1ea784f-a110-4c6f-b346-78401fc92783
+ekee$$h_Tormented Soul$$ekee$$13fe8f44-0936-4c5d-aaaa-205c3954835d
+uc60$$h_Necro'lic$$uc60$$d1e246e5-7b35-4d42-9ea0-11138a9524a1
+e01a$$h_Witch Doctor$$e01a$$d20cd52d-557e-478a-802d-ce0f7b2814df
+n01w$$h_Shadow Priest$$n01w$$e341478b-4599-4880-a555-0590fd249350
+h00u$$h_Invoker$$h00u$$6dda0e15-3941-40bc-ab78-9caeb3ccb621
+o016$$h_Batrider$$o016$$f1590699-1186-4282-b81c-20c4254c299b
+h071$$h_Murloc Nightcrawler$$h071$$d4f32659-98d2-4882-92eb-b873d73b0705
+h00v$$h_Gorgon$$h00v$$8f684d87-cbff-4d9f-bbb9-a523a72a640c
+ec45$$h_Faceless Void$$ec45$$601ead08-9484-411d-a089-32a6a454163b
+e002$$h_Lightning Revenant$$e002$$5fc1945c-eabc-4632-b09a-5f277a1821d3
+uc11$$h_Magnataur$$uc11$$f2db6ec0-0147-4294-b457-1953f91a43d6
+o00j$$h_Spiritbreaker$$o00j$$4b1c275e-889c-4f02-81cd-2d9b4c7ba2a5
+ofar$$h_Tidehunter$$ofar$$9a655521-9c8e-41b3-87b2-4d334563c511
+u00k$$h_Sand King$$u00k$$1c50f49c-d2ab-4d3b-a9bc-9fa3b16a70b2
+h03z$$h_Vengeful Spirit$$hvwd$$5e984996-da4a-4e27-bcc3-c22748a91986
+h040$$h_Lord of Olympus$$hmbr$$ac48c990-f482-4c89-8be1-98e2f98b140f
+h041$$h_Enchantress$$emoo$$7d252fd6-bb0f-434a-b5a0-91abc4e576ff
+h042$$h_Morphling$$o00p$$72bace03-3cca-459e-b58a-d4ec18015ee7
+h043$$h_Crystal Maiden$$hjai$$b8ee30c9-46ee-496c-8c4f-f3a51a0af7d3
+h044$$h_Rogue Knight$$h001$$d9040ef4-da8f-490b-8c36-93847b6299c5
+h045$$h_Naga Siren$$hc49$$8c77952c-4e3c-423d-9160-92d9df8e7aa9
+h046$$h_Earthshaker$$otch$$7183c431-cacf-4a48-a558-8b4b2671ce5a
+h047$$h_Stealth Assassin$$hc92$$8acb19bb-7305-4f02-80f4-6a375b4d91a4
+h048$$h_Lone Druid$$n01o$$d3ed1c42-bf14-4aa1-a7d5-fa0149bd0020
+h049$$h_Slayer$$h004$$998d5dea-c7d0-4e12-8a17-85518e68d57e
+h04a$$h_Juggernaut$$nbbc$$4993390e-f9c3-4646-b061-df1f25198f1b
+h04b$$h_Silencer$$n01a$$1266993c-d650-46aa-b98f-88497ba22b22
+h04c$$h_Treant Protector$$hamg$$d8a351d2-6a44-4093-80b8-5a030fe19f07
+h04d$$h_Enigma$$uktl$$49d38a2c-64e5-4981-9025-5d44aa49fd93
+h04e$$h_Keeper of the Light$$hblm$$21baa57a-c78d-46b0-9f61-37f06e18c52f
+h04f$$h_Ursa Warrior$$huth$$da4c9fc7-2796-454d-9d53-77afed7938fb
+h04g$$h_Ogre Magi$$hmkg$$ff8ef79c-2cf5-4648-9151-3f328f7ae0c7
+h04h$$h_Tinker$$ntin$$acc74821-5c3b-4ae2-bdf1-0d070afc24b2
+h04i$$h_Prophet$$emns$$0eb7d58b-6881-4cd8-8ae4-b42a8a4c9499
+h04j$$h_Phantom Lancer$$ogrh$$e11290b8-b990-4481-85be-42ea7db2cf9c
+h04k$$h_Stone Giant$$ucrl$$f6adb0cb-1e96-4571-a822-ed65cee0e142
+h04l$$h_Goblin Techies$$h00k$$11078ca8-6681-4a81-b2da-9e9ca4500337
+h04m$$h_Holy Knight$$h00a$$d5ab4c09-22b6-46b9-9c90-ade7d0fcc46f
+h04n$$h_Moon Rider$$e005$$0cb44b69-4a9f-4db3-94d2-406225e0e360
+h04o$$h_Dwarven Sniper$$usyl$$2e29043a-d75d-4836-ada6-7dcbf8bf0542
+h04p$$h_Troll Warlord$$n016$$3e2d3aab-cd92-4118-9080-6e0a6ca20e16
+h04q$$h_Storm Spirit$$h00s$$dcf59326-f979-4bba-b5e0-9abecd534e6a
+h04r$$h_Twin Head Dragon$$e00p$$54feffbb-31c8-49d1-9a66-2b49d2feb2d6
+h04s$$h_Beastmaster$$h00d$$ad3278ee-8d41-42ee-bae3-2c4d322855b3
+h04t$$h_Anti-Mage$$edem$$def2ed21-2371-43cc-8ccc-195f163377e1
+h04u$$h_Bristleback$$h008$$632ac976-98d9-4e34-bfab-b68c847a20ed
+h04v$$h_Dragon Knight$$hlgr$$30897034-b60b-4f63-9760-c550205d7683
+h04w$$h_Priestess of the Moon$$n01v$$77f9cf0d-44d5-4c1a-a23b-e6d3b38493e0
+h04x$$h_Centaur Warchief$$h000$$9ac36bde-4f06-44bb-a7ad-7783cf04c5f1
+h04y$$h_Sacred Warrior$$h00q$$155a07de-4cf9-4b13-be0d-dc72442df76d
+h04z$$h_Omniknight$$harf$$70dd1a3c-3333-49c1-9312-0d9f51653a82
+h050$$h_Faerie Dragon$$n00b$$445d2f6e-0bb9-46a5-8b39-f2d449598366
+h051$$h_Clockwerk Goblin$$h00t$$f5d12c36-eba3-4457-af47-68b356447b5f
+h052$$h_Bounty Hunter$$naka$$325f48a5-0353-4773-aa46-519cfa359727
+h053$$h_Pandaren Brewmaster$$npbm$$8e3a491c-9ff6-4c27-ac8e-c150f55eacb9
+h054$$h_Alchemist$$n01i$$c33cba58-9d96-439f-8900-62067266166f
+h055$$h_Drow Ranger$$nbrn$$c7162128-1b61-4d93-8e56-9bf79aca5a9a
+h057$$h_Shadow Shaman$$orkn$$7208911b-76b1-47ac-bc32-608787010451
+h058$$h_Templar Assassin$$e01y$$1c282b8d-b2db-40cc-8985-3bc06ee20dbd
+h056$$h_Soul Keeper$$eevi$$090ba562-b23d-46e7-b3af-818bd474c02a
+h059$$h_Tormented Soul$$ekee$$13fe8f44-0936-4c5d-aaaa-205c3954835d
+h05a$$h_Lich$$ulic$$94bc4627-7661-4abe-90a4-65b944fafd20
+h05b$$h_Death Prophet$$uc76$$e6eddae8-03f7-433b-976c-05da4720cd74
+h05c$$h_Demon Witch$$uc18$$da367721-6eca-4b4a-9de3-fb41d999bbf1
+h05d$$h_Venomancer$$ec57$$41619ae0-2a78-4bad-8de6-90d900d20947
+h05e$$h_Magnataur$$uc11$$f2db6ec0-0147-4294-b457-1953f91a43d6
+h05f$$h_Necro'lic$$uc60$$d1e246e5-7b35-4d42-9ea0-11138a9524a1
+h05g$$h_Chaos Knight$$u00a$$d0f9d06a-8040-4672-ae61-d4e50aadf3eb
+h05h$$h_Lycanthrope$$u008$$72d0acb8-09ed-41ec-bd03-804903a47a7f
+h05i$$h_Broodmother$$u006$$bb7c3908-dfb1-4148-9b8f-3ef746890e45
+h05j$$h_Phantom Assassin$$ewar$$0ba201bb-72e8-444f-a1b8-6cde95c30d91
+h05k$$h_Gorgon$$h00v$$8f684d87-cbff-4d9f-bbb9-a523a72a640c
+h05l$$h_Night Stalker$$udre$$9384c389-ade7-448e-8149-0f42b1904c15
+h05m$$h_Skeleton King$$nc00$$509faefb-9545-4f9f-bbb4-9cf63a4f76bb
+h05n$$h_Doom Bringer$$uc42$$bf4c26d7-d72c-4677-9bd2-788ee456e289
+h05o$$h_Nerubian Assassin$$u000$$08fd19d6-0093-4216-aeb6-c359711519d0
+h05p$$h_Slithereen Guard$$uc91$$02156f48-e690-457c-9f5b-ccb75a8b74e1
+h05q$$h_Queen of Pain$$uc01$$6e210479-d560-4f05-af8a-a5f00f506277
+h05r$$h_Bone Fletcher$$e004$$16e941f6-001a-4474-bf84-acd4acc2c6bd
+h05s$$h_Faceless Void$$ec45$$601ead08-9484-411d-a089-32a6a454163b
+h05t$$h_Netherdrake$$ec77$$8ff96973-d88a-4158-8dab-05c9bc30b1c2
+h05u$$h_Lightning Revenant$$e002$$5fc1945c-eabc-4632-b09a-5f277a1821d3
+h05v$$h_Lifestealer$$u00c$$2b1f20ee-0082-4a49-a5e2-8e57cd3eea3a
+h05w$$h_Oblivion$$h00h$$14711dce-af68-41ce-9f22-2a9190f69acd
+h05x$$h_Tidehunter$$ofar$$9a655521-9c8e-41b3-87b2-4d334563c511
+h05y$$h_Bane Elemental$$oshd$$e56aa624-bea4-40ec-97da-c8a30f7f883a
+h05z$$h_Necrolyte$$u00e$$d5e88b56-5ddc-4d88-a5d5-37419dd37d94
+h060$$h_Butcher$$u00f$$55338626-7928-4ddd-8558-e2bf89ac54e4
+h061$$h_Spiritbreaker$$o00j$$4b1c275e-889c-4f02-81cd-2d9b4c7ba2a5
+h062$$h_Nerubian Weaver$$ubal$$2bd8d781-c55e-4aa5-a81f-0dafe046312e
+h063$$h_Shadow Fiend$$nfir$$27887272-73e0-46b5-bcc8-85aa2e1087ae
+h064$$h_Sand King$$u00k$$1c50f49c-d2ab-4d3b-a9bc-9fa3b16a70b2
+h065$$h_Drow Ranger$$nbrn$$c7162128-1b61-4d93-8e56-9bf79aca5a9a
+h066$$h_Bloodseeker$$hvsh$$211ffa6b-5724-4ed7-a284-f91363e26a2b
+h067$$h_Lord of Avernus$$udea$$4ab4a463-500e-4a30-81ca-da51d44b4829
+h068$$h_Spectre$$e01b$$28842af3-c152-45b1-806d-c6d4cb83410b
+h069$$h_Witch Doctor$$e01a$$d20cd52d-557e-478a-802d-ce0f7b2814df
+h06a$$h_Obsidian Destroyer$$u00p$$585a278d-b19b-4d8b-8402-874882bc44b2
+h06b$$h_Invoker$$h00u$$6dda0e15-3941-40bc-ab78-9caeb3ccb621
+h06c$$h_Warlock$$e01c$$032bcf5b-ec59-4438-9a6c-a1162c0124e4
+h06d$$h_Geomancer$$h00i$$33db4c94-2937-4d90-93a7-aa088335d378
+h06e$$h_Shadow Priest$$n01w$$e341478b-4599-4880-a555-0590fd249350
+h06f$$h_Pit Lord$$n00r$$07593e6c-84fc-4c89-8d04-a7b2cce6a8f9
+h06g$$h_Undying$$h00r$$9da6652a-890f-47b2-b0e7-84656a138978
+h06h$$h_Dark Seer$$h00n$$e2403ba7-85f3-419a-aa5e-7f9f9998eecd
+h06t$$h_Admiral$$h06s$$c0c2d114-b6a2-4786-a1d5-60cb67db7fea
+h06z$$h_Keeper of the Light$$hblm$$21baa57a-c78d-46b0-9f61-37f06e18c52f
+h072$$h_Murloc Nightcrawler$$h071$$d4f32659-98d2-4882-92eb-b873d73b0705
+h07a$$h_Windrunner$$n0eg$$afcb8c0e-b79e-4109-8759-638fb4704c37
+h07p$$h_Tauren Chieftain$$o015$$eb89cea5-3dba-4cbc-8327-c623c6f8f389
+h07r$$h_Batrider$$o016$$f1590699-1186-4282-b81c-20c4254c299b
+h0b0$$h_Ancient Apparition$$n0hp$$e1ea784f-a110-4c6f-b346-78401fc92783
+h0c8$$h_Phoenix$$e02f$$7721ba49-53f5-44bd-9621-31fc932ca382
+h0c9$$h_Tuskarr$$e02i$$0d582e71-46af-42c4-8fa3-2511319cd79d
+h0cb$$h_Shadow Demon$$e02h$$47b98b04-1141-451e-85e2-554b68759b92
+h0cc$$h_Gyrocopter$$e02n$$13c66bf1-64f7-4522-80a9-48b7f3367b88
+h0cd$$h_Disruptor$$e02j$$79111a13-2f21-4109-a48b-93cef64d6403
+h0ci$$h_Guardian Wisp$$o01f$$742ef756-f341-42a0-bf23-a01a6786e0b7
+h0ct$$h_Grand Magus$$e02x$$3534b878-07f5-4489-919e-d3206993925d
+a07z$$a_hamg$$Overgrowth$$f0a03abc-1044-4c61-aa3e-79da21e69be7
+a01z$$a_hamg$$Nature's Guise$$bc053746-3e02-43da-bd3f-9ca821935d50
+a26n$$a_hamg$$Leech Seed$$ec1d5877-98fe-4262-9f11-3ceb93e0936f
+aamk$$a_****$$Attribute Bonus$$a13e1b87-1582-4cd3-a77c-456e3ab9da8c
+a24o$$a_hamg$$Living Armor$$6a1c7ec2-2db3-43a5-8928-d7cd2877344b
+a085$$a_hblm$$Illuminate$$2486a978-66ed-4f79-98ea-89f0cc216a42
+a10x$$a_hblm$$Mana Leak$$acbf2128-6871-4f93-b4fd-0fd938d22230
+a11t$$a_hblm$$Spirit Form$$4cc9941e-9b5e-4c50-85dc-0d897868fa27
+a112$$a_hblm$$Chakra Magic$$f12541a8-3fa9-4f01-b0bb-3d5580703c40
+a0nr$$a_****$$Attribute Bonus$$a13e1b87-1582-4cd3-a77c-456e3ab9da8c
+a011$$a_hmkg$$Ignite$$85cc99a1-c1a3-4115-8dcd-f5f11ee367cd
+a04w$$a_hmkg$$Fireblast$$ec02b55b-9202-41af-8f86-1f207a5fefaa
+a083$$a_hmkg$$Bloodlust$$1921c86c-2f1f-429d-9f5f-052c57550c90
+a088$$a_hmkg$$Multi Cast$$081b1546-a144-4edf-8b82-47ec9038e2c7
+a03z$$a_ofar$$Ravage$$05466493-7607-4712-971c-922e439932bb
+a226$$a_ofar$$Anchor Smash$$d2030e04-8fb8-40a4-ad1e-63e87aa8aaeb
+a046$$a_ofar$$Gush$$f324c6c7-d9fd-42b6-be31-e44d689d9274
+a04e$$a_ofar$$Kraken Shell$$bea3f814-201f-400a-8816-934b9495adaf
+a02q$$a_oshd$$Fiend's Grip$$ab45539d-a333-41e6-bed0-5d3ef059e725
+a0gk$$a_oshd$$Brain Sap$$40e46369-a0ea-4900-9179-501739db6802
+a04v$$a_oshd$$Enfeeble$$1ac33ae2-5106-43fa-b929-4fd5de19e4ea
+a04y$$a_oshd$$Nightmare$$f34ef447-25d1-41cc-9847-98a6166927ea
+a0dh$$a_otch$$Echo Slam$$a83c0d38-a476-4a22-916d-bdb90434f429
+a0dl$$a_otch$$Enchant Totem$$9f39fb2e-f90b-4720-8bd9-218f6e586024
+a0sk$$a_otch$$Fissure$$1d237522-c954-421a-bfd1-67813cb3991c
+a0dj$$a_otch$$Aftershock$$8280318d-982b-49b6-86fd-12ad094e5a5a
+a0ky$$a_edem$$Spell Shield$$7426c882-0fe1-4c0e-a602-45db89868b6c
+a022$$a_edem$$Mana Break$$8bc8858a-4a1b-43ab-851a-257f7d09ad95
+aebl$$a_edem$$Blink$$62421de8-6dfe-4bec-8bd1-1e65fbccfb3e
+a0e3$$a_edem$$Mana Void$$965bb839-dc39-4bb7-b85f-a0533008744b
+a20t$$a_ekee$$Diabolic Edict$$3ac930f4-a93f-4f56-bc2a-8f324c65c703
+a06w$$a_ekee$$Split Earth$$a83c0d38-a476-4a22-916d-bdb90434f429
+a06v$$a_ekee$$Lightning Storm$$a6f8bff9-f9c7-44af-89ff-a2f6b26434c3
+a21f$$a_ekee$$Pulse Nova$$eb612163-d584-4872-96d9-3c6e6c2fb4b4
+a0dx$$a_emoo$$Enchant$$8391e8b8-ce30-42da-ab61-4892e8589e87
+a01b$$a_emoo$$Nature's Attendants$$fbf38d58-606a-416b-8323-ee4c97618ef2
+a0dw$$a_emoo$$Untouchable$$59987c0f-8e51-46e7-9316-4022207ebfc2
+a0dy$$a_emoo$$Impetus$$9f0b4ef1-b19e-41b3-9eb8-22fa41bf6773
+a0ym$$a_ewar$$Stifling Dagger$$9d7969e6-f5be-4367-8850-04c9401ea97a
+a0pl$$a_ewar$$Phantom Strike$$f6538ba9-18c1-40bc-a56e-c83e03867b3a
+a03p$$a_ewar$$Blur$$629bc7ad-98b5-489b-8a3b-64a25f10a6de
+a03q$$a_ewar$$Coup de grâce$$52d956c2-cb24-4c84-9a5d-4a59776a2980
+a19q$$a_ucrl$$Craggy Exterior$$94389ce0-f8a3-45d4-98c9-eff6ae0097cc
+a0cy$$a_ucrl$$Grow$$18d47d16-524a-4c8e-b057-eb0c34a2239b
+a0ll$$a_ucrl$$Avalanche$$05c839b3-b0e3-422e-b0fd-d55fef5d0a15
+a0bz$$a_ucrl$$Toss$$a363e3d5-ace8-4604-abdd-e767070248d1
+a0ns$$a_udea$$Borrowed Time$$2d14743a-2d82-4de4-ab70-828efecb9794
+a0mg$$a_udea$$Frostmourne$$e9447e14-3468-4172-b8ac-e4fe65b76086
+a0i3$$a_udea$$Death Coil$$9c359976-0c10-4ff8-ba96-1a6de585f6d6
+a0mf$$a_udea$$Aphotic Shield$$4ece7fda-daf7-45ca-893f-844a6f1fedc5
+a086$$a_udre$$Hunter in the Night$$2932b7c9-c9fc-4dc6-8328-abdc83003ca6
+a08e$$a_udre$$Crippling Fear$$8db93a32-01af-43df-ae3f-24d50e8d25a7
+a03k$$a_udre$$Darkness$$0f9774eb-2d4c-4213-8eec-ef9868c9a202
+a02h$$a_udre$$Void$$a9f45afe-06da-43a9-9d4f-35047a25c219
+a053$$a_ulic$$Dark Ritual$$0445290b-8375-43a5-861e-b9b337a9ef93
+a07f$$a_ulic$$Frost Nova$$76df8e04-0fc7-4130-9c44-b4f37a301459
+a08r$$a_ulic$$Frost Armor$$d421b821-ff11-4f09-a90c-37bcfd1ac7ae
+a05t$$a_ulic$$Chain Frost$$de401b0a-835a-40dc-94e9-e40afaa1baa1
+a0qb$$a_nbrn$$Silence$$69164937-cac0-4220-9350-7c4153d868c3
+a029$$a_nbrn$$Trueshot Aura$$df9b4d43-1a52-4085-875f-ec412e7faf6d
+a026$$a_nbrn$$Frost Arrows$$d81c1de5-399d-430c-a7c9-921fc13de1a4
+a0vc$$a_nbrn$$Marksmanship$$63e55259-b833-40c0-a9dd-8c0fc487d7c0
+a06m$$a_npbm$$Thunder Clap$$8e4db0e9-b135-4c4b-8dac-adb575777ffb
+acdh$$a_npbm$$Drunken Haze$$f00339e0-ab28-4c0d-91ff-d61d3f27221f
+a0mx$$a_npbm$$Drunken Brawler$$be135110-8966-4178-a862-997eab6f2e1d
+a0mq$$a_npbm$$Primal Split$$78d935aa-09af-4286-802f-81c809ad22ce
+a065$$a_ntin$$Rearm$$7f847056-4422-4e43-82cf-9a80610d9223
+a049$$a_ntin$$Laser$$e979008d-7172-468d-bdf2-b391db299056
+a05e$$a_ntin$$Heat Seeking Missile$$6b8e86c6-8125-40c2-adbc-5cb0c76cb386
+a0bq$$a_ntin$$March of the Machines$$545c9495-87d3-4af1-ab13-d9a862af52d1
+a0fu$$a_nfir$$Presence of the Dark Lord$$3c29870f-2ac4-4bf3-8c2b-b0b5352351cd
+a0br$$a_nfir$$Necromastery$$37b0643c-e8bf-4747-afa1-c51e22ffb7f6
+a0he$$a_nfir$$Requiem of Souls$$3e4f134a-f755-463d-bcf1-a88806eb2d81
+a0ey$$a_nfir$$Shadowraze$$9c359976-0c10-4ff8-ba96-1a6de585f6d6
+a275$$a_eevi$$Zeal$$2151f376-ec17-4513-bf55-3db8d012852b
+a07q$$a_eevi$$Sunder$$aefa685f-cc65-48b3-b804-23ee95c1bae7
+a1ri$$a_eevi$$Metamorphosis$$d5235e2b-2bc6-456c-9f33-59c60ee887fe
+a27a$$a_eevi$$Reflection$$85ca7f29-0646-488e-b035-8eb6a2aa47ec
+a21e$$a_emns$$Sprout$$91989e2f-f3bc-4ba1-8a3c-c897ef3ea150
+a01o$$a_emns$$Teleportation$$8ee168a3-64dc-4fb4-b621-0064dd4fdc0e
+aefn$$a_emns$$Force of Nature$$73fe5bdd-4435-43dd-aeb2-08bb3162247b
+a1w8$$a_emns$$Wrath of Nature$$80fb06c6-75b4-421c-b246-5e4fffc3c2e0
+a08n$$a_harf$$Purification$$5824579f-028c-4a0a-95ce-67aec8d3013e
+a08v$$a_harf$$Repel$$cea17f1e-d2ae-47df-ac22-cf91ae989678
+a0er$$a_harf$$Guardian Angel$$7325c532-0498-4c6c-b4ae-921263581a5f
+a06a$$a_harf$$Degen Aura$$a3d94594-cb26-48fe-b4d7-aebd7cab5da1
+a1e9$$a_hjai$$Crystal Nova$$5c4a79a1-c45c-4125-a756-04c2b5e321fc
+a04c$$a_hjai$$Frostbite$$25c41eb6-0a1c-4d61-aad3-a9bc15dd78b3
+ahab$$a_hjai$$Brilliance Aura$$f01abc1a-b976-4684-9422-a9a0bd0e0a62
+a03r$$a_hjai$$Freezing Field$$3ca209c9-6cdf-415b-a43a-fd9d2ca3c2ed
+a03g$$a_hlgr$$Elder Dragon Form$$1ac0c490-fbcf-41f5-8e83-65578c497159
+a03f$$a_hlgr$$Breathe Fire$$72dc18bd-bcdb-4c4b-920f-c71e29de3e3d
+a0ar$$a_hlgr$$Dragon Tail$$2a83b789-f4fc-43c6-a4ce-6611f399cc2e
+a0cl$$a_hlgr$$Dragon Blood$$33024e8d-764b-4726-af42-4e4eef355871
+a020$$a_hmbr$$Arc Lightning$$55c84b4b-2f10-4508-bcab-1dd805941cc7
+a0n5$$a_hmbr$$Static Field$$b2a3d1ac-527a-44fd-90ff-789191366ae3
+a0jc$$a_hmbr$$Lightning Bolt$$053b7314-9a26-4b90-8f9b-5783be47800a
+a07c$$a_hmbr$$Thundergod's Wrath$$396edbb6-385f-4a96-b9b6-e892556ee5a7
+a1n4$$a_huth$$Overpower$$f6572dd5-e998-4a31-88c5-0643077ad799
+a0lc$$a_huth$$Enrage$$ad0b90cc-3dd7-409d-a716-e2c71d4bb93c
+a03y$$a_huth$$Earthshock$$a83c0d38-a476-4a22-916d-bdb90434f429
+anic$$a_huth$$Fury Swipes$$ba4f0460-fd30-4703-b9eb-3ba66fe92bca
+a0lh$$a_hvsh$$Rupture$$a5826b87-42ff-4d70-8503-ff4d26a91f43
+a0i8$$a_hvsh$$Strygwyr's Thirst$$095a8016-36fc-47e3-9bd3-d5083fe91b93
+a0ec$$a_hvsh$$Bloodrage$$cbae4ab4-eb0b-4086-ae53-47c7e3ba62fd
+a0le$$a_hvsh$$Blood Bath$$8ebc4514-1632-4abf-babd-ce21c2b99c1b
+a02a$$a_hvwd$$Magic Missile$$ae25e043-1c5b-481c-ac37-838fcce4960c
+acac$$a_hvwd$$Command Aura$$6e2b3d0f-a3ee-464c-9e04-15c9d79d5642
+a17o$$a_hvwd$$Wave of Terror$$21cc4f91-a405-4da4-9c15-89120bae4501
+a0in$$a_hvwd$$Nether Swap$$f9dbb866-a8c6-451a-a364-b781a73bf8f2
+a047$$a_nbbc$$Healing Ward$$aae13708-eee0-4dca-b1a0-44afd6251eee
+a05g$$a_nbbc$$Blade Fury$$3e4f4c88-fcaf-4a81-a34c-a4328b11268b
+a00k$$a_nbbc$$Blade Dance$$c77311a5-97e3-4b75-a3b0-396a737d2dec
+a0m1$$a_nbbc$$Omnislash$$555575e4-142a-4c67-bc73-764636020167
+a0db$$a_ogrh$$Juxtapose$$bef55b38-262e-432d-9fb5-7fd953a00276
+a10d$$a_ogrh$$Spirit Lance$$aeab6888-4b40-44bb-9274-95d70e87db80
+a0d7$$a_ogrh$$Doppelwalk$$2a3688c9-a360-49b0-8e97-d624af76ad6f
+a0yk$$a_ogrh$$Phantom Edge$$4b240e12-3020-484f-a430-0edcb9427266
+a0i6$$a_opgh$$Berserker's Call$$82f5c922-3caf-4278-bd31-1e31c0937f40
+a0s1$$a_opgh$$Battle Hunger$$25122c4d-8696-4505-b4ff-002c5a5f2457
+a0c6$$a_opgh$$Counter Helix$$5d8067a8-48da-46b9-bcad-e09b097b7efd
+a0e2$$a_opgh$$Culling Blade$$81b95e53-1cb1-4d0e-9a7b-5e51f6eb19d1
+a00p$$a_orkn$$Shackles$$a52a3903-f740-4abc-b28a-a922d393fadf
+a0rx$$a_orkn$$Voodoo$$b9f682eb-c212-46e5-86bc-cb81168a56e3
+a010$$a_orkn$$Ether Shock$$3a65830e-e628-4774-9dcd-12e11860d9bb
+a00h$$a_orkn$$Mass Serpent Ward$$ecfbcef0-f558-4ed1-b675-a898f806a7a1
+a1qw$$a_ubal$$The Swarm$$a0e38fe9-6d13-4cb5-9e71-a6542bc8fae1
+a0ca$$a_ubal$$Shukuchi$$b6fc1150-1a9f-41c2-acf2-93e6262dca6e
+a0cg$$a_ubal$$Geminate Attack$$408cee6c-ca28-42fa-ac39-868007681948
+a0ct$$a_ubal$$Time Lapse$$290862de-75bb-4c0e-92e3-9108fc37c33e
+a0i7$$a_uktl$$Malefice$$e3d9a220-0194-4275-8627-8db4906cc3bd
+a180$$a_uktl$$Demonic Conversion$$1c12855e-68ab-4fdf-9c9e-ac2c7ffd530d
+a0b1$$a_uktl$$Midnight Pulse$$f3d21c05-f96d-485f-bb70-adb8ad51eefc
+a1bx$$a_uktl$$Black Hole$$dd282809-aa28-4702-8979-f162750550bc
+a04p$$a_usyl$$Assassinate$$c08c96ff-ffc1-412c-83ce-a4960a1699ba
+a03u$$a_usyl$$Take Aim$$82fc0609-087f-483c-8155-e4bb9d4ef685
+a03s$$a_usyl$$Headshot$$d86f1f54-d59c-4df8-91ee-1ddb26b62569
+a064$$a_usyl$$Shrapnel$$c840f18d-4eae-4652-b61a-9d92a20f3947
+a1iq$$a_naka$$Jinada$$8d71d01f-6f67-4cfc-8517-8550171d7f74
+a07a$$a_naka$$Wind Walk$$2dcbcee3-592e-4a46-916c-1a9a134b9350
+a004$$a_naka$$Shuriken Toss$$6b4a754a-62dd-4506-be97-e79809d68910
+a0b4$$a_naka$$Track$$1f8199ec-984d-4a4c-a9f9-cb6b103c0766
+a173$$a_ec57$$Venomous Gale$$37884853-9c00-48e6-b70f-f8574a7cd807
+a0my$$a_ec57$$Poison Sting$$236dc505-07c5-45f1-8e2a-456d89a20b00
+a0ms$$a_ec57$$Plague Ward$$bdfd5746-5292-4c2a-9770-063971cb4edb
+a013$$a_ec57$$Poison Nova$$d93f5f11-6781-4c2d-a782-87d934951a01
+a1a3$$a_ec77$$Nethertoxin$$d0397003-c793-4658-8cab-1fa7053773e2
+a080$$a_ec77$$Viper Strike$$6fd70181-9e6d-4793-a218-403ef6da7c3a
+a09v$$a_ec77$$Poison Attack$$834610a9-ac9c-4951-9abf-ae1ccdcb1bab
+a0mm$$a_ec77$$Corrosive Skin$$59987c0f-8e51-46e7-9316-4022207ebfc2
+a06r$$a_u00k$$Epicenter$$a83c0d38-a476-4a22-916d-bdb90434f429
+a0h0$$a_u00k$$Sand Storm$$0145af41-437e-4f08-b581-89f11ffd24a8
+a06o$$a_u00k$$Burrowstrike$$60bcf855-694b-43b3-a0fa-7b74d609f78c
+a0fa$$a_u00k$$Caustic Finale$$bd41a4ec-a506-429f-b881-70ba6ba653bd
+ahtb$$a_nc00$$Hellfire Blast$$30fbd0d5-87b6-40f6-baab-6b319b273e3f
+aocr$$a_****$$Critical Strike$$75063b3a-20d5-4315-8dac-472c230150fd
+auav$$a_nc00$$Vampiric Aura$$004cdea0-5761-4cc6-9fad-495dc7109810
+a01y$$a_nc00$$Reincarnation$$af76f4a5-5723-46dc-ab92-9b70d7318976
+a0x5$$a_uc18$$Impale$$60bcf855-694b-43b3-a0fa-7b74d609f78c
+a0mn$$a_uc18$$Voodoo$$b9f682eb-c212-46e5-86bc-cb81168a56e3
+a02n$$a_uc18$$Mana Drain$$b4669f9b-4418-4d9e-aa94-c0468254050e
+a095$$a_uc18$$Finger of Death$$85eb55b4-3f2e-4c62-9ecd-e43f4b85101d
+a081$$a_ec45$$Time Lock$$0660bf00-e106-46ec-8d2b-cc37314b9a9d
+a0cz$$a_ec45$$Backtrack$$1ab8c5d4-635e-4bd2-91af-8b143678c54e
+a0lk$$a_ec45$$Time Walk$$2f5c3648-d556-43e4-9b79-45417a168219
+a0j1$$a_ec45$$Chronosphere$$49095cf8-b3d8-4837-9e9d-acf42716b5b9
+a0be$$a_n016$$Berserker Rage$$81b95e53-1cb1-4d0e-9a7b-5e51f6eb19d1
+a21l$$a_n016$$Whirling Axes$$9cb41130-44e7-44e9-8d74-0f52887b81a9
+a0o0$$a_n016$$Fervor$$41fb1547-61bf-464c-9a86-7738d0a7de84
+a1ej$$a_n016$$Battle Trance$$af396af3-51b0-422e-b046-617a7e56f895
+a094$$a_uc42$$LVL? Death$$2bb99661-7b12-4a92-bbc8-562f800bdcde
+a10r$$a_uc42$$Devour$$46d27d81-a86b-40ba-b105-a964b28fd496
+a1op$$a_uc42$$Scorched Earth$$94091f1c-ce0c-4589-b6d4-50fd19c87c85
+a0mu$$a_uc42$$Doom$$ce315863-3bad-4bf0-9b08-643f0538c47f
+a0wq$$a_u006$$Insatiable Hunger$$045f4b11-e08e-4827-a88e-1d25910427cc
+a0bk$$a_u006$$Incapacitating Bite$$46d27d81-a86b-40ba-b105-a964b28fd496
+a0bh$$a_u006$$Spawn Spiderlings$$a2cf0f57-9b62-4e33-bf86-2a12c12ea9f6
+a0bg$$a_u006$$Spin Web$$713c50e0-04c1-426e-be2c-8c6bb80ab87f
+a1e7$$a_e002$$Plasma Field$$73d633e5-91db-4c52-93c5-2a1b6a66551e
+a1dp$$a_e002$$Static Link$$6d3d1279-df0e-4598-a6d6-e3a0f42ee327
+a1e6$$a_e002$$Unstable Current$$81dbd087-1387-4094-aac8-27924846d60b
+a1ao$$a_e002$$Eye of the Storm$$49c16aa4-2635-4741-8f14-c24774372bdd
+a06h$$a_h00k$$Stasis Trap$$fe7642ec-d8b8-423a-97be-43b44a6faab8
+a05j$$a_h00k$$Land Mines$$fa1b30bc-b9f6-4ec0-88b1-4e1bd030bfe2
+a06b$$a_h00k$$Suicide Squad, Attack!$$312c1f1b-a7ac-4d56-84c0-e4503671e74b
+a0ak$$a_h00k$$Remote Mines$$6c9ab6a5-e236-4c7b-93d8-3fa890cc313c
+a23y$$a_hc49$$Rip Tide$$8e280b2f-e5a2-49d4-9ea9-c6a658a6e598
+a24d$$a_hc49$$Ensnare$$d41e3d9a-ed74-4bd0-90a2-9f6708d573a0
+a063$$a_hc49$$Mirror Image$$3fa58bab-b013-4cc9-94c1-30d62791dc95
+a07u$$a_hc49$$Song of the Siren$$3952963d-68c0-4b2f-939c-4c4b187c69cb
+a0q7$$a_uc01$$Shadow Strike$$6fd70181-9e6d-4793-a218-403ef6da7c3a
+a0me$$a_uc01$$Blink$$62421de8-6dfe-4bec-8bd1-1e65fbccfb3e
+a04a$$a_uc01$$Scream of Pain$$8db93a32-01af-43df-ae3f-24d50e8d25a7
+a28r$$a_uc01$$Sonic Wave$$53001fd7-d541-410b-9221-64f6133e9ee9
+a0dz$$a_hc92$$Backstab$$fc0bebcf-3e31-401b-91d4-e46fbf952eb2
+a0k9$$a_hc92$$Blink Strike$$5e55f557-65a6-4383-9846-a26d1955a901
+a00j$$a_hc92$$Permanent Invisibility$$b0dc0095-c210-4e3f-9109-7dd18367325c
+a0rg$$a_hc92$$Smoke Screen$$fca90d1d-63cf-41e2-9429-fc26cf2da45c
+a03e$$a_u008$$Feral Impulse$$a0734207-81cc-4fac-9463-a0ee3eb57e94
+a0zf$$a_u008$$Howl$$21cc4f91-a405-4da4-9c15-89120bae4501
+a093$$a_u008$$Shapeshift$$77e946d0-847b-4cf4-adec-d3d34cf83ec1
+a03d$$a_u008$$Summon Wolves$$17841c07-713f-479f-86a8-0173e6357231
+a0a5$$a_n01o$$Summon Spirit Bear$$9f699985-c445-49fa-8374-4c7bc78aa3e9
+a0a8$$a_n01o$$Synergy$$e111b2cf-d9ca-4ab2-98e2-f6a2117466c5
+a1ef$$a_n01o$$Rabid$$6a4dcfc1-1a50-443b-82c4-bc13ec2c3482
+a0ag$$a_n01o$$True Form$$299e8ac7-e9f7-4675-a93d-d45f2a0fa82a
+a0x7$$a_u000$$Impale$$e2fa0a07-08c2-4c53-abb5-b5d1d3afbac6
+a09u$$a_u000$$Vendetta$$2dcbcee3-592e-4a46-916c-1a9a134b9350
+a1h5$$a_u000$$Mana Burn$$bbc96a84-1c84-4f48-9f16-f92168c1eedb
+a00t$$a_u000$$Urna Swarm$$476734ba-1fb8-4b13-b971-7e72f0e3c9f3
+a01l$$a_h000$$Great Fortitude$$46659daa-c963-419a-9eff-b4c3f04ac897
+a00l$$a_h000$$Double Edge$$06a11355-d88e-4d86-8cd1-f6055a63da78
+a00v$$a_h000$$Return$$31830994-ad78-44ee-8584-5ed0a0c717c7
+a00s$$a_h000$$Hoof Stomp$$2a375faf-370d-44de-9229-77c5d7149bcc
+a0g6$$a_o00p$$Adaptive Strike$$ecf4b96f-0d24-4afe-8995-f68d053be2ce
+a0g8$$a_o00p$$Replicate$$69e736cf-73f0-480b-8d8e-5590bf5e1b4c
+a0kx$$a_o00p$$Morph$$5685e23f-ca9f-4333-b104-0b24d7a24af4
+a0fn$$a_o00p$$Waveform$$96520a98-36fd-43aa-8f9a-4726d9351551
+a02s$$a_uc11$$Shockwave$$1d237522-c954-421a-bfd1-67813cb3991c
+a037$$a_uc11$$Empower$$19e3fd17-2231-43ed-a69c-aaed3948d681
+a1rd$$a_uc11$$Skewer$$df7eb2a3-c72e-4553-878b-30094c19df1c
+a06f$$a_uc11$$Reverse Polarity$$ba34c4ef-0791-4b04-a0b1-4ddd7cc5b204
+a08x$$a_uc60$$Grave Chill$$1a81ebea-866c-4972-ab8c-de2a8dfd003b
+a1ne$$a_uc60$$Familiars$$5cf9c3cd-3e51-4296-a358-8245ad6c3b13
+a0vx$$a_uc60$$Gravekeeper's Cloak$$acf7d3ef-56f1-45b5-8d28-43bd5500ed8c
+a1na$$a_uc60$$Soul Assumption$$18fa1b5f-0422-4de8-82ea-bc63b30477ae
+a03o$$a_u00a$$Phantasm$$531b42c3-74c3-46c6-bd04-277987476800
+a03n$$a_u00a$$Critical Strike$$ed3a31a3-37c1-4505-9180-3dd1946bd906
+a0rw$$a_u00a$$Reality Rift$$11238f0d-977d-41f2-9c59-6c2343330843
+a055$$a_u00a$$Chaos Bolt$$34ca88de-d7d0-481c-9d5b-813aee293e3d
+a04q$$a_e004$$Death Pact$$f5508b66-4983-44cf-adf1-91423bbf2293
+a025$$a_e004$$Wind Walk$$2dcbcee3-592e-4a46-916c-1a9a134b9350
+a030$$a_e004$$Strafe$$b522fa81-d86c-4e7e-bf17-f45f4c184286
+ahfa$$a_e004$$Searing Arrows$$731afe8e-7c16-45ba-8799-1f7ead64d5b5
+a1p8$$a_o00j$$Charge of Darkness$$fb92c01a-8d0d-4e6f-8ee9-14a4077ab92d
+a0g4$$a_o00j$$Nether Strike$$bebe7e09-5dc4-471b-a4ab-d5b920e3100d
+a0g5$$a_o00j$$Greater Bash$$6c503987-9685-4a50-8a2e-7249c1a94e9e
+a0es$$a_o00j$$Empowering Haste$$1ad12f47-0ecb-405d-8628-4861714d79b8
+a09d$$a_h00h$$Nether Ward$$1e5aec3c-b246-46a8-ae8a-eb576ba8bbec
+a0mt$$a_h00h$$Nether Blast$$2486a978-66ed-4f79-98ea-89f0cc216a42
+a0ce$$a_h00h$$Decrepify$$1aaee8a9-7930-4c79-acb0-4f0108b99b46
+a0cc$$a_h00h$$Life Drain$$3e8c0d9e-c348-4680-a7fd-cd4ea929c2ae
+a067$$a_u00e$$Reaper's Scythe$$a1ef7b15-4fea-4009-95d9-2a176654b8a7
+a05v$$a_u00e$$Death Pulse$$14ffc796-de52-432a-aa28-3af0421a5db4
+a060$$a_u00e$$Sadist$$368b64dd-59ab-4560-8a77-a473e8462411
+a01n$$a_u00e$$Heartstopper Aura$$de755f34-68b8-4438-a377-07c481f46a83
+a02c$$a_uc76$$Witchcraft$$278158e4-d8f4-45d1-a889-ff721b9f0bcd
+a02m$$a_uc76$$Carrion Swarm$$a0e38fe9-6d13-4cb5-9e71-a6542bc8fae1
+a0p6$$a_uc76$$Silence$$fb2e6bef-d956-46ff-87f1-18e5904689a0
+a073$$a_uc76$$Exorcism$$80e96b8b-45d4-477d-81df-4d44c4971c39
+a05c$$a_uc91$$Sprint$$17d43027-9944-415b-992d-53620130fdfd
+a01w$$a_uc91$$Slithereen Crush$$915ba5e1-ad79-4827-8c96-45c311679577
+a0jj$$a_uc91$$Bash$$6f144ae9-9475-4506-ac2c-c02956eea232
+a034$$a_uc91$$Amplify Damage$$e2f4cd3a-3695-45f2-9b05-15e24e5e23b2
+a062$$a_e005$$Lunar Blessing$$58eeecac-d06c-4a1b-b89a-8640f08e19e2
+a042$$a_e005$$Lucent Beam$$0ed7768f-e318-4d06-9fd4-a1f2d56584f0
+a054$$a_e005$$Eclipse$$6e53933e-5141-4e00-bdfa-b7fdac3aa9af
+a041$$a_e005$$Moon Glaive$$7c39c752-c4ec-4601-a662-705a288f09a2
+a190$$a_h001$$Storm Bolt$$2812213c-2435-4679-89f1-06a93f55ed6f
+a01k$$a_h001$$Great Cleave$$11b01cc6-c64e-4830-8395-8f925ba2eb8e
+a1a5$$a_h001$$Warcry$$9a0d99a2-1e11-49a1-8e04-22904675f57e
+a1wh$$a_h001$$God's Strength$$95037df2-00e3-4b03-988f-1a93ee23af5f
+a0fv$$a_h008$$Warpath$$3cf643ae-b70a-43e1-8bda-8483cc3a73c7
+a0m3$$a_h008$$Bristleback$$2bf9150c-4b48-4b0b-9094-ab75f0e44750
+a0gp$$a_h008$$Quill Spray$$480365a0-31ed-4694-8c84-4956d66e8ccf
+a0fw$$a_h008$$Viscous Nasal Goo$$ff84c617-44ef-4f09-9d25-5cac04b08ec7
+a1at$$a_h00v$$Stone Gaze$$0ba545da-abbb-4b11-909a-6ffc9c33c207
+a0g2$$a_h00v$$Mystic Snake$$a8e7a994-f21f-4091-9ce8-20ef61800c48
+a0mp$$a_h00v$$Mana Shield$$9d9887c7-37fa-4b37-afaa-43057d5738ef
+a1c0$$a_h00v$$Splitshot$$4cecf2c9-8824-4158-82a4-956df7685af5
+a0lz$$a_n01a$$Glaives of Wisdom$$90dd31fd-f719-4575-91c7-08266ab59d0c
+a0mc$$a_n01a$$Last Word$$9204ca37-34ac-4357-8681-91ecb6440fee
+a14l$$a_n01a$$Curse of the Silent$$20cfb88e-39f3-44ba-9352-f996c9449152
+a0l3$$a_n01a$$Global Silence$$36d16846-0e8a-46f3-9dd7-6b1ec2b4c99e
+a01f$$a_h004$$Dragon Slave$$bd307ba4-7e19-4ad2-9930-462b86a04ac6
+a027$$a_h004$$Light Strike Array$$b18d49c6-dc28-41d3-9a7d-f263341d9b41
+a18x$$a_h004$$Fiery Soul$$9ba44854-4662-4c4c-b1de-77ad7aa62bab
+a01p$$a_h004$$Laguna Blade$$a1b279e7-daac-4649-8952-fc99aa818671
+a06i$$a_u00f$$Meat Hook$$60bcf855-694b-43b3-a0fa-7b74d609f78c
+a06d$$a_u00f$$Flesh Heap$$b2938a34-0b2e-45c3-bcd7-bd617d87edc0
+a0fl$$a_u00f$$Dismember$$ca6915eb-8d98-4520-9b47-55cbe2b66831
+a06k$$a_u00f$$Rot$$4cc9e58b-2f70-4175-8de9-4096e6fe16c5
+a0lv$$a_h00a$$Test of Faith$$6755ef5f-e927-49d7-9b26-12f8f3ef090b
+a28t$$a_h00a$$Holy Persuasion$$292a6fee-1634-457b-aed4-267b95448bd0
+a0lt$$a_h00a$$Hand of God$$02c48997-9ce5-4744-a163-da9587aa168b
+a0km$$a_h00a$$Penitence$$b7c77fd2-6ac1-4094-b717-a45423a9c760
+a0no$$a_e01a$$Maledict$$00d6bf41-f197-4ea7-8b6b-acdc5a3465c8
+a0nm$$a_e01a$$Paralyzing Cask$$15f71976-a11a-4c11-9f87-84dbb97c914a
+a0nt$$a_e01a$$Death Ward$$a5487d6f-3024-4ffe-a439-c04436c1b469
+a0ne$$a_e01a$$Voodoo Restoration$$09510a81-97fc-4ff0-be95-f6707af7fe1a
+a0fx$$a_e01b$$Desolate$$32db6438-3523-4bed-ae75-fdca84056af9
+a0na$$a_e01b$$Dispersion$$fdb4da35-332b-45e0-bc5a-dd981ac5e5c5
+a0hw$$a_e01b$$Spectral Dagger$$2a84b438-5a28-46b9-bda7-17c431470ec4
+a0h9$$a_e01b$$Haunt$$67e6091e-7ccd-4e4a-b601-61ab8ebba740
+a0oo$$a_h00d$$Call of the Wild$$a75fdbc5-a3b5-44ad-864b-66ce62b38eb1
+a0o1$$a_h00d$$Wild Axes$$1a417736-0ce2-4d6a-862e-9f2cd8ffe616
+a0bd$$a_h00d$$Inner Beast$$599788e9-2e15-4494-9ab8-14699de0bc8a
+a0o2$$a_h00d$$Primal Roar$$060c5d56-c6c4-413e-aa75-75dd1969429d
+a0o7$$a_e00p$$Dual Breath$$2bf0c146-9c57-42f2-b733-0c40f0f4aeb3
+a0o6$$a_e00p$$Ice Path$$cc29d80c-a2ad-4b17-8e84-c603bcfe3b56
+a0o8$$a_e00p$$Liquid Fire$$c9208834-bd88-46c1-b9f6-7ae108431b12
+a0o5$$a_e00p$$Macropyre$$94f4a074-2e26-4849-8516-c5892922c32b
+a0ok$$a_u00p$$Sanity's Eclipse$$33ae3d57-16d5-4d76-8984-a38e8821dabe
+a0oj$$a_u00p$$Astral Imprisonment$$5dffb034-4371-4e31-a96d-5db8e1c693ce
+a0oi$$a_u00p$$Arcane Orb$$a0ccc81c-1ccb-472c-b6f1-e3230d4cf3ba
+a0if$$a_u00p$$Essence Aura$$b2a3e379-7aa2-48d7-8c33-9f6f9fc8b419
+a0j5$$a_e01c$$Fatal Bonds$$cda2bdf2-2199-4969-a258-14658b83889d
+a0as$$a_e01c$$Shadow Word$$7c81f7a1-a0a0-4570-b2a0-50ecfae1e1a4
+a06p$$a_e01c$$Upheaval$$1b8bc43b-874a-46ca-a083-bb0bde237c6f
+s008$$a_e01c$$Rain of Chaos$$2186e35b-ef01-477a-8ed6-098097785b37
+a1ni$$a_n01i$$Unstable Concoction$$76d7705a-2bde-4c56-9f39-4d509f5c37f4
+a0il$$a_n01i$$Acid Spray$$c4b5d189-dbf3-462f-97d9-bddd9bbef3cd
+a0o3$$a_n01i$$Goblin's Greed$$0be76895-42cd-40b6-8a26-cf67bcdc5959
+ancr$$a_n01i$$Chemical Rage$$a098ce76-0eca-4d5b-9d16-3b63522e6e27
+a0l8$$a_n01v$$Elune's Arrow$$3f3808c2-2591-4e3e-95e2-8211dba6a338
+a0ln$$a_n01v$$Leap$$2829e458-5199-4d1e-9fb5-a216f1329e07
+a0kv$$a_n01v$$Starfall$$86f51176-af5d-465f-9c24-b185f8d26cf9
+a0ku$$a_n01v$$Moonlight Shadow$$87527432-0922-44af-a222-d58667757523
+a0n8$$a_h00i$$Poof$$a7c408d5-c9e3-4825-9048-b3176b94d1c0
+a0nb$$a_h00i$$Earthbind$$2ef98d3f-3d70-4ac8-acd2-a43a0a345343
+a0n7$$a_h00i$$Geostrike$$3142b275-dfb2-4f0b-bf8b-7d5adee4f2db
+a0mw$$a_h00i$$Divided We Stand$$5c6b884d-cc9c-4108-bd02-8b750ca642d4
+a10l$$a_n01w$$Shallow Grave$$01e9a9a0-9554-4112-a0ff-6368e11bd934
+a0or$$a_n01w$$Shadow Wave$$dee77a86-3704-4449-ae02-40db02bc9b28
+a10q$$a_n01w$$Weave$$c6025caa-948f-4fc5-87e7-cf01067cd1ab
+a0nq$$a_n01w$$Poison Touch$$ba205e53-77a0-4c08-957a-68954e24b95a
+a0qk$$a_h00n$$Wall of Replica$$83bdccda-2112-4514-b5a2-ef76f2318dd0
+a0r7$$a_h00n$$Surge$$509f19bd-da46-4392-b6b2-238bbbac7d07
+a0qg$$a_h00n$$Ion Shell$$86f1cb8d-2e5a-4035-9b1d-5934be16b6bf
+a0qe$$a_h00n$$Vacuum$$15c85e25-336f-43ad-a852-d816e461d23a
+a0qr$$a_h00q$$Life Break$$9efdba99-0315-4109-8a84-03c13b0266e1
+a0qq$$a_h00q$$Berserker's Blood$$6728fa30-a875-4b20-835b-0f70d931180f
+a0qn$$a_h00q$$Burning Spear$$6e43e3a2-01f6-45a7-9424-bb71dcc7e215
+a0qp$$a_h00q$$Inner Vitality$$1a45c0e9-12f4-4524-8105-a8a4b89802c1
+a0ra$$a_n00r$$Pit of Malice$$ad642ecf-8a3c-4ed6-b47f-1cf1af215ac5
+a288$$a_n00r$$Expulsion$$94091f1c-ce0c-4589-b6d4-50fd19c87c85
+a26o$$a_n00r$$Firestorm$$fab34844-c844-4e29-a618-eef3feda23a5
+a0r0$$a_n00r$$Dark Rift$$547ad5e8-b378-4e0b-aceb-c74726d0ce8c
+a15s$$a_h00r$$Decay$$b67ce488-f69c-4bcb-9ecc-af3f3e66742f
+a0r5$$a_h00r$$Soul Rip$$aff188b9-054a-45c1-ab9e-845e7c7eb6e7
+a15v$$a_h00r$$Tombstone$$7742c468-881b-418d-b0e3-baed7ee760a5
+a15j$$a_h00r$$Flesh Golem$$6608ca26-e7af-4037-9a91-b3b3cb956980
+a14r$$a_h00s$$Electric Vortex$$a1b279e7-daac-4649-8952-fc99aa818671
+a14p$$a_h00s$$Static Remnant$$cfa33023-f20c-41b1-a781-8cb55bdf33b3
+a14o$$a_h00s$$Ball Lightning$$4c120c26-7767-43e3-8928-dee9e7984b58
+a0qw$$a_h00s$$Overload$$36fd1e0f-ef43-4524-9496-b13591f0464f
+a0rp$$a_e01y$$Psionic Trap$$aaf5a312-34a7-4c3f-a7e3-81c27db57d0e
+a0ro$$a_e01y$$Psi Blades$$9b6184af-7ceb-48b9-ba87-a085a12815e6
+a1ea$$a_e01y$$Refraction$$6efe451a-c8e3-4378-8bc4-5ddd300f0e64
+a0rv$$a_e01y$$Meld$$386095bc-fd5b-4c53-b1a8-cb4d73810859
+a0s8$$a_n00b$$Dream Coil$$a1b279e7-daac-4649-8952-fc99aa818671
+a0sc$$a_n00b$$Waning Rift$$1fedf1d7-2f8f-428f-95d8-636661db7a1c
+a0sb$$a_n00b$$Phase Shift$$d36e8046-cde1-454d-8121-1e94608d8230
+a0s9$$a_n00b$$Illusory Orb$$2f2428b0-e8bd-40df-b841-56445715343b
+a0sw$$a_u00c$$Infest$$fd525f20-aceb-4844-9df0-f954e30547bd
+a0ss$$a_u00c$$Feast$$5633e67c-7cb6-41bc-a16b-664b8b8d36b5
+a0t2$$a_u00c$$Rage$$b538c989-f2a4-4e37-a501-e8a78dd3d1f3
+a194$$a_u00c$$Open Wounds$$e013606e-8d53-4b34-a534-c6726e979dbc
+a21y$$a_h00u$$Invoke$$4826f618-cb7f-4d43-8ba8-c2f2c4953aa5
+a21x$$a_h00u$$Wex$$2486a978-66ed-4f79-98ea-89f0cc216a42
+a21w$$a_h00u$$Quas$$290862de-75bb-4c0e-92e3-9108fc37c33e
+a21v$$a_h00u$$Exort$$48ec8e86-aa48-4bd4-bd66-73fe34305b61
+a0z8$$a_h00t$$Hookshot$$872bbb7d-5983-462a-bcc9-a3a28c2c2aec
+a0z6$$a_h00t$$Rocket Flare$$bb2a172a-c48f-40ec-b3aa-48e87f6bd4ae
+a0z5$$a_h00t$$Power Cog$$9741b438-9256-4da2-be21-c2444e7a1dc6
+a0z4$$a_h00t$$Battery Assault$$6c91909d-ea55-4b24-afe5-dcb7b82ae76e
+a136$$a_h06s$$Torrent$$2ad05903-7bb0-4f49-b4ae-61b9486ceebe
+a13t$$a_h06s$$Tidebringer$$ae7518a0-4a56-4eca-9f53-30373fc625b3
+a11n$$a_h06s$$X Marks The Spot$$b37a3e73-ede1-4cda-babf-014b8afc0149
+a11k$$a_h06s$$Ghost Ship$$296b8103-c7d8-4fda-8506-dd95628035af
+a1im$$a_h071$$Dark Pact$$6fa12331-faed-49d0-adf6-7236ce0514b1
+a1hr$$a_h071$$Essence Shift$$3b2aa2db-f8d6-4900-8b37-5d30fc87b575
+a1in$$a_h071$$Shadow Dance$$d5c4b5d9-ef57-4c6c-aae0-e1367235c186
+a1j7$$a_h071$$Pounce$$da12ca01-6c2d-4638-8deb-9b96fb0b1e61
+a12p$$a_n0eg$$Focus Fire$$b1ed7eb5-a9f9-40fb-8571-12a1c705efc4
+a12k$$a_n0eg$$Powershot$$f1b2b3c0-585e-45fc-ad7b-c9e5c2fa474b
+a14i$$a_n0eg$$Windrunner$$12cf7f06-282e-412f-ba63-979fb79b29f6
+a12j$$a_n0eg$$Shackleshot$$66622511-70ab-4450-848a-8af1beebfade
+a1cd$$a_o015$$Natural Order$$2df0f564-6cfd-4899-8ad2-def825c71133
+a1aa$$a_o015$$Echo Stomp$$18368e26-230e-4eee-9399-f08adcc3e558
+a1a8$$a_o015$$Ancestral Spirit$$c87aa9d3-16dd-4130-bf91-f97c11b6aaac
+a1a1$$a_o015$$Earth Splitter$$05786c34-0375-492f-8508-c0b83ebaf485
+a1el$$a_o016$$Sticky Napalm$$408cee6c-ca28-42fa-ac39-868007681948
+a19v$$a_o016$$Flamebreak$$6d32250b-5b1f-48b5-81b2-3c4b87fe2dcb
+a19z$$a_o016$$Firefly$$5440b274-1e18-40d9-84fa-8f156588d1e2
+a19o$$a_o016$$Flaming Lasso$$a52a3903-f740-4abc-b28a-a922d393fadf
+a1hs$$a_n0hp$$Ice Vortex$$b3eca1db-253c-4bc2-a480-41e9ce737b44
+a1mg$$a_n0hp$$Cold Feet$$f46256f7-ab83-4d3b-91bf-d329b9b37e3e
+a1mi$$a_n0hp$$Ice Blast$$ae9008ff-17f9-401c-9506-684f296b4bba
+a1hq$$a_n0hp$$Chilling Touch$$d602366a-d260-4ba2-a416-e1f3c46b60ca
+a1rj$$a_e02f$$Icarus Dive$$167140d5-7504-4761-a162-180204d31e46
+a1yx$$a_e02f$$Fire Spirits$$530be0d8-28b4-48e0-8682-b4b62a3c8e73
+a1rk$$a_e02f$$Supernova$$806775cd-6b0f-4b13-8b4b-76ac6dcf4887
+a1yy$$a_e02f$$Sun Ray$$8d5c2578-6787-463e-b27c-881a1c4db138
+a1s4$$a_e02h$$Shadow Poison$$97d2bbfc-2e4c-41ee-8965-96424d40bbcc
+a1s8$$a_e02h$$Disruption$$b1301c8c-70bd-46c4-9ffd-9ec0ac06a77f
+a1sa$$a_e02h$$Demonic Purge$$3e560ae2-f9bb-4c87-9773-8c0d93490d93
+a1sb$$a_e02h$$Soul Catcher$$60a02076-164d-41ec-a256-e31f4753506e
+a1yo$$a_e02i$$Ice Shards$$097ca8be-08a8-425a-9783-9b6c96d6ef63
+a1yq$$a_e02i$$Walrus Punch$$d602366a-d260-4ba2-a416-e1f3c46b60ca
+a1s7$$a_e02i$$Snowball$$b53b48a4-4c32-460b-a4e1-7651a3d403d4
+a1yr$$a_e02i$$Frozen Sigil$$befd121e-4e18-4e28-ab86-5514ff588c41
+a1su$$a_e02j$$Kinetic Field$$8c48ca5f-6677-4b75-bc5a-f49782d71a6a
+a1tv$$a_e02j$$Thunder Strike$$2bfe4915-9514-4458-9978-6e912d7e6b9f
+a1sw$$a_e02j$$Glimpse$$83286cae-a54d-4e5a-be1e-04e3b3b15b43
+a1u6$$a_e02j$$Static Storm$$b51ff71a-a165-4c8e-9ede-405e1b703bea
+a1so$$a_e02n$$Rocket Barrage$$6c91909d-ea55-4b24-afe5-dcb7b82ae76e
+a1sq$$a_e02n$$Homing Missile$$82ac5286-0b61-4579-b182-5e9951461e98
+a229$$a_e02n$$Flak Cannon$$c840f18d-4eae-4652-b61a-9d92a20f3947
+a1t5$$a_e02n$$Call Down$$a337ca4b-0c56-467f-b912-cd8e530bc9ae
+a1t8$$a_o01f$$Spirits$$6a3a1ee7-5ea0-4cd3-a36b-391adc79eea8
+a1ta$$a_o01f$$Tether$$708cc3bd-315a-4624-992f-81af8b630750
+a1tb$$a_o01f$$Relocate$$54ae239a-5d98-40a7-acaf-7314becf62f2
+a28q$$a_o01f$$Overcharge$$e0bd4eb7-1ab6-442d-947f-9381c80629be
+a27f$$a_e02x$$Telekinesis$$126099a9-6a9b-479c-a2bf-ccf4a140c47b
+a27g$$a_e02x$$Fade Bolt$$eaa1d5a8-3a3e-46cb-96dc-fb0f77c2f5a0
+a27h$$a_e02x$$Spell Steal$$cbae4ab4-eb0b-4086-ae53-47c7e3ba62fd
+a27v$$a_e02x$$Null Field$$3d9a0e26-5649-4409-8f1a-7dd1f5a934d6
+h01l$$i_Mantle of Intelligence$$1$$459e09c9-ae28-45bf-a86e-bf35e686d104
+h01f$$i_Gauntlets of Strength$$1$$fa2efe37-c5f6-4613-beb3-65b4a850ecff
+h017$$i_Blade of Alacrity$$1$$fe11107e-9ff0-4932-8d37-e33626b4f985
+h016$$i_Belt of Giant Strength$$1$$50e40c54-b8d1-401c-abe9-00be84904f72
+h020$$i_Slippers of Agility$$1$$11b546b9-5a8b-4bdd-b830-51d338b80dcb
+h01j$$i_Ironwood Branch$$1$$6234b2d5-4640-48e6-b80c-05ec298781cf
+h01y$$i_Robe of the Magi$$1$$86667f58-6184-4020-a888-638408987aab
+h022$$i_Staff of Wizardry$$1$$f3fa703f-33d2-40de-8f27-9463d20baf93
+h01q$$i_Ogre Axe$$1$$f82fd076-80c2-4f69-bf79-c37f43800159
+h024$$i_Ultimate Orb$$1$$955fd89a-f1a9-449c-9674-ead4379d19b6
+h013$$i_Boots of Elvenskin$$1$$3ad9b720-9979-46f4-8840-e4f153dfdfbf
+h015$$i_Circlet of Nobility$$1$$f1db04bc-430d-4975-95ac-0f94aaa7a75f
+h087$$i_Ghost Scepter$$1$$68fa2289-dd7a-4a79-a264-4af0c1e41919
+h083$$i_Talisman of Evasion$$1$$a5c2bc7b-927e-4e39-ae41-193ac63fce8f
+h074$$i_Magic Stick$$1$$b342aa1a-d2d5-4a69-9b11-77a909991851
+h01m$$i_Mask of Death$$1$$41a4182c-351b-4055-a978-99c389664496
+h01x$$i_Ring of Regeneration$$1$$aef8ab42-d4ab-4787-8723-81f56dcaa491
+h01k$$i_Kelen's Dagger$$1$$5150ddf4-a1ae-4fa0-b23f-bb35809bff42
+h021$$i_Sobi Mask$$1$$4aee67ba-8a11-4b93-ae02-67211e0770ba
+h01r$$i_Planeswalker's Cloak$$1$$ae47ee59-a125-4fcb-8019-b3dde95bbcc9
+h01g$$i_Gem of True Sight$$1$$4b3ebadb-7e50-4159-b04d-8e312619fa4f
+h012$$i_Gloves of Haste$$1$$33369234-3bc8-4d6d-a38f-6b3d38e87350
+h011$$i_Boots of Speed$$1$$627aa347-7ba0-47d3-95d9-c9ac1f94ad8c
+h07w$$i_Quelling Blade$$1$$247c68d4-dd78-4490-bb09-c3e792c77f21
+h027$$i_Javelin$$1$$06ee0737-4396-4c55-a4b4-49fa9cefcd08
+h018$$i_Blades of Attack$$1$$7151e91c-41ce-456f-97ab-c83b94fc8039
+h019$$i_Broadsword$$1$$8613342a-c3c8-437c-9a27-8aa0301c902f
+h01a$$i_Chainmail$$1$$df5933b5-eb0c-4fd4-a612-f0d7799d4860
+h01b$$i_Claymore$$1$$91c98df3-d717-4aac-82bb-92c04189304a
+h023$$i_Stout Shield$$1$$128b0b12-4709-4dc2-9e84-a26e0cec1555
+h01w$$i_Ring of Protection$$1$$92c78edc-d889-4fd9-b816-110796b6c589
+h01h$$i_Helm of Iron Will$$1$$c2145914-cac4-4c99-a66c-9a7b6e0cc41a
+h01o$$i_Mithril Hammer$$1$$0f1c7219-c412-4de8-85e5-8dfb01b61cb2
+h01s$$i_Plate Mail$$1$$599d1cae-de5c-4f1e-9c68-78c139e97ddc
+h01u$$i_Quarterstaff$$1$$ae3a84c9-6016-46b1-ab8d-ac8702823613
+h031$$i_Sange and Yasha$$1$$7be0011b-7cdb-4e62-853b-23852fa75ded
+h03h$$i_Satanic$$1$$2a5b2976-31db-46b7-a47d-ccdfa23f8323
+h03p$$i_Mjollnir$$1$$d7435c97-a39d-4c50-b44f-8f24c986ffde
+h03i$$i_Eye of Skadi$$1$$8afa1cde-75ed-42cb-928d-f80521f403df
+h02r$$i_Sange$$1$$4bfaab86-7f15-46b7-97be-b522d78ace5a
+h02w$$i_Helm of the Dominator$$1$$4b55d653-7227-4cc0-b310-a7c7dc9249ad
+h02u$$i_Maelstrom$$1$$8233461b-54ae-4734-aa80-5f1e24ed684d
+h032$$i_Stygian Desolator$$1$$f0051908-d341-43df-8c93-b83ed36ca7ca
+h02q$$i_Yasha$$1$$60f54485-b51e-40e4-9533-0b5e561a4137
+h02x$$i_Mask of Madness$$1$$8e8f9c1d-cf7a-46bf-9d33-eabd7f7702ae
+h02v$$i_Diffusal Blade$$1$$42ba5629-433a-4409-98fc-baa2d319b581
+h0ba$$i_Urn of Shadows$$1$$5d4030ac-b5b4-4fe9-917c-28cb0183bb02
+h02j$$i_Ring of Basilius$$1$$14539cac-2f17-4c2c-82d5-79588efc6ca0
+h07x$$i_Khadgar's Pipe of Insight$$1$$05855c3b-fcf2-4340-b6ad-2aa3c198b886
+h030$$i_Mekansm$$1$$64d2a17b-e76e-4633-ba01-d8f41f809c1c
+h03r$$i_Vladmir's Offering$$1$$358f9ead-ea43-4198-a626-0f6f08fde163
+h03q$$i_Flying Courier$$1$$d238b9fa-9a19-4974-b274-1cef35c8284f
+h02i$$i_Nathrezim Buckler$$1$$ac22e08d-61f5-422e-ac81-239891bcf5e5
+h02h$$i_Headdress of Rejuvenation$$1$$8d505637-d146-4edb-9ee8-5ffb2bba45f6
+h0co$$i_Arcane Boots$$1$$22db0861-5fe2-451c-b11e-24aaee6200fa
+h0cy$$i_Medallion of Courage$$1$$26b47b69-43a1-4dad-883e-a51f78e1cad0
+h0d1$$i_Ancient Janggo of Endurance$$1$$05d7ee49-7b22-49b6-85c7-18398d38ed6a
+h085$$i_Transfer Items$$1$$3660b0cb-e35d-46ba-ae28-639b1c1402ea
+h0bv$$i_Collect Your Items$$1$$6d4c055e-0087-4c03-8bde-3cc2f76044b7
+h0de$$i_Resume Delivery$$1$$9f93b5af-7b05-4638-b1a0-ea38f8e29e03
+h03c$$i_Divine Rapier$$1$$3801ff1d-c38f-4005-8d8c-6b42f26a039f
+h03e$$i_Monkey King Bar$$1$$491b17cd-3c47-4caa-8af4-8d04a4c60698
+h03f$$i_Radiance$$1$$36a7bef1-cad3-4d73-8d8c-7d7593be058a
+h03j$$i_The Butterfly$$1$$57987c58-4b59-47fb-9cca-18b79312d855
+h03d$$i_Buriza-do Kyanon$$1$$189211ac-1cb5-4363-b673-6e9200647914
+h02s$$i_Cranium Basher$$1$$843a05f9-0a2f-42c6-87af-0c8605f3ee17
+h033$$i_Battle Fury$$1$$f35726b2-2576-4421-9736-c9a092262510
+h036$$i_Manta Style$$1$$74eb3587-f9b3-49cf-a8b8-f0065e3461a5
+h034$$i_Crystalys$$1$$dbcb2850-1e39-442d-84b2-316d57a26355
+h03v$$i_Armlet of Mordiggian$$1$$bd647d6c-6a9e-4aec-9ea6-09f3f3746eb6
+h037$$i_Lothar's Edge$$1$$c49023bf-7b49-44ef-99d2-c1610e67931e
+h0br$$i_Ethereal Blade$$1$$a41b6d7a-9cf3-4afa-84f5-33d3cd89584b
+h03m$$i_Guinsoo's Scythe of Vyse$$1$$0ecca4de-befd-4834-b304-ab10ce628379
+h03x$$i_Orchid Malevolence$$1$$a594900c-59c4-4fa8-a80b-fc497089117f
+h02y$$i_Eul's Scepter of Divinity$$1$$e334eae4-727b-4582-9141-988c3b3b5f9a
+h07t$$i_Force Staff$$1$$55953846-1758-4064-8c6f-4f18864591e5
+h038$$i_Dagon$$1$$913e1c44-9224-433d-a672-a6c1092080a8
+h039$$i_Necronomicon$$1$$b6af9e7c-aced-4d2c-87fa-3e8d468a60f0
+h03k$$i_Aghanim's Scepter$$1$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+h03l$$i_Refresher Orb$$1$$e300e05c-3cd4-4861-bf2c-d14d333eba96
+h0dd$$i_Veil of Discord$$1$$6023885d-1d18-480f-a529-3271b799d2c8
+h07s$$i_Magic Wand$$1$$58a123ad-65fa-4be4-9813-a8b52e327ee3
+h02g$$i_Perseverance$$1$$92dd0308-1a00-458f-a07e-b036ad255be4
+h02m$$i_Oblivion Staff$$1$$ef6c01bb-8a07-44d0-9ce8-906d5dcbdb98
+h02n$$i_Bracer$$1$$dd952e68-4c51-490d-98a4-312b441c750c
+h02k$$i_Boots of Travel$$1$$f49c678f-81c5-4ddc-aab1-05a3c80e6a8d
+h086$$i_Poor Man's Shield$$1$$27d1ff3d-80b5-4e8a-9959-366b5b52d955
+h02l$$i_Hand of Midas$$1$$917710a0-512e-4aab-8bb4-e7a2302494c1
+h079$$i_Phase Boots$$1$$823e0225-b5dc-4bbc-9350-911fa26a07c9
+h02o$$i_Wraith Band$$1$$62a61587-954a-43b1-8ac7-9f851685523b
+h02p$$i_Null Talisman$$1$$06d852b5-8fb9-4e54-9878-53b0139f9eb8
+h014$$i_Power Treads$$1$$bae955e1-67ea-4f17-ae17-6b7f9331c6ad
+h0bq$$i_Soul Ring$$1$$88bd0f14-679e-4abd-961d-37f8716385eb
+h03s$$i_Assault Cuirass$$1$$a1d4e845-ace7-4a32-884f-23d4f05910a2
+h03w$$i_Shiva's Guard$$1$$d82fb32a-8cb8-4a49-8c19-80e61ae295a0
+h02t$$i_Blade Mail$$1$$b0ad58dc-4d73-409f-815a-be3a8ce4cb15
+h03g$$i_Heart of Tarrasque$$1$$c8a4f984-ce81-49f5-a59b-87a0a8a11d3b
+h03t$$i_Bloodstone$$1$$bb932637-7c35-4c1d-b1b4-f0dbee8610a4
+h02z$$i_Soul Booster$$1$$8469591f-5371-41eb-b417-d0bd2ebed700
+h035$$i_Black King Bar$$1$$3ac1b022-63df-49e1-807b-09becab9ed69
+h03a$$i_Linken's Sphere$$1$$0ec7493f-bea7-40bd-86c5-d9ac227f7036
+h03u$$i_Hood of Defiance$$1$$ff3f5664-7fc9-4aa3-8a64-a5d58bd49d33
+h03b$$i_Aegis of the Immortal$$1$$42e9f95d-80fc-4550-802b-1d814756ff11
+h03n$$i_Vanguard$$1$$a18b0846-8862-48f6-9e2e-e66f38228fa7
+h076$$i_Dust of Appearance$$1$$cd8f5fd3-2e91-40ba-ac42-763769b44a60
+h02a$$i_Ancient Tango of Essifation$$1$$1b15edb9-6acb-48f9-bfed-8f94e27120d8
+h02f$$i_Animal Courier$$1$$31898dd6-c25f-4e21-af4e-7f8fa7429876
+h028$$i_Clarity Potion$$1$$45f4eb9c-5ed5-42c4-86b7-66fefe89aa49
+h02b$$i_Empty Bottle$$1$$adc51e52-8e31-4e30-a4d0-c9062a9b4698
+h029$$i_Healing Salve$$1$$8a3b1612-6b37-46a0-a90a-8b07ea8f67ad
+h02c$$i_Observer Wards$$1$$376e9642-f79d-48c3-b60f-b0cb58e2eb21
+h02e$$i_Scroll of Town Portal$$1$$42795ed0-d758-45e5-b849-c5ed069751bc
+h02d$$i_Sentry Wards$$1$$27b6b11f-b0d1-4109-a525-d71d160c9f75
+h0d3$$i_Smoke of Deceit$$1$$ae03c3c9-6e1f-4055-a476-105d95bd8e2f
+h01c$$i_Demon Edge$$1$$d4ba0458-0b2e-4aa5-bf4f-5e54bbe2fe9f
+h01d$$i_Eaglehorn$$1$$d2d4470c-7185-4acf-a9ce-3f4697be4370
+h01e$$i_Energy Booster$$1$$071c738b-4dfd-458c-8a17-c68afa420347
+h01n$$i_Messerschmidt's Reaver$$1$$49d2e1cf-4cc7-4acc-a55f-8110e184babf
+h01p$$i_Mystic Staff$$1$$b72cafb8-ef3f-4bf9-b54a-4064ff090c32
+h01t$$i_Point Booster$$1$$0f945f39-acc7-4efb-be98-d372b11e0d4a
+h01z$$i_Sacred Relic$$1$$268d3939-7142-4dca-85bb-990a9307e86b
+h025$$i_Vitality Booster$$1$$353a70bf-4e9a-41c3-9233-6f8128741715
+h01i$$i_Hyperstone$$1$$883b9f83-309d-4959-ba1e-bb1b5f94de6a
+h01v$$i_Ring of Health$$1$$add1d809-e03e-4d0b-bd61-06fea3a7e1ba
+h026$$i_Void Stone$$1$$e8a6534e-d606-4dad-97f9-3ccc1eec27aa
+h0cm$$i_Orb of Venom$$1$$49eb833b-684b-4093-997e-44f960c20c22
+h08o$$i_Mask of Death$$0$$41a4182c-351b-4055-a978-99c389664496
+h08k$$i_Stout Shield$$0$$128b0b12-4709-4dc2-9e84-a26e0cec1555
+h08j$$i_Sobi Mask$$0$$4aee67ba-8a11-4b93-ae02-67211e0770ba
+h08l$$i_Ring of Regeneration$$0$$aef8ab42-d4ab-4787-8723-81f56dcaa491
+h08g$$i_Ring of Health$$0$$add1d809-e03e-4d0b-bd61-06fea3a7e1ba
+h08h$$i_Scroll of Town Portal$$0$$42795ed0-d758-45e5-b849-c5ed069751bc
+h08m$$i_Planeswalker's Cloak$$0$$ae47ee59-a125-4fcb-8019-b3dde95bbcc9
+h08n$$i_Helm of Iron Will$$0$$c2145914-cac4-4c99-a66c-9a7b6e0cc41a
+h08i$$i_Magic Stick$$0$$b342aa1a-d2d5-4a69-9b11-77a909991851
+h093$$i_Energy Booster$$0$$071c738b-4dfd-458c-8a17-c68afa420347
+h0bo$$i_Boots of Speed$$0$$627aa347-7ba0-47d3-95d9-c9ac1f94ad8c
+h0cn$$i_Orb of Venom$$0$$49eb833b-684b-4093-997e-44f960c20c22
+h08e$$i_Slippers of Agility$$0$$11b546b9-5a8b-4bdd-b830-51d338b80dcb
+h08p$$i_Boots of Elvenskin$$0$$3ad9b720-9979-46f4-8840-e4f153dfdfbf
+h08q$$i_Belt of Giant Strength$$0$$50e40c54-b8d1-401c-abe9-00be84904f72
+h08r$$i_Robe of the Magi$$0$$86667f58-6184-4020-a888-638408987aab
+h08f$$i_Quelling Blade$$0$$247c68d4-dd78-4490-bb09-c3e792c77f21
+h08s$$i_Gloves of Haste$$0$$33369234-3bc8-4d6d-a38f-6b3d38e87350
+h08t$$i_Blades of Attack$$0$$7151e91c-41ce-456f-97ab-c83b94fc8039
+h08u$$i_Quarterstaff$$0$$ae3a84c9-6016-46b1-ab8d-ac8702823613
+h08v$$i_Talisman of Evasion$$0$$a5c2bc7b-927e-4e39-ae41-193ac63fce8f
+h08w$$i_Kelen's Dagger$$0$$5150ddf4-a1ae-4fa0-b23f-bb35809bff42
+h08x$$i_Ultimate Orb$$0$$955fd89a-f1a9-449c-9674-ead4379d19b6
+h0d0$$i_Chainmail$$0$$df5933b5-eb0c-4fd4-a612-f0d7799d4860
+ofir$$i_Orb of Fire$$0$$92dd0308-1a00-458f-a07e-b036ad255be4
+ocor$$i_Orb of Corruption$$0$$9fed1ed3-f1f8-443f-bd9c-ecc4196dfd17
+oli2$$i_Orb of Lightning$$0$$f5aa870b-c0da-4bd3-adb4-786426279dfd
+oven$$i_Orb of Venom$$0$$49eb833b-684b-4093-997e-44f960c20c22
+tgrh$$i_Tiny Great Hall$$0$$237e236c-e6a8-4521-ae03-cd7515d0bd51
+rej2$$i_Lesser Replenishment Potion$$0$$744ba55a-05e7-4155-a0e1-2ce3b9d11045
+stwp$$i_Scroll of Town Portal$$0$$42795ed0-d758-45e5-b849-c5ed069751bc
+shea$$i_Scroll of Healing$$0$$615d76d4-7405-45d8-ac9f-b26dfbf201d9
+dust$$i_Dust of Appearance$$0$$cd8f5fd3-2e91-40ba-ac42-763769b44a60
+phea$$i_Potion of Healing$$0$$0f5bd947-fde0-4502-a2b8-040366054ec6
+pman$$i_Potion of Mana$$0$$f98993f3-ccad-434a-82b6-85298ebdb08c
+hslv$$i_Healing Salve$$0$$8a3b1612-6b37-46a0-a90a-8b07ea8f67ad
+moon$$i_Moonstone$$0$$2457f0b9-716d-496d-83f8-6e35fb041959
+shas$$i_Scroll of Speed$$0$$b8d9969c-a366-4951-b06a-d5cfa8f7e81d
+skul$$i_Sacrificial Skull$$0$$fa45b328-42f7-4abc-a136-0f67a023f043
+mcri$$i_Mechanical Critter$$0$$3660b0cb-e35d-46ba-ae28-639b1c1402ea
+rnec$$i_Rod of Necromancy$$0$$3ac1b022-63df-49e1-807b-09becab9ed69
+tsct$$i_Ivory Tower$$0$$02cfcc36-cf91-4cfd-8196-5e2dc9bab821
+pams$$i_Anti-magic Potion$$0$$012eb9f0-23c6-4f9d-beee-35eafa975ae0
+spre$$i_Staff of Preservation$$0$$047eebb0-af0e-46e7-ae79-79f2c65e2646
+plcl$$i_Lesser Clarity Potion$$0$$45f4eb9c-5ed5-42c4-86b7-66fefe89aa49
+sreg$$i_Scroll of Regeneration$$0$$f0272887-d9da-4b59-ae6e-c15c70eb3cfc
+ssan$$i_Staff of Sanctuary$$0$$6361b45b-3902-4f8b-aca5-92feae0a1d04
+i00e$$i_Morphling Bug Fix$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i015$$i_Disassembler$$0$$318db7a6-b74a-4ee5-98d2-8e63758bafc8
+i01n$$i_Freeze Hero$$0$$b326cefb-da40-4c0e-b1b3-3b757aa835b7
+i01o$$i_Unfreeze Hero$$0$$86da0ce2-036a-4de5-af25-0ce420697fa4
+i02m$$i_Item$$0$$081466a3-bc21-499a-99bc-02b732d8da77
+i02o$$i_Boots of Speed$$0$$627aa347-7ba0-47d3-95d9-c9ac1f94ad8c
+i02p$$i_Gloves of Haste$$0$$33369234-3bc8-4d6d-a38f-6b3d38e87350
+i02r$$i_Boots of Elvenskin$$0$$3ad9b720-9979-46f4-8840-e4f153dfdfbf
+i02t$$i_Power Treads (Agility)$$0$$293e4f50-0f75-4250-bce9-c6759ccf8554
+i02v$$i_Power Treads Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i02w$$i_Power Treads Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i02n$$i_Boots of Elvenskin$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i02q$$i_Boots of Speed$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i02s$$i_Gloves of Haste$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i02x$$i_Circlet of Nobility$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i02y$$i_Circlet of Nobility$$0$$f1db04bc-430d-4975-95ac-0f94aaa7a75f
+i02z$$i_Belt of Giant Strength$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i030$$i_Blade of Alacrity$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i031$$i_Blades of Attack$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i032$$i_Broadsword$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i033$$i_Chainmail$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i034$$i_Claymore$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i035$$i_Demon Edge$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i036$$i_Eaglehorn$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i037$$i_Energy Booster$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i038$$i_Gauntlets of Strength$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i039$$i_Gem of True Sight$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03b$$i_Helm of Iron Will$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03c$$i_Hyperstone$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03d$$i_Ironwood Branch$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03e$$i_Kelen's Dagger$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03f$$i_Mantle of Intelligence$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03g$$i_Mask of Death$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03h$$i_Messerschmidt's Reaver$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03i$$i_Mithril Hammer$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03j$$i_Mystic Staff$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03k$$i_Ogre Axe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03l$$i_Planeswalker's Cloak$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03m$$i_Plate Mail$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03n$$i_Point Booster$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03o$$i_Power Treads (Agility)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03p$$i_Quarterstaff$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03q$$i_Ring of Health$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03r$$i_Ring of Protection$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03s$$i_Ring of Regeneration$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03t$$i_Robe of the Magi$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03u$$i_Sacred Relic$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03v$$i_Slippers of Agility$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03w$$i_Sobi Mask$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03x$$i_Staff of Wizardry$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03a$$i_Stout Shield (melee)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03y$$i_Ultimate Orb$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i03z$$i_Vitality Booster$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i040$$i_Void Stone$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i041$$i_Javelin$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i043$$i_Belt of Giant Strength$$0$$50e40c54-b8d1-401c-abe9-00be84904f72
+i044$$i_Blade of Alacrity$$0$$fe11107e-9ff0-4932-8d37-e33626b4f985
+i045$$i_Blades of Attack$$0$$7151e91c-41ce-456f-97ab-c83b94fc8039
+i046$$i_Broadsword$$0$$8613342a-c3c8-437c-9a27-8aa0301c902f
+i047$$i_Chainmail$$0$$df5933b5-eb0c-4fd4-a612-f0d7799d4860
+i048$$i_Claymore$$0$$91c98df3-d717-4aac-82bb-92c04189304a
+i049$$i_Demon Edge$$0$$d4ba0458-0b2e-4aa5-bf4f-5e54bbe2fe9f
+i04a$$i_Eaglehorn$$0$$d2d4470c-7185-4acf-a9ce-3f4697be4370
+i04b$$i_Energy Booster$$0$$071c738b-4dfd-458c-8a17-c68afa420347
+i04c$$i_Gauntlets of Strength$$0$$fa2efe37-c5f6-4613-beb3-65b4a850ecff
+i04d$$i_Gem of True Sight$$0$$4b3ebadb-7e50-4159-b04d-8e312619fa4f
+i04e$$i_Helm of Iron Will$$0$$c2145914-cac4-4c99-a66c-9a7b6e0cc41a
+i04f$$i_Hyperstone$$0$$883b9f83-309d-4959-ba1e-bb1b5f94de6a
+i04g$$i_Ironwood Branch$$0$$6234b2d5-4640-48e6-b80c-05ec298781cf
+i04h$$i_Kelen's Dagger$$0$$5150ddf4-a1ae-4fa0-b23f-bb35809bff42
+i04i$$i_Disabled Kelen's Dagger$$0$$eb66b195-bfc3-4a0e-93da-3260055bce43
+i04j$$i_Mantle of Intelligence$$0$$459e09c9-ae28-45bf-a86e-bf35e686d104
+i04k$$i_Mask of Death$$0$$41a4182c-351b-4055-a978-99c389664496
+i04l$$i_Messerschmidt's Reaver$$0$$49d2e1cf-4cc7-4acc-a55f-8110e184babf
+i04m$$i_Mithril Hammer$$0$$0f1c7219-c412-4de8-85e5-8dfb01b61cb2
+i04n$$i_Mystic Staff$$0$$b72cafb8-ef3f-4bf9-b54a-4064ff090c32
+i04o$$i_Ogre Axe$$0$$f82fd076-80c2-4f69-bf79-c37f43800159
+i04p$$i_Planeswalker's Cloak$$0$$ae47ee59-a125-4fcb-8019-b3dde95bbcc9
+i04q$$i_Plate Mail$$0$$599d1cae-de5c-4f1e-9c68-78c139e97ddc
+i04r$$i_Point Booster$$0$$0f945f39-acc7-4efb-be98-d372b11e0d4a
+i04s$$i_Quarterstaff$$0$$ae3a84c9-6016-46b1-ab8d-ac8702823613
+i04t$$i_Ring of Health$$0$$add1d809-e03e-4d0b-bd61-06fea3a7e1ba
+i04u$$i_Ring of Protection$$0$$92c78edc-d889-4fd9-b816-110796b6c589
+i04w$$i_Robe of the Magi$$0$$86667f58-6184-4020-a888-638408987aab
+i04x$$i_Sacred Relic$$0$$268d3939-7142-4dca-85bb-990a9307e86b
+i04y$$i_Slippers of Agility$$0$$11b546b9-5a8b-4bdd-b830-51d338b80dcb
+i04z$$i_Sobi Mask$$0$$4aee67ba-8a11-4b93-ae02-67211e0770ba
+i050$$i_Staff of Wizardry$$0$$f3fa703f-33d2-40de-8f27-9463d20baf93
+i051$$i_Stout Shield (melee)$$0$$128b0b12-4709-4dc2-9e84-a26e0cec1555
+i052$$i_Ultimate Orb$$0$$955fd89a-f1a9-449c-9674-ead4379d19b6
+i053$$i_Vitality Booster$$0$$353a70bf-4e9a-41c3-9233-6f8128741715
+i054$$i_Void Stone$$0$$e8a6534e-d606-4dad-97f9-3ccc1eec27aa
+i055$$i_Javelin$$0$$06ee0737-4396-4c55-a4b4-49fa9cefcd08
+i042$$i_Clarity Potion$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i056$$i_Healing Salve$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i057$$i_Ancient Tango of Essifation$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i058$$i_Observer Wards$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i059$$i_Sentry Wards$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05a$$i_Scroll of Town Portal$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05b$$i_Animal Courier$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05e$$i_Empty Bottle$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05c$$i_Ancient Tango of Essifation$$0$$1b15edb9-6acb-48f9-bfed-8f94e27120d8
+i05d$$i_Clarity Potion$$0$$45f4eb9c-5ed5-42c4-86b7-66fefe89aa49
+i05f$$i_Healing Salve$$0$$8a3b1612-6b37-46a0-a90a-8b07ea8f67ad
+i05g$$i_Observer Wards$$0$$376e9642-f79d-48c3-b60f-b0cb58e2eb21
+i05h$$i_Sentry Wards$$0$$27b6b11f-b0d1-4109-a525-d71d160c9f75
+i05i$$i_Scroll of Town Portal$$0$$42795ed0-d758-45e5-b849-c5ed069751bc
+i05j$$i_Animal Courier$$0$$31898dd6-c25f-4e21-af4e-7f8fa7429876
+i05l$$i_Headdress of Rejuvenation Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05m$$i_Nathrezim Buckler Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05o$$i_Boots of Travel Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05p$$i_Hand of Midas Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05k$$i_Bracer Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05n$$i_Wraith Band Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05q$$i_Null Talisman Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05r$$i_Headdress of Rejuvenation Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i05s$$i_Nathrezim Buckler Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i05t$$i_Boots of Travel Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i05u$$i_Hand of Midas Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i05v$$i_Bracer Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i05w$$i_Wraith Band Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i05x$$i_Null Talisman Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i02u$$i_Power Treads (Strength)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i05y$$i_Power Treads (Strength)$$0$$bae955e1-67ea-4f17-ae17-6b7f9331c6ad
+i05z$$i_Power Treads (Intelligence)$$0$$ff0fee0a-6a3d-491f-ab7b-f562bc88285f
+i060$$i_Power Treads (Intelligence)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i061$$i_Perseverance$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i062$$i_Perseverance$$0$$92dd0308-1a00-458f-a07e-b036ad255be4
+i063$$i_Headdress of Rejuvenation$$0$$8d505637-d146-4edb-9ee8-5ffb2bba45f6
+i064$$i_Headdress of Rejuvenation$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i065$$i_Nathrezim Buckler$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i066$$i_Nathrezim Buckler$$0$$ac22e08d-61f5-422e-ac81-239891bcf5e5
+i067$$i_Ring of Basilius (Normal)$$0$$14539cac-2f17-4c2c-82d5-79588efc6ca0
+i068$$i_Ring of Basilius$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i069$$i_Ring of Basilius (Heroes)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06a$$i_Ring of Basilius (Heroes)$$0$$14539cac-2f17-4c2c-82d5-79588efc6ca0
+i06b$$i_Boots of Travel$$0$$f49c678f-81c5-4ddc-aab1-05a3c80e6a8d
+i06c$$i_Boots of Travel$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06d$$i_Hand of Midas$$0$$917710a0-512e-4aab-8bb4-e7a2302494c1
+i06e$$i_Hand of Midas$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06f$$i_Oblivion Staff$$0$$ef6c01bb-8a07-44d0-9ce8-906d5dcbdb98
+i06g$$i_Oblivion Staff$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06h$$i_Bracer$$0$$dd952e68-4c51-490d-98a4-312b441c750c
+i06i$$i_Bracer$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06j$$i_Wraith Band$$0$$62a61587-954a-43b1-8ac7-9f851685523b
+i06k$$i_Wraith Band$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06l$$i_Null Talisman$$0$$06d852b5-8fb9-4e54-9878-53b0139f9eb8
+i06m$$i_Null Talisman$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06n$$i_Yasha Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06o$$i_Yasha Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i06p$$i_Sange Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i06q$$i_Sange Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06r$$i_Cranium Basher Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06s$$i_Cranium Basher Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i06t$$i_Blade Mail Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06u$$i_Blade Mail Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i06v$$i_Maelstrom Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i06w$$i_Maelstrom Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06x$$i_Diffusal Blade Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i06y$$i_Diffusal Blade Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i06z$$i_Mask of Madness Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i070$$i_Mask of Madness Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i071$$i_Eul's Scepter of Divinity Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i072$$i_Eul's Scepter of Divinity Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i073$$i_Mekansm Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i074$$i_Mekansm Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i075$$i_Sange and Yasha Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i076$$i_Stygian Desolator Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i077$$i_Crystalys Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i078$$i_Black King Bar Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i079$$i_Manta Style Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07a$$i_Lothar's Edge Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07b$$i_Dagon Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07c$$i_Necronomicon Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07d$$i_Linken's Sphere Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07e$$i_Buriza-do Kyanon Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07g$$i_Radiance Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07h$$i_Heart of Tarrasque Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07i$$i_The Butterfly Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07j$$i_Refresher Orb Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07k$$i_Guinsoo's Scythe of Vyse$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07l$$i_Mjollnir Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07m$$i_Arcane Ring Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07n$$i_Eye of Skadi Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07o$$i_Satanic Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07p$$i_Flying Courier Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07q$$i_Vladmir's Offering Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07r$$i_Assault Cuirass Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07s$$i_Armlet of Mordiggian Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07t$$i_Shiva's Guard Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i07u$$i_Sange and Yasha Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i07v$$i_Stygian Desolator Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i07w$$i_Crystalys Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i07x$$i_Black King Bar Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i07y$$i_Manta Style Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i07z$$i_Lothar's Edge Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i080$$i_Dagon Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i081$$i_Necronomicon Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i082$$i_Linken's Sphere Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i083$$i_Buriza-do Kyanon Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i07f$$i_Radiance Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i084$$i_Heart of Tarrasque Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i085$$i_Satanic Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i086$$i_Eye of Skadi Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i087$$i_The Butterfly Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i088$$i_Refresher Orb Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i089$$i_Arcane Ring Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i08a$$i_Flying Courier Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i08b$$i_Vladmir's Offering Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i08c$$i_Assault Cuirass Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i08d$$i_Armlet of Mordiggian Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i08e$$i_Shiva's Guard Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i08f$$i_Yasha$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08g$$i_Yasha$$0$$60f54485-b51e-40e4-9533-0b5e561a4137
+i08h$$i_Sange$$0$$4bfaab86-7f15-46b7-97be-b522d78ace5a
+i08i$$i_Sange$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08j$$i_Cranium Basher$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08k$$i_Cranium Basher$$0$$843a05f9-0a2f-42c6-87af-0c8605f3ee17
+i08l$$i_Cranium Basher (Ranged)$$0$$843a05f9-0a2f-42c6-87af-0c8605f3ee17
+i08m$$i_Cranium Basher (Ranged)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08n$$i_Blade Mail$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08o$$i_Blade Mail$$0$$b0ad58dc-4d73-409f-815a-be3a8ce4cb15
+i08p$$i_Maelstrom$$0$$8233461b-54ae-4734-aa80-5f1e24ed684d
+i08q$$i_Maelstrom$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08r$$i_Diffusal Blade Level 1$$0$$42ba5629-433a-4409-98fc-baa2d319b581
+i08s$$i_Diffusal Blade Level 1$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08t$$i_Helm of the Dominator$$0$$4b55d653-7227-4cc0-b310-a7c7dc9249ad
+i08u$$i_Helm of the Dominator$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08v$$i_Helm of the Dominator (Courier Edition)$$0$$4b55d653-7227-4cc0-b310-a7c7dc9249ad
+i08w$$i_Helm of the Dominator (Courier Edition)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08x$$i_Mask of Madness$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i08y$$i_Mask of Madness$$0$$8e8f9c1d-cf7a-46bf-9d33-eabd7f7702ae
+i08z$$i_Eul's Scepter of Divinity$$0$$e334eae4-727b-4582-9141-988c3b3b5f9a
+i090$$i_Eul's Scepter of Divinity$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i091$$i_Soul Booster$$0$$8469591f-5371-41eb-b417-d0bd2ebed700
+i092$$i_Soul Booster$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i093$$i_Mekansm$$0$$64d2a17b-e76e-4633-ba01-d8f41f809c1c
+i094$$i_Mekansm$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i095$$i_Sange and Yasha$$0$$7be0011b-7cdb-4e62-853b-23852fa75ded
+i096$$i_Sange and Yasha$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i097$$i_Stygian Desolator$$0$$f0051908-d341-43df-8c93-b83ed36ca7ca
+i098$$i_Stygian Desolator$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i099$$i_Battle Fury$$0$$f35726b2-2576-4421-9736-c9a092262510
+i09a$$i_Battle Fury$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09b$$i_Crystalys$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09c$$i_Crystalys$$0$$dbcb2850-1e39-442d-84b2-316d57a26355
+i09d$$i_Black King Bar (6)$$0$$3ac1b022-63df-49e1-807b-09becab9ed69
+i09e$$i_Black King Bar (8)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09f$$i_Manta Style$$0$$74eb3587-f9b3-49cf-a8b8-f0065e3461a5
+i09g$$i_Manta Style$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09h$$i_Lothar's Edge$$0$$c49023bf-7b49-44ef-99d2-c1610e67931e
+i09i$$i_Lothar's Edge$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09k$$i_Dagon Level 1$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09l$$i_Dagon Level 5$$0$$913e1c44-9224-433d-a672-a6c1092080a8
+i09m$$i_Dagon Level 1$$0$$913e1c44-9224-433d-a672-a6c1092080a8
+i09n$$i_Dagon Level 3$$0$$913e1c44-9224-433d-a672-a6c1092080a8
+i09o$$i_Dagon Level 4$$0$$913e1c44-9224-433d-a672-a6c1092080a8
+i09p$$i_Dagon Level 2$$0$$913e1c44-9224-433d-a672-a6c1092080a8
+i09j$$i_Dagon Level 2$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09q$$i_Dagon Level 3$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09r$$i_Dagon Level 5$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09s$$i_Dagon Level 4$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09t$$i_Necronomicon Level 1$$0$$7528b372-f49f-4dd2-8e98-9477c8f828d9
+i09u$$i_Necronomicon Level 1$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09v$$i_Necronomicon Level 2$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09w$$i_Necronomicon Level 3$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i09x$$i_Necronomicon Level 2$$0$$d1e12f89-ed6c-4a52-90d1-c3c899fdef27
+i09y$$i_Necronomicon Level 3$$0$$b6af9e7c-aced-4d2c-87fa-3e8d468a60f0
+i09z$$i_Linken's Sphere$$0$$0ec7493f-bea7-40bd-86c5-d9ac227f7036
+i0a0$$i_Linken's Sphere$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0a1$$i_Divine Rapier$$0$$3801ff1d-c38f-4005-8d8c-6b42f26a039f
+i0a2$$i_Divine Rapier$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0a3$$i_Buriza-do Kyanon$$0$$189211ac-1cb5-4363-b673-6e9200647914
+i0a4$$i_Buriza-do Kyanon$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0a5$$i_Monkey King Bar (True Strike Active)$$0$$491b17cd-3c47-4caa-8af4-8d04a4c60698
+i0a6$$i_Monkey King Bar$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0a7$$i_Radiance$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0a8$$i_Radiance (On)$$0$$36a7bef1-cad3-4d73-8d8c-7d7593be058a
+i0a9$$i_Heart of Tarrasque$$0$$c8a4f984-ce81-49f5-a59b-87a0a8a11d3b
+i0aa$$i_Heart of Tarrasque$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ab$$i_Satanic$$0$$2a5b2976-31db-46b7-a47d-ccdfa23f8323
+i0ac$$i_Satanic$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ad$$i_Eye of Skadi$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ae$$i_Eye of Skadi$$0$$8afa1cde-75ed-42cb-928d-f80521f403df
+i0af$$i_Eye of Skadi (Ranged)$$0$$8afa1cde-75ed-42cb-928d-f80521f403df
+i0ag$$i_Eye of Skadi (Ranged)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ah$$i_The Butterfly$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ai$$i_The Butterfly$$0$$57987c58-4b59-47fb-9cca-18b79312d855
+i0aj$$i_Refresher Orb$$0$$e300e05c-3cd4-4861-bf2c-d14d333eba96
+i0ak$$i_Refresher Orb$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0al$$i_Guinsoo's Scythe of Vyse$$0$$0ecca4de-befd-4834-b304-ab10ce628379
+i0am$$i_Empty Bottle$$0$$adc51e52-8e31-4e30-a4d0-c9062a9b4698
+i0an$$i_Magical Bottle - 1/3$$0$$a5847d6f-26e1-44b3-9f94-de12199c779b
+i0ao$$i_Magical Bottle - 2/3$$0$$6ba071fd-375a-4ef5-839c-381551a31932
+i0ap$$i_Magical Bottle - 3/3$$0$$4f32534b-e1eb-4199-adcd-26ac625bc92e
+i0as$$i_Magical Bottle - 2/3$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0at$$i_Magical Bottle - 3/3$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0au$$i_Magical Bottle - 1/3$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0av$$i_Empty Bottle Store$$0$$adc51e52-8e31-4e30-a4d0-c9062a9b4698
+i0aw$$i_Aegis of the Immortal$$0$$42e9f95d-80fc-4550-802b-1d814756ff11
+i0ax$$i_Aegis of the Immortal$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ay$$i_Aghanim's Scepter (Basic)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0az$$i_Aghanim's Scepter (Furion)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b0$$i_Cheese$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b1$$i_Cheese$$0$$5864bf26-24cb-4ade-b99c-3fdef86b22c6
+i000$$i_Aghanim's Scepter (Rylai)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i001$$i_Aghanim's Scepter (Necro)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i002$$i_Aghanim's Scepter (Luna)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i003$$i_Aghanim's Scepter (Lucifer)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i004$$i_Aghanim's Scepter (Lion)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i005$$i_Aghanim's Scepter (Lich)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i009$$i_Aghanim's Scepter (Leshrac)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i00d$$i_Aghanim's Scepter (KOTL)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i00g$$i_Aghanim's Scepter (Lina)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i00h$$i_Aghanim's Scepter (Pugna)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i00i$$i_Aghanim's Scepter (Ogre)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i00o$$i_Aghanim's Scepter (Zeus)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i00p$$i_Aghanim's Scepter (QoP)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i00u$$i_Aghanim's Scepter (Rhasta)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i011$$i_Aghanim's Scepter (Furion)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i016$$i_Aghanim's Scepter (Veno)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i017$$i_Aghanim's Scepter (Witch Doctor)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i00f$$i_Aghanim's Scepter (KOTL)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i018$$i_Aghanim's Scepter (Leshrac)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i019$$i_Aghanim's Scepter (Lich)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i01a$$i_Aghanim's Scepter (Lina)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i01b$$i_Aghanim's Scepter (Lion)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i01h$$i_Aghanim's Scepter (Lucifer)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i01i$$i_Aghanim's Scepter (Luna)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i02k$$i_Aghanim's Scepter (Necro)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i02l$$i_Aghanim's Scepter (Ogre)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b2$$i_Aghanim's Scepter (Pugna)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b3$$i_Aghanim's Scepter (QoP)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b4$$i_Aghanim's Scepter (Rhasta)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b5$$i_Aghanim's Scepter (Witch Doctor)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b6$$i_Aghanim's Scepter (Veno)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b7$$i_Aghanim's Scepter (Rylai)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b8$$i_Aghanim's Scepter (Basic)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0b9$$i_Aghanim's Scepter (Zeus)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ba$$i_Vanguard (melee)$$0$$a18b0846-8862-48f6-9e2e-e66f38228fa7
+i0bb$$i_Vanguard$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0bc$$i_Arcane Ring$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0bd$$i_Arcane Ring$$0$$335478f5-6b23-475a-84fc-c1b4ce53c426
+i0be$$i_Mjollnir$$0$$d7435c97-a39d-4c50-b44f-8f24c986ffde
+i0bf$$i_Mjollnir$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0bg$$i_Vladmir's Offering$$0$$358f9ead-ea43-4198-a626-0f6f08fde163
+i0bh$$i_Vladmir's Offering$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0bi$$i_Assault Cuirass$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0bj$$i_Assault Cuirass$$0$$a1d4e845-ace7-4a32-884f-23d4f05910a2
+i0bk$$i_Bloodstone$$0$$bb932637-7c35-4c1d-b1b4-f0dbee8610a4
+i0bl$$i_Bloodstone$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0bm$$i_Hood of Defiance$$0$$ff3f5664-7fc9-4aa3-8a64-a5d58bd49d33
+i0bn$$i_Hood of Defiance$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i006$$i_Haste$$0$$627aa347-7ba0-47d3-95d9-c9ac1f94ad8c
+i008$$i_Regeneration$$0$$2032d7aa-1fc7-4029-a00f-c10a1e941a77
+i00j$$i_Invisibility$$0$$c2ec259d-b548-40ba-9714-cab0e36d4f36
+i00k$$i_Double Damage$$0$$ae18c035-f220-40ac-a402-1a5761900bc3
+i00l$$i_Empty Bottle$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i00m$$i_Armlet of Mordiggian$$0$$bd647d6c-6a9e-4aec-9ea6-09f3f3746eb6
+i00n$$i_Armlet of Mordiggian (Courier Edition)$$0$$bd647d6c-6a9e-4aec-9ea6-09f3f3746eb6
+i00q$$i_Armlet of Mordiggian$$0$$2d37e65c-08e2-4049-9b37-062e7a435f80
+i00r$$i_Armlet of Mordiggian (Courier Edition)$$0$$2d37e65c-08e2-4049-9b37-062e7a435f80
+i00s$$i_Armlet of Mordiggian$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i00t$$i_Armlet of Mordiggian$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i00v$$i_Armlet of Mordiggian (Courier Edition)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i00w$$i_Armlet of Mordiggian (Courier Edition)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i00x$$i_Shiva's Guard$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i00y$$i_Shiva's Guard (Courier Edition)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i00z$$i_Shiva's Guard$$0$$d82fb32a-8cb8-4a49-8c19-80e61ae295a0
+i010$$i_Shiva's Guard (Courier Edition)$$0$$d82fb32a-8cb8-4a49-8c19-80e61ae295a0
+i012$$i_Orchid Malevolence$$0$$a594900c-59c4-4fa8-a80b-fc497089117f
+i013$$i_Orchid Malevolence$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i014$$i_Flying Courier$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i01d$$i_Flying Courier$$0$$d238b9fa-9a19-4974-b274-1cef35c8284f
+i00a$$i_Boots of Speed$$0$$5b8b5459-dde5-4049-adbb-3ac634b2e0a9
+i00b$$i_Aghanim's Scepter$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i00c$$i_Arcane Ring$$0$$4e7a1a19-e638-4c16-a747-0a6b73c5e49d
+i01c$$i_Armlet of Mordiggian (On)$$0$$bccbe88c-8147-4b5f-b4f0-52aa76f7186a
+i01e$$i_Armlet of Mordiggian (Off)$$0$$3669b521-04aa-4ba5-9345-10e96338fbad
+i01j$$i_Perseverance$$0$$a3add694-3690-4d11-af7d-1f644d03fc22
+i01k$$i_Headdress of Rejuvenation$$0$$12e34910-53f2-484f-8c00-151beef21563
+i01l$$i_Nathrezim Buckler$$0$$bada03d9-457a-43e5-8465-006a97d36c3e
+i01m$$i_Ring of Basilius$$0$$8c70ce4c-64a1-4935-bd96-92b43d14db07
+i01p$$i_Boots of Travel$$0$$645b1716-fa1a-4e35-b7f8-9cc226e9718c
+i01q$$i_Power Treads (Strength)$$0$$8e14c2be-a89f-42c9-8a1d-d84d7bbe575a
+i01r$$i_Power Treads (Agility)$$0$$cec34929-89e6-47a4-9119-c77ffd5d0fb5
+i01s$$i_Power Treads (Intelligence)$$0$$7bd465c6-3359-4839-b021-0d859dfde1e8
+i01t$$i_Hand of Midas$$0$$a90fbbc0-f0d6-463d-b438-f2ccf50c6e60
+i01u$$i_Oblivion Staff$$0$$c521cdfc-fd78-498f-a023-e01a93209379
+i01v$$i_Bracer$$0$$89d9b23b-78aa-4de4-9043-db107064a42f
+i01w$$i_Wraith Band$$0$$d40e8150-cbc0-4909-8812-ad74729a41bf
+i01x$$i_Null Talisman$$0$$5f944c55-345a-4022-ab26-f9d723513777
+i01y$$i_Yasha$$0$$0987ef97-a4f8-43ab-ba93-41abc9ad869f
+i01z$$i_Sange$$0$$896ac0ff-5133-4559-aa16-7344001ce378
+i020$$i_Cranium Basher$$0$$73634b3b-5c33-4402-a8c8-436a7de4e021
+i021$$i_Blade Mail$$0$$a6157238-53f8-4f80-a1c4-4cec774df2df
+i022$$i_Maelstrom$$0$$0660fb15-e4e3-48fe-93cb-c2c89f4b68a2
+i023$$i_Diffusal Blade Level 1$$0$$9519e318-734d-4f6d-be9f-0d66a2c1ef14
+i024$$i_Helm of the Dominator$$0$$1284340c-9cda-4c04-b8c3-ae094de13bc7
+i025$$i_Mask of Madness$$0$$bd6bdf2f-2505-4041-a7dc-967e139bea95
+i026$$i_Eul's Scepter of Divinity$$0$$1b4b4d23-de58-4ca6-866d-ae62818f71dc
+i027$$i_Soul Booster$$0$$a5c654c4-a0e6-4677-a58c-a1aecebf5659
+i028$$i_Mekansm$$0$$346639f1-d6df-486a-bd95-6ead159c9e53
+i029$$i_Sange and Yasha$$0$$62ad90d4-7a94-49e8-8ccd-9315512fbbc6
+i02a$$i_Stygian Desolator$$0$$344da633-4353-4bef-8aed-23dbbcc182f0
+i02b$$i_Battle Fury$$0$$aeab4e82-b540-4040-9561-ae3b4759f143
+i02c$$i_Crystalys$$0$$622c2c30-81a8-4d7c-9942-f03d62d055e6
+i02d$$i_Black King Bar (7)$$0$$5256afc6-81f1-43fd-86e6-2a2af10eec2a
+i02e$$i_Manta Style$$0$$9d5caa1a-c80f-471c-aeb2-bdaeddb10c81
+i02f$$i_Lothar's Edge$$0$$b571dbc5-6fd3-413e-adf0-0ef211ff46f4
+i02g$$i_Dagon Level 2$$0$$746c1721-1bf3-44e7-a34e-86a0e84ffc6b
+i02h$$i_Necronomicon Level 1$$0$$be4f80ac-2af1-4baa-befe-fc02a83ab8d3
+i02i$$i_Necronomicon Level 2$$0$$69a0ab04-4779-4470-b05a-60946e60d554
+i02j$$i_Necronomicon Level 3$$0$$d26b4a0c-4630-4ab7-b295-1951942d7fb5
+i0bo$$i_Linkin's Sphere$$0$$67523ef2-6995-4717-9fa7-04139de5c485
+i0bp$$i_Divine Rapier$$0$$80c7cc93-533d-484a-9773-6800fab6315a
+i0bq$$i_Buriza-do Kyanon$$0$$28e5da01-0179-4893-8c6d-79e6bfeca5e3
+i0br$$i_Monkey King Bar$$0$$cedf43e3-0d3c-47bb-a3a5-6b48a726f4bb
+i0bs$$i_Radiance$$0$$d7393f46-99fc-4790-a0a4-7845aa63ca71
+i0bt$$i_Heart of Tarrasque$$0$$968ca5a9-dd7f-41ca-b7bd-9f66530b9187
+i0bu$$i_Satanic$$0$$7992893c-0655-407e-876e-e5720abb4e37
+i0bv$$i_Eye of Skadi$$0$$7cd48c20-d890-4a35-82ff-837abe597de7
+i0bw$$i_The Butterfly$$0$$4805b763-0703-4ad1-9a52-957f4e60a291
+i0bx$$i_Refresher Orb$$0$$3ca281c2-2618-4824-9d9d-971d06521856
+i0by$$i_Guinsoo's Scythe of Vyse$$0$$cacdfd3b-094b-42b5-9ac2-f7a016648cd3
+i0bz$$i_Vanguard$$0$$a3b7ce4d-04bd-4618-a406-0cac91ae224b
+i0c0$$i_Mjollnir$$0$$4400d1ce-7ce4-45e9-90a8-433b7a4c98fb
+i0c1$$i_Vladmir's Offering$$0$$c1b8183e-5139-448c-8353-a7d0d4ec2c54
+i0c2$$i_Assault Cuirass$$0$$11baf2b0-bcb0-492a-8e0e-2e00727e1d45
+i0c3$$i_Bloodstone$$0$$6f375c67-6468-4967-93d4-cd7db24d1f6f
+i0c4$$i_Hood of Defiance$$0$$dcb54ddc-c1db-4dd9-b904-8eb3b605bad2
+i0c7$$i_Kelen's Dagger$$0$$87f42e64-5b95-43a7-a0f1-7cf9fc911f51
+i0c9$$i_Ultimate Orb$$0$$0855383e-e7f3-4746-a560-b00989a19e85
+i0ca$$i_Gloves of Haste$$0$$faa885c9-644a-4c59-8b9a-a1305077f0bc
+i0cb$$i_Orchid Malevolence$$0$$e4358d83-0169-4743-b0e9-845c3ce12c90
+i0cc$$i_Sacred Relic$$0$$0ac6afc2-49f5-48f7-8af9-764966a05a7a
+i0cd$$i_Mask of Death$$0$$e09c5351-2868-40e4-be01-67273969dc2c
+i0ce$$i_Planeswalker's Cloak$$0$$8382d018-545f-420e-a4fc-94ae0e7d09b9
+i0cf$$i_Shiva's Guard$$0$$79bdbbad-8980-4fb7-8b88-33f6ef520e9d
+i0cg$$i_Messerschmidt's Reaver$$0$$211148e0-8083-4efc-9274-48129d202023
+i0ch$$i_Eaglehorn$$0$$1b5bae88-1beb-4c00-b366-aaa974757d9d
+i0ci$$i_Demon Edge$$0$$bfe9bf8e-90b4-4055-bc6f-99a423c06022
+i0c5$$i_Slippers of Agility$$0$$82787403-aee4-4ecf-9948-1740743dc46e
+i0cj$$i_Gauntlets of Strength$$0$$992a1fc0-881a-4a46-a35f-29241577af29
+i0ck$$i_Vitality Booster$$0$$38c67c48-c016-45f8-a3d2-9df49dcf792e
+i0cl$$i_Point Booster$$0$$babe8dd2-9775-46d5-99ab-cbc2cfb6fea7
+i0cm$$i_Mantle of Intelligence$$0$$3d3a06c4-e4e8-4ca8-af4f-7703bb6780ae
+i0cn$$i_Mystic Staff$$0$$cc423cdb-b982-4e42-b1b8-3cd40af27d9b
+i0cp$$i_Robe of the Magi$$0$$c9202b1c-ca9e-4397-8341-e434e946209b
+i0cq$$i_Hyperstone$$0$$fd0c4194-0347-4ec4-833a-ea8ceea7f477
+i0cr$$i_Energy Booster$$0$$406b540e-5859-44d4-b845-1101b04e3b7f
+i0cs$$i_Boots of Elvenskin$$0$$1bd60469-8564-46ba-b613-66a2487aa8cf
+i0cu$$i_Ironwood Branch$$0$$32325344-e576-40a4-bb85-972a950382fc
+i0cv$$i_Belt of Giant Strength$$0$$5d40b840-1442-4911-a0e8-179c93114101
+i0cw$$i_Ring of Protection$$0$$145a2621-30b8-4fa5-b6b1-31450d5eb8b5
+i0cx$$i_Claymore$$0$$5ad47563-a45c-403c-b9da-9c4fd73c3314
+i0cy$$i_Quarterstaff$$0$$3a20de20-90fd-47f8-9a9c-7e6a0ec97e0b
+i0cz$$i_Broadsword$$0$$a91eccb5-c6aa-47e5-939c-0bf1d6e00cb1
+i0d0$$i_Mithril Hammer$$0$$4c082458-fd82-4e4e-bb8b-3a3f03a140e3
+i0d1$$i_Staff of Wizardry$$0$$e09eeba6-3372-4643-ac15-22ae2706664d
+i0d2$$i_Blade of Alacrity$$0$$fbf4a448-3cb5-40c0-8568-e89114a2748c
+i0d4$$i_Circlet of Nobility$$0$$39a2eb63-1144-4110-a0a3-9f02e71505c0
+i0d5$$i_Blades of Attack$$0$$cc84d0ca-b03c-4155-b6b1-d6b2dada38c9
+i0d6$$i_Javelin$$0$$852cd038-5c93-4a20-bace-0be9545579a6
+i0d7$$i_Chain Mail$$0$$8c6d1b8d-3d37-4890-974e-9113009d5b22
+i0d8$$i_Ogre Axe$$0$$88c3af90-869a-44a0-bf9d-2f539cfce2b7
+i0d9$$i_Stout Shield (melee)$$0$$acb25505-13f3-4800-855a-8bf6c384e598
+i0da$$i_Helm of Iron Will$$0$$5a54139b-5dac-4bed-b327-2cd288719ded
+i0db$$i_Plate Mail$$0$$e5d4bd33-e9e2-411b-ab0f-d310cc9a984f
+i04v$$i_Ring of Regeneration$$0$$aef8ab42-d4ab-4787-8723-81f56dcaa491
+i0c6$$i_Ring of Basilius (Heroes)$$0$$8c70ce4c-64a1-4935-bd96-92b43d14db07
+i0c8$$i_Cranium Basher (Ranged)$$0$$73634b3b-5c33-4402-a8c8-436a7de4e021
+i0co$$i_Helm of the Dominator (Courier)$$0$$1284340c-9cda-4c04-b8c3-ae094de13bc7
+i01g$$i_Dagon Level 1$$0$$746c1721-1bf3-44e7-a34e-86a0e84ffc6b
+i0d3$$i_Dagon Level 5$$0$$746c1721-1bf3-44e7-a34e-86a0e84ffc6b
+i0dc$$i_Dagon Level 3$$0$$746c1721-1bf3-44e7-a34e-86a0e84ffc6b
+i0dd$$i_Dagon Level 4$$0$$746c1721-1bf3-44e7-a34e-86a0e84ffc6b
+i0ct$$i_Eye of Skadi (Ranged)$$0$$7cd48c20-d890-4a35-82ff-837abe597de7
+i01f$$i_Armlet of Mordiggian (On,Courier)$$0$$bccbe88c-8147-4b5f-b4f0-52aa76f7186a
+i0de$$i_Armlet of Mordiggian (Off,Courier)$$0$$3669b521-04aa-4ba5-9345-10e96338fbad
+i0df$$i_Shiva's Guard (Courier)$$0$$79bdbbad-8980-4fb7-8b88-33f6ef520e9d
+i0dg$$i_Gem of True Sight$$0$$6733d340-5039-41a0-9ab9-d1fa689d38cf
+i0dh$$i_Disabled Kelen's Dagger$$0$$87f42e64-5b95-43a7-a0f1-7cf9fc911f51
+i0di$$i_Ring of Health$$0$$c1f39410-32c2-4e0d-8c55-1fb761fb7860
+i0dj$$i_Ring of Regeneration$$0$$d6da3cb7-efb7-4c87-b717-d7e9f4d5ffe0
+i0dk$$i_Sobi Mask$$0$$6072238d-021e-4d48-94ce-aff7dbead713
+i0dl$$i_Void Stone$$0$$b350125c-74bd-462e-86ef-3cab32488349
+i0dm$$i_Empty Bottle Store$$0$$96bdcafe-1b92-4db4-b6c6-9c486b0c3a08
+i0dn$$i_Empty Bottle$$0$$96bdcafe-1b92-4db4-b6c6-9c486b0c3a08
+i0do$$i_Magical Bottle - 1/3$$0$$b7692329-6637-44b4-9159-ab0f95c22f98
+i0dp$$i_Magical Bottle - 2/3$$0$$2ca6ef35-cd3a-4b0e-88cb-e6e6c35dbcfe
+i0dq$$i_Magical Bottle - 3/3$$0$$4032a48c-c170-4142-94c4-509921b00840
+i0dr$$i_Magical Bottle - Regeneration$$0$$1d1c7fe2-8038-4786-b5fc-217bd9546a43
+i0ds$$i_Headdress of Rejuvenation Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0dt$$i_Nathrezim Buckler Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0du$$i_Boots of Travel Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0dv$$i_Power Treads Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0dw$$i_Hand of Midas Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0dx$$i_Bracer Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0dy$$i_Wraith Band Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0dz$$i_Null Talisman Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e0$$i_Yasha Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e1$$i_Sange Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e2$$i_Cranium Basher Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e3$$i_Blade Mail Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e4$$i_Maelstrom Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e5$$i_Diffusal Blade Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e6$$i_Mask of Madness Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e7$$i_Eul's Scepter of Divinity Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e8$$i_Mekansm Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0e9$$i_Sange and Yasha Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ea$$i_Stygian Desolator Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0eb$$i_Crystalys Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ec$$i_Black King Bar Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ed$$i_Manta Style Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ee$$i_Lothar's Edge Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ef$$i_Dagon Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0eg$$i_Necronomicon Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0eh$$i_Linken's Sphere Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ei$$i_Buriza-do Kyanon Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ej$$i_Radiance Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ek$$i_Heart of Tarrasque Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0el$$i_Satanic Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0em$$i_Eye of Skadi Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0en$$i_The Butterfly Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0eo$$i_Refresher Orb Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ep$$i_Arcane Ring Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0eq$$i_Flying Courier Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0er$$i_Vladmir's Offering Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0es$$i_Assault Cuirass Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0et$$i_Armlet of Mordiggian Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0eu$$i_Shiva's Guard Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ev$$i_Diffusal Blade Level 1 (Empty)$$0$$42ba5629-433a-4409-98fc-baa2d319b581
+i0ew$$i_Diffusal Blade Level 1 (Empty)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ex$$i_Diffusal Blade (Empty)$$0$$9519e318-734d-4f6d-be9f-0d66a2c1ef14
+i0ey$$i_Aghanim's Scepter (Furion)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ez$$i_Aghanim's Scepter (KOTL)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f0$$i_Aghanim's Scepter (Leshrac)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f1$$i_Aghanim's Scepter (Lina)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f2$$i_Aghanim's Scepter (Lion)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f3$$i_Aghanim's Scepter (Lucifer)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f4$$i_Aghanim's Scepter (Necro)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f5$$i_Aghanim's Scepter (Luna$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f6$$i_Aghanim's Scepter (Lich)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f7$$i_Aghanim's Scepter (Rhasta)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f8$$i_Aghanim's Scepter (Zeus)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0f9$$i_Aghanim's Scepter (Pugna)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0fa$$i_Aghanim's Scepter (QoP)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0fb$$i_Aghanim's Scepter (Witch Doctor)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0fc$$i_Aghanim's Scepter (Veno)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0fd$$i_Aghanim's Scepter (Rylai)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0fe$$i_Aghanim's Scepter (Ogre)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ff$$i_Temporary Item$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0fg$$i_Temporary Item$$0$$207dfb0d-204b-4973-a818-a2d2877f1851
+i0fh$$i_Lycan Damage - Hero - 2$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fi$$i_Lycan Damage - Hero - 4$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fj$$i_Lycan Damage - Hero - 4 (negative)$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fk$$i_Lycan Damage - Hero - 1$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fl$$i_Lycan Damage - Hero - 3$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fm$$i_Lycan Damage - Hero - 1 (negative)$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fn$$i_Lycan Damage - Hero - 2 (negative)$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fo$$i_Lycan Damage - Hero - 3 (negative)$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fp$$i_Lycan Damage - Creep - 4 (negative)$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fq$$i_Lycan Damage - Creep - 3$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fr$$i_Lycan Damage - Creep - 2 (negative)$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0ft$$i_Lycan Damage - Creep - 3 (negative)$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fu$$i_Lycan Damage - Creep - 1 (negative)$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fv$$i_Lycan Damage - Creep - 4$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fw$$i_Lycan Damage - Creep - 1$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fx$$i_Lycan Damage - Creep - 2$$0$$311cb80b-69ff-488f-a57a-a89384da9073
+i0fs$$i_Black King Bar (7)$$0$$3ac1b022-63df-49e1-807b-09becab9ed69
+i0fy$$i_Black King Bar (8)$$0$$3ac1b022-63df-49e1-807b-09becab9ed69
+i0fz$$i_Black King Bar (10)$$0$$3ac1b022-63df-49e1-807b-09becab9ed69
+i0g0$$i_Black King Bar (9)$$0$$3ac1b022-63df-49e1-807b-09becab9ed69
+i0g1$$i_Black King Bar (5)$$0$$3ac1b022-63df-49e1-807b-09becab9ed69
+i0g2$$i_Black King Bar (10)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0g3$$i_Black King Bar (6)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0g4$$i_Black King Bar (5)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0g5$$i_Black King Bar (7)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0g6$$i_Black King Bar (9)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0g7$$i_Black King Bar (8)$$0$$5256afc6-81f1-43fd-86e6-2a2af10eec2a
+i0g8$$i_Black King Bar (10)$$0$$5256afc6-81f1-43fd-86e6-2a2af10eec2a
+i0g9$$i_Black King Bar (9)$$0$$5256afc6-81f1-43fd-86e6-2a2af10eec2a
+i0ga$$i_Black King Bar (5)$$0$$5256afc6-81f1-43fd-86e6-2a2af10eec2a
+i0gb$$i_Black King Bar (6)$$0$$5256afc6-81f1-43fd-86e6-2a2af10eec2a
+i0gc$$i_Magic Stick$$0$$b342aa1a-d2d5-4a69-9b11-77a909991851
+i0gd$$i_Magic Stick$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ge$$i_Magic Stick$$0$$ec849a10-7f72-4c3e-a1fe-ba33c44d922d
+i0gf$$i_Poison Powder$$0$$f8abd5fe-62cc-4ace-9fdc-55e84e0958bf
+i0gg$$i_Poison Powder$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0gh$$i_Dust of Appearance$$0$$cd8f5fd3-2e91-40ba-ac42-763769b44a60
+i0gi$$i_Dust of Appearance$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0gj$$i_Phase Boots$$0$$823e0225-b5dc-4bbc-9350-911fa26a07c9
+i0gk$$i_Phase Boots$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0gl$$i_Phase Boots$$0$$b9a4080c-e3bb-418f-ada1-32bc62ff595e
+i0gm$$i_Version Check$$0$$f1db04bc-430d-4975-95ac-0f94aaa7a75f
+i0gn$$i_Totem of Wind$$0$$1f604202-1f4a-4498-badf-f1c7d07495a1
+i0go$$i_Totem of Fire$$0$$1f604202-1f4a-4498-badf-f1c7d07495a1
+i0gp$$i_Totem of Water$$0$$1f604202-1f4a-4498-badf-f1c7d07495a1
+i0gq$$i_Totem of Earth$$0$$1f604202-1f4a-4498-badf-f1c7d07495a1
+i0gr$$i_Totem of Fire$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0gs$$i_Totem of Earth$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0gt$$i_Totem of Water$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0gu$$i_Totem of Wind$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0gx$$i_Magical Bottle - Regeneration$$0$$e9b32650-691c-48e4-b44a-418c6e369840
+i0gy$$i_Magical Bottle - Illusion$$0$$a09f640f-5d05-4a20-bf3d-43deffe2e94b
+i0gz$$i_Magical Bottle - Invisibility$$0$$ff3bc115-e068-4533-89d4-288ee36f2c69
+i0h0$$i_Magical Bottle - Double Damage$$0$$c6cb2c30-7ea0-49db-afa7-329451b73e71
+i0h1$$i_Magical Bottle - Haste$$0$$c337f947-d4bb-4f7a-a6f2-d16434dbb83d
+i0aq$$i_Magical Bottle - Invisibility$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ar$$i_Magical Bottle - Double Damage$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0gv$$i_Magical Bottle - Haste$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0gw$$i_Magical Bottle - Illusion$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0h2$$i_Magical Bottle - Regeneration$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0h3$$i_Magical Bottle - Illusion$$0$$8694120d-4d61-418f-8cbb-212c807fe008
+i0h4$$i_Magical Bottle - Haste$$0$$d5be9d5d-26d6-4167-b6e8-b3c5c588056b
+i0h5$$i_Magical Bottle - Invisibility$$0$$a1be61d8-6ce7-4ece-903b-ab2e962bc8e8
+i0h6$$i_Magical Bottle - Double Damage$$0$$e4265081-8c15-4bc5-a52b-341a95b4e30f
+i0h7$$i_Magic Wand Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0h8$$i_Magic Wand Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0h9$$i_Magic Wand Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0ha$$i_Magic Wand$$0$$bb3940ac-0dd5-4c8d-b884-d824eea6bd64
+i0hb$$i_Magic Wand$$0$$58a123ad-65fa-4be4-9813-a8b52e327ee3
+i0hc$$i_Magic Wand$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0hd$$i_Force Staff Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0he$$i_Force Staff Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0hf$$i_Force Staff Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0hg$$i_Force Staff$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0hh$$i_Force Staff$$0$$5f0646c7-8a9b-49f3-92ed-77be73560ae2
+i0hi$$i_Force Staff$$0$$55953846-1758-4064-8c6f-4f18864591e5
+i0hj$$i_Linken's Sphere$$0$$0ec7493f-bea7-40bd-86c5-d9ac227f7036
+i0hk$$i_Linken's Sphere$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0hl$$i_Linkin's Sphere$$0$$67523ef2-6995-4717-9fa7-04139de5c485
+i0hm$$i_Linken's Sphere$$0$$0ec7493f-bea7-40bd-86c5-d9ac227f7036
+i0hn$$i_Ghost Potion$$0$$bc9d5194-7638-4a9a-bf07-f22d638a7962
+i0ho$$i_Ghost Potion$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0hp$$i_Quelling Blade (Ranged)$$0$$247c68d4-dd78-4490-bb09-c3e792c77f21
+i0hq$$i_The Leveler$$0$$727f0ad4-ba4d-4fea-b542-5ba02caf21c5
+i0hr$$i_Quelling Blade$$0$$247c68d4-dd78-4490-bb09-c3e792c77f21
+i0hs$$i_The Leveler (Ranged)$$0$$727f0ad4-ba4d-4fea-b542-5ba02caf21c5
+i0ht$$i_Quelling Blade$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0hu$$i_Quelling Blade (Ranged)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0hv$$i_Quelling Blade$$0$$28cf4383-1d4f-4438-a983-5c3017ce128d
+i0hw$$i_Quelling Blade Ranged$$0$$28cf4383-1d4f-4438-a983-5c3017ce128d
+i0hx$$i_Khadgar's Pipe of Insight$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0hy$$i_Khadgar's Pipe of Insight$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0hz$$i_Khadgar's Pipe of Insight Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0i0$$i_Khadgar's Pipe of Insight$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0i1$$i_The Leveler (Ranged)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0i2$$i_Khadgar's Pipe of Insight$$0$$20ed78b4-6dc5-4004-b6b1-7cffd8019bee
+i0i3$$i_The Leveler (Ranged)$$0$$4805b763-0703-4ad1-9a52-957f4e60a291
+i0i4$$i_Aghanim's Scepter Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0i5$$i_Aghanim's Scepter Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0i6$$i_Aghanim's Scepter (Panda)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0i7$$i_Aghanim's Scepter (Panda)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0i8$$i_Aghanim's Scepter (Panda)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0i9$$i_Aghanim's Scepter (Clockwerk)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ia$$i_Aghanim's Scepter (Juggernaut)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ib$$i_Aghanim's Scepter (Invoker)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ic$$i_Aghanim's Scepter (Huskar)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0id$$i_Aghanim's Scepter (Sand King)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ie$$i_Aghanim's Scepter (Jakiro)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0if$$i_Aghanim's Scepter (Nightstalker)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ig$$i_Aghanim's Scepter (Chen)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ih$$i_Aghanim's Scepter (Chaos Knight)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ii$$i_Aghanim's Scepter (Vengeful Spirit)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ij$$i_Aghanim's Scepter (Sniper)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0ik$$i_Aghanim's Scepter (Chen)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0il$$i_Aghanim's Scepter (Nightstalker)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0im$$i_Aghanim's Scepter (Jakiro)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0in$$i_Aghanim's Scepter (Invoker)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0io$$i_Aghanim's Scepter (Huskar)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0ip$$i_Aghanim's Scepter (Sand King)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0iq$$i_Aghanim's Scepter (Chaos Knight)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0ir$$i_Aghanim's Scepter (Juggernaut)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0is$$i_Aghanim's Scepter (Vengeful Spirit)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0it$$i_Aghanim's Scepter (Sniper)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0iu$$i_Aghanim's Scepter (Clockwerk)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0iv$$i_Aghanim's Scepter (Clockwerk)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0iw$$i_Aghanim's Scepter (Vengeful Spirit)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ix$$i_Aghanim's Scepter (Juggernaut)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0iy$$i_Aghanim's Scepter (Chaos Knight)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0iz$$i_Aghanim's Scepter (Chen)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0j0$$i_Aghanim's Scepter (Nightstalker)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0j1$$i_Aghanim's Scepter (Jakiro)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0j2$$i_Aghanim's Scepter (Sand King)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0j3$$i_Aghanim's Scepter (Huskar)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0j4$$i_Aghanim's Scepter (Invoker)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0j5$$i_Aghanim's Scepter (Sniper)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0j6$$i_Talisman of Evasion$$0$$a5c2bc7b-927e-4e39-ae41-193ac63fce8f
+i0j7$$i_Talisman of Evasion$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0j8$$i_Talisman of Evasion$$0$$5092205e-35a0-478b-b268-e3342c104ef1
+i0j9$$i_Diffusal Blade Level 2$$0$$7bc609ce-fd67-439e-b747-236b41d78d8e
+i0ja$$i_Diffusal Blade Level 2 (Empty)$$0$$7bc609ce-fd67-439e-b747-236b41d78d8e
+i0jb$$i_Diffusal Blade Level 2$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0jc$$i_Diffusal Blade Level 2 (Empty)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0jd$$i_Diffusal Blade Level 2$$0$$4d876039-e978-4857-9720-06247a90cbc6
+i0je$$i_Diffusal Blade Level 2(Empty)$$0$$4d876039-e978-4857-9720-06247a90cbc6
+i0jf$$i_Poor Man's Shield (melee)$$0$$27d1ff3d-80b5-4e8a-9959-366b5b52d955
+i0jg$$i_Poor Man's Shield (melee)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0jh$$i_Poor Man's Shield (melee)$$0$$a22d9a3d-21a7-4b6f-822c-f9bac30d70f4
+i0ji$$i_Ghost Scepter$$0$$68fa2289-dd7a-4a79-a264-4af0c1e41919
+i0jj$$i_Ghost Scepter$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0jk$$i_Ghost Scepter$$0$$98f92604-ea69-4731-acf4-322cd3bd9e58
+i0jl$$i_Aghanim's Scepter (Windrunner)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0jm$$i_Aghanim's Scepter (Void)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0jn$$i_Aghanim's Scepter (Spiritbreaker)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0jo$$i_Aghanim's Scepter (Dazzle)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0jp$$i_Aghanim's Scepter (Abaddon)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0jq$$i_Aghanim's Scepter (Bane)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0jr$$i_Aghanim's Scepter (Pudge)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0js$$i_Aghanim's Scepter (Pudge)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0jt$$i_Aghanim's Scepter (Windrunner)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0ju$$i_Aghanim's Scepter (Void)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0jv$$i_Aghanim's Scepter (Bane)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0jw$$i_Aghanim's Scepter (Spiritbreaker)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0jy$$i_Aghanim's Scepter (Abaddon)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0jz$$i_Aghanim's Scepter (Pudge)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0k0$$i_Aghanim's Scepter (Windrunner)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0k1$$i_Aghanim's Scepter (Void)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0k2$$i_Aghanim's Scepter (SB)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0k3$$i_Aghanim's Scepter (Bane)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0k4$$i_Aghanim's Scepter (Abaddon)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0k5$$i_Aghanim's Scepter (Dazzle)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0jx$$i_Aghanim's Scepter (Dazzle)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0k6$$i_Khadgar's Pipe of Insight$$0$$05855c3b-fcf2-4340-b6ad-2aa3c198b886
+i0k7$$i_Monkey King Bar (True Strike Inactive)$$0$$491b17cd-3c47-4caa-8af4-8d04a4c60698
+i0k8$$i_Monkey King Bar$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0k9$$i_Monkey King Bar$$0$$cedf43e3-0d3c-47bb-a3a5-6b48a726f4bb
+i0ka$$i_Stout Shield (ranged)$$0$$128b0b12-4709-4dc2-9e84-a26e0cec1555
+i0kb$$i_Stout Shield (ranged)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0kc$$i_Stout Shield (ranged)$$0$$acb25505-13f3-4800-855a-8bf6c384e598
+i0kd$$i_Poor Man's Shield (ranged)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ke$$i_Poor Man's Shield (ranged)$$0$$a22d9a3d-21a7-4b6f-822c-f9bac30d70f4
+i0kf$$i_Poor Man's Shield (ranged)$$0$$27d1ff3d-80b5-4e8a-9959-366b5b52d955
+i0kg$$i_Aghanim's Scepter Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0kh$$i_Aghanim's Scepter (Techies)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0ki$$i_Aghanim's Scepter (Techies)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0kj$$i_Aghanim's Scepter (Techies)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0kk$$i_Aegis Check$$0$$0ec7493f-bea7-40bd-86c5-d9ac227f7036
+i0kl$$i_Disabled Heart of Tarrasque$$0$$ec77c81c-482f-4f4d-8b11-c04831307672
+i0km$$i_Disabled Heart of Tarrasque$$0$$968ca5a9-dd7f-41ca-b7bd-9f66530b9187
+i0kn$$i_Mjollnir Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0ko$$i_Mjollnir$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0kp$$i_Radiance (Off)$$0$$36a7bef1-cad3-4d73-8d8c-7d7593be058a
+i0kq$$i_Radiance$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0kr$$i_Radiance$$0$$d7393f46-99fc-4790-a0a4-7845aa63ca71
+i0ks$$i_Wand of Illusion$$0$$ffe30f46-2e52-44d4-bd06-65f1281e57e8
+i0kt$$i_Wand of Illusion$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ku$$i_Urn of Shadows Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0kv$$i_Urn of Shadows Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0kw$$i_Urn of Shadows Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0kx$$i_Urn of Shadows$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ky$$i_Urn of Shadows$$0$$5d4030ac-b5b4-4fe9-917c-28cb0183bb02
+i0kz$$i_Urn of Shadows$$0$$61e925b2-f24f-4813-bb39-1e71fe2fb344
+i0l1$$i_Aghanim's Scepter (Batrider)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0l2$$i_Aghanim's Scepter (Earthshaker)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0l3$$i_Aghanim's Scepter (Axe)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0l4$$i_Aghanim's Scepter (Dirge)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0l0$$i_Aghanim's Scepter (Axe)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0l5$$i_Aghanim's Scepter (Dirge)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0l6$$i_Aghanim's Scepter (Batrider)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0l7$$i_Aghanim's Scepter (Earthshaker)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0l8$$i_Aghanim's Scepter (Dirge)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0l9$$i_Aghanim's Scepter (Axe)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0la$$i_Aghanim's Scepter (Earthshaker)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0lb$$i_Aghanim's Scepter (Batrider)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0lc$$i_Vanguard (ranged)$$0$$a18b0846-8862-48f6-9e2e-e66f38228fa7
+i0ld$$i_Vanguard$$0$$a3b7ce4d-04bd-4618-a406-0cac91ae224b
+i0le$$i_Vanguard$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0lf$$i_Urn of Shadows (empty)$$0$$5d4030ac-b5b4-4fe9-917c-28cb0183bb02
+i0lg$$i_Urn of Shadows (empty)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0lh$$i_Urn of Shadows (empty)$$0$$61e925b2-f24f-4813-bb39-1e71fe2fb344
+i0li$$i_Divine Rapier$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0lj$$i_Divine Rapier$$0$$3801ff1d-c38f-4005-8d8c-6b42f26a039f
+i0lk$$i_Divine Rapier$$0$$3801ff1d-c38f-4005-8d8c-6b42f26a039f
+i0ll$$i_Soul Ring$$0$$88bd0f14-679e-4abd-961d-37f8716385eb
+i0lm$$i_Soul Ring Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ln$$i_Soul Ring Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0lo$$i_Soul Ring Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0lp$$i_Soul Ring$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0lq$$i_Soul Ring$$0$$b7579a01-92ba-4aac-b354-7525c746bee3
+i0lr$$i_Ethereal Blade$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ls$$i_Ethereal Blade$$0$$f41f1ca7-9604-4fa9-a884-51f5a18b26e7
+i0lt$$i_Ethereal Blade$$0$$a41b6d7a-9cf3-4afa-84f5-33d3cd89584b
+i0lu$$i_Aghanim's Scepter (Puck)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0lv$$i_Aghanim's Scepter (Puck)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0lw$$i_Aghanim's Scepter (Puck)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0lx$$i_Ethereal Blade Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0ly$$i_Ethereal Blade Recipe$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0lz$$i_Ethereal Blade Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0m0$$i_Aghanim's Scepter (Warlock)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0m1$$i_Aghanim's Scepter (Warlock)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0m2$$i_Aghanim's Scepter (Warlock)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0m3$$i_Aghanim's Scepter (Razor)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0m4$$i_Aghanim's Scepter (Razor)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0m5$$i_Aghanim's Scepter (Razor)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0m6$$i_Aghanim's Scepter (Viper)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0m7$$i_Aghanim's Scepter (Viper)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0m8$$i_Aghanim's Scepter (Viper)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0m9$$i_Orb of Venom$$0$$49eb833b-684b-4093-997e-44f960c20c22
+i0ma$$i_Orb of Venom$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0mb$$i_Orb of Venom$$0$$a496449b-8dbe-4298-abd8-6a1b7801da08
+i0mc$$i_Orb of Venom (ranged)$$0$$a496449b-8dbe-4298-abd8-6a1b7801da08
+i0md$$i_Orb of Venom (ranged)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0me$$i_Orb of Venom (ranged)$$0$$49eb833b-684b-4093-997e-44f960c20c22
+i0mf$$i_Aghanim's Scepter (Tiny)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0mg$$i_Aghanim's Scepter (Tiny)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0mh$$i_Aghanim's Scepter (Tiny)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0mi$$i_Arcane Boots$$0$$22db0861-5fe2-451c-b11e-24aaee6200fa
+i0mj$$i_Arcane Boots$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0mk$$i_Arcane Boots$$0$$6044bac2-286f-4ea2-b8c5-870f0b6294f2
+i0ml$$i_Aghanim's Scepter (Obsidian Destroyer)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0mm$$i_Aghanim's Scepter (Destroyer)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0mn$$i_Aghanim's Scepter (Destroyer)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0mo$$i_Aghanim's Scepter (Enchantress)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0mp$$i_Aghanim's Scepter (Enchantress)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0mq$$i_Aghanim's Scepter (Enchantress)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0mr$$i_Gem of True Sight (Courier Edition)$$0$$4b3ebadb-7e50-4159-b04d-8e312619fa4f
+i0ms$$i_Gem of True Sight (Courier Edition)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0mt$$i_Gem of True Sight (Courier Edition)$$0$$6733d340-5039-41a0-9ab9-d1fa689d38cf
+i0mu$$i_Manta Style (ranged)$$0$$74eb3587-f9b3-49cf-a8b8-f0065e3461a5
+i0mv$$i_Manta Style (ranged)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0mw$$i_Manta Style (ranged)$$0$$9d5caa1a-c80f-471c-aeb2-bdaeddb10c81
+i0mx$$i_Ancient Medallion$$0$$26b47b69-43a1-4dad-883e-a51f78e1cad0
+i0my$$i_Ancient Medallion$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0mz$$i_Ancient Medallion$$0$$26b47b69-43a1-4dad-883e-a51f78e1cad0
+i0n0$$i_Medallion of Courage$$0$$26b47b69-43a1-4dad-883e-a51f78e1cad0
+i0n1$$i_Medallion of Courage$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0n2$$i_Medallion of Courage$$0$$26b47b69-43a1-4dad-883e-a51f78e1cad0
+i0n3$$i_Corruptor$$0$$f6686e15-d233-4022-9abc-5d7f9c6dc51e
+i0n4$$i_Corruptor$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0n5$$i_Corruptor$$0$$953b196c-38e8-4953-bb3d-1dc169d03704
+i0n6$$i_Corruptor (Ranged)$$0$$f6686e15-d233-4022-9abc-5d7f9c6dc51e
+i0n7$$i_Corruptor (ranged)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0n8$$i_Corruptor (ranged)$$0$$953b196c-38e8-4953-bb3d-1dc169d03704
+i0n9$$i_Ancient Janggo of Endurance$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0na$$i_Ancient Janggo of Endurance Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0nb$$i_Ancient Janggo of Endurance Recipe$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0nc$$i_Ancient Janggo of Endurance$$0$$05d7ee49-7b22-49b6-85c7-18398d38ed6a
+i0nd$$i_Ancient Janggo of Endurance$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ne$$i_Ancient Janggo of Endurance$$0$$05d7ee49-7b22-49b6-85c7-18398d38ed6a
+i0nf$$i_Smoke of Deceit$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ng$$i_Smoke of Deceit$$0$$ae03c3c9-6e1f-4055-a476-105d95bd8e2f
+i0nh$$i_Medallion of Courage$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0ni$$i_Medallion of Courage Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5
+i0nj$$i_Medallion of Courage$$0$$b9f3e54f-02b7-4181-8cf7-601e65aa6c27
+i0nk$$i_Ancient Janggo of Endurance (empty)$$0$$05d7ee49-7b22-49b6-85c7-18398d38ed6a
+i0nl$$i_Ancient Janggo of Endurance (empty)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0nm$$i_Ancient Janggo of Endurance (empty)$$0$$05d7ee49-7b22-49b6-85c7-18398d38ed6a
+i0nn$$i_Hand of Midas (Courier Edition)$$0$$917710a0-512e-4aab-8bb4-e7a2302494c1
+i0no$$i_Hand of Midas (Courier Edition)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0np$$i_Hand of Midas (Courier Edition)$$0$$a90fbbc0-f0d6-463d-b438-f2ccf50c6e60
+i0nq$$i_Aghanim's Scepter (Dark Seer)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0nr$$i_Aghanim's Scepter (Dark Seer)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0ns$$i_Aghanim's Scepter (Dark Seer)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0nt$$i_Aghanim's Scepter (Gyrocopter)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0nu$$i_Aghanim's Scepter (Gyrocopter)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0nv$$i_Aghanim's Scepter (Gyrocopter)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0nw$$i_Aghanim's Scepter (Meepo)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0nx$$i_Aghanim's Scepter (Meepo)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0ny$$i_Aghanim's Scepter (Meepo)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0nz$$i_Aghanim's Scepter (Beastmaster)$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0o0$$i_Aghanim's Scepter (Beastmaster)$$0$$e87ff1bb-369b-43f4-8674-4966deb3b28e
+i0o1$$i_Aghanim's Scepter (Beastmaster)$$0$$b253e6da-a986-41cd-9966-356dbb698a84
+i0o2$$i_Veil of Discord$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0o3$$i_Veil of Discord$$0$$6023885d-1d18-480f-a529-3271b799d2c8
+i0o4$$i_Veil of Discord$$0$$6023885d-1d18-480f-a529-3271b799d2c8
+i0o5$$i_Veil of Discord$$0$$2801a587-f615-4953-b2d2-4f3d57fa7d37
+i0o6$$i_Veil of Discord Recipe$$0$$45453a46-3c79-4625-be89-157a7acd5ae5

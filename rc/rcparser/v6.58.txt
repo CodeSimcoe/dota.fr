@@ -1,0 +1,1972 @@
+E002$$h_Lightning Revenant
+E004$$h_Bone Fletcher
+E005$$h_Moon Rider
+E00P$$h_Twin Head Dragon
+E01A$$h_Witch Doctor
+E01B$$h_Spectre
+E01C$$h_Warlock
+E01P$$h_Dummy: SlowTurn-Range
+E01Y$$h_Templar Assassin
+E021$$h_Dummy: FastTurn-Melee
+E023$$h_Dummy: SlowTurn-Melee
+E024$$h_Dummy: FastTurn-Range
+EC45$$h_Faceless Void
+EC57$$h_Venomancer
+EC77$$h_Netherdrake
+Edem$$h_Anti-Mage
+Edmm$$h_Demon Hunter
+Eevi$$h_Soul Keeper
+Eevm$$h_Soul Keeper
+Ekee$$h_Tormented Soul
+Emns$$h_Prophet
+Emoo$$h_Enchantress
+Ewar$$h_Phantom Assassin
+H000$$h_Centaur Warchief
+H001$$h_Rogue Knight
+H004$$h_Slayer
+H008$$h_Bristleback
+H00A$$h_Holy Knight
+H00D$$h_Beastmaster
+H00E$$h_Dragon Knight
+H00F$$h_Dragon Knight
+H00G$$h_Dragon Knight
+H00H$$h_Oblivion
+H00I$$h_Geomancer
+H00J$$h_Geomancer
+H00K$$h_Goblin Techies
+H00N$$h_Dark Seer
+H00Q$$h_Sacred Warrior
+H00R$$h_Undying
+H00S$$h_Storm Spirit
+H00T$$h_Clockwerk Goblin
+H00U$$h_Invoker
+H00V$$h_Gorgon
+H06S$$h_Admiral Proudmoore
+H06W$$h_Keeper of the Light
+H06X$$h_Keeper of the Light
+H06Y$$h_Keeper of the Light
+H071$$h_Murloc Nightcrawler
+H07I$$h_Flesh Golem
+Hamg$$h_Treant Protector
+Harf$$h_Omniknight
+Hblm$$h_Keeper of the Light
+HC49$$h_Naga Siren
+HC92$$h_Stealth Assassin
+Hhkl$$h_Paladin
+Hjai$$h_Crystal Maiden
+Hlgr$$h_Dragon Knight
+Hmbr$$h_Lord of Olympia
+Hmkg$$h_Ogre Magi
+Hpal$$h_Paladin
+Hpb1$$h_Paladin
+Huth$$h_Ursa Warrior
+Hvsh$$h_Bloodseeker
+Hvwd$$h_Vengeful Spirit
+N00B$$h_Faerie Dragon
+N00R$$h_Pit Lord
+N013$$h_Lone Druid
+N014$$h_Lone Druid
+N015$$h_Lone Druid
+N016$$h_Troll Warlord
+N017$$h_Troll Warlord
+N01A$$h_Silencer
+N01H$$h_Alchemist
+N01I$$h_Alchemist
+N01J$$h_Alchemist
+N01O$$h_Lone Druid
+N01T$$h_Alchemist
+N01V$$h_Priestess of the Moon
+N01W$$h_Shadow Priest
+N02B$$h_Troll Warlord
+N0EG$$h_Windrunner
+N0EI$$h_Windrunner
+N0EJ$$h_Windrunner
+N0EK$$h_Windrunner
+N0EM$$h_Windrunner
+Naka$$h_Bounty Hunter
+Nbbc$$h_Juggernaut
+Nbrn$$h_Drow Ranger
+NC00$$h_Skeleton King
+Nfir$$h_Shadow Fiend
+Npbm$$h_Pandaren Brewmaster
+Nrob$$h_Tinker
+Ntin$$h_Tinker
+O00J$$h_Spiritbreaker
+O00P$$h_Morphling
+Obla$$h_Blademaster
+Ofar$$h_Tidehunter
+Ogrh$$h_Phantom Lancer
+Opgh$$h_Axe
+Orkn$$h_Shadow Shaman
+Oshd$$h_Bane Elemental
+Otch$$h_Earthshaker
+U000$$h_Nerubian Assassin
+U006$$h_Broodmother
+U007$$h_Lifestealer
+U008$$h_Lycanthrope
+U00A$$h_Chaos Knight
+U00C$$h_Lifestealer
+U00E$$h_Necrolyte
+U00F$$h_Butcher
+U00K$$h_Sand King
+U00P$$h_Obsidian Destroyer
+Ubal$$h_Nerubian Weaver
+UC01$$h_Queen of Pain
+UC11$$h_Magnataur
+UC18$$h_Demon Witch
+UC42$$h_Doom Bringer
+UC60$$h_Necro lic
+UC76$$h_Death Prophet
+UC91$$h_Slithereen Guard
+Ucrl$$h_Stone Giant
+Udea$$h_Lord of Avernus
+Udre$$h_Night Stalker
+Uktl$$h_Enigma
+Ulic$$h_Lich
+Usyl$$h_Dwarven Sniper
+A0YT$$a_Lightning Revenant:Storm Seeker
+A00N$$a_Lightning Revenant:Unholy Fervor
+A00Y$$a_Lightning Revenant:Chain Lightning
+A0RY$$a_Lightning Revenant:Frenzy
+A04Q$$a_Bone Fletcher:Death Pact
+A025$$a_Bone Fletcher:Wind Walk
+A030$$a_Bone Fletcher:Strafe
+AHfa$$a_Bone Fletcher:Searing Arrows
+A062$$a_Moon Rider:Lunar Blessing
+A042$$a_Moon Rider:Lucent Beam
+A054$$a_Moon Rider:Eclipse
+A041$$a_Moon Rider:Moon Glaive
+A00U$$a_Moon Rider:Eclipse
+A0O7$$a_Twin Head Dragon:Dual Breath
+A0O6$$a_Twin Head Dragon:Ice Path
+A0O8$$a_Twin Head Dragon:Auto Fire
+A0O5$$a_Twin Head Dragon:Macropyre
+A0NO$$a_Witch Doctor:Maledict
+A0NM$$a_Witch Doctor:Paralyzing Cask
+A0NT$$a_Witch Doctor:Death Ward
+A0NE$$a_Witch Doctor:Voodoo Restoration
+A0NX$$a_Witch Doctor:Death Ward
+A0FX$$a_Spectre:Desolate
+A0NA$$a_Spectre:Dispersion
+A0HW$$a_Spectre:Spectral Dagger
+A0H9$$a_Spectre:Haunt
+A0J5$$a_Warlock:Fatal Bonds
+A0AS$$a_Warlock:Shadow Word
+A06P$$a_Warlock:Upheaval
+S008$$a_Warlock:Rain of Chaos
+A0RP$$a_Templar Assassin:Psionic Trap
+A0RO$$a_Templar Assassin:Psi Blades
+A0RE$$a_Templar Assassin:Refraction
+A0RV$$a_Templar Assassin:Meld
+A081$$a_Faceless Void:Time Lock
+A0CZ$$a_Faceless Void:Backtrack
+A0LK$$a_Faceless Void:Time Walk
+A0J1$$a_Faceless Void:Chronosphere
+A173$$a_Venomancer:Venomous Gale
+A0MY$$a_Venomancer:Poison Sting
+A0MS$$a_Venomancer:Plague Ward
+A013$$a_Venomancer:Poison Nova
+A0A6$$a_Venomancer:Poison Nova
+A05D$$a_Netherdrake:Frenzy
+A080$$a_Netherdrake:Viper Strike
+A09V$$a_Netherdrake:Poison Attack
+A0MM$$a_Netherdrake:Corrosive Skin
+A0KY$$a_Anti-Mage:Spell Shield
+A022$$a_Anti-Mage:Mana Break
+AEbl$$a_Anti-Mage:Blink
+A0E3$$a_Anti-Mage:Mana Void
+AEmb$$a_Demon Hunter:Mana Burn
+AEim$$a_Demon Hunter:Immolation
+AEev$$a_Demon Hunter:Evasion
+AEme$$a_Demon Hunter:Metamorphosis
+A04L$$a_Soul Keeper:Soul Steal
+A0H4$$a_Soul Keeper:Conjure Image
+A07Q$$a_Soul Keeper:Sunder
+A035$$a_Tormented Soul:Diabolic Edict
+A06W$$a_Tormented Soul:Split Earth
+A06V$$a_Tormented Soul:Lightning Storm
+A06X$$a_Tormented Soul:Pulse Nova
+A0AQ$$a_Tormented Soul:Pulse Nova
+A17P$$a_Prophet:Sprout
+A01O$$a_Prophet:Teleportation
+AEfn$$a_Prophet:Force of Nature
+A07X$$a_Prophet:Wrath of Nature
+A0AL$$a_Prophet:Wrath of Nature
+A0DX$$a_Enchantress:Enchant
+A01B$$a_Enchantress:Nature s Attendants
+A0DW$$a_Enchantress:Untouchable
+A0DY$$a_Enchantress:Impetus
+A0YM$$a_Phantom Assassin:Stifling Dagger
+A0PL$$a_Phantom Assassin:Blink Strike
+A03P$$a_Phantom Assassin:Blur
+A03Q$$a_Phantom Assassin:Coup de grâce
+A01L$$a_Centaur Warchief:Great Fortitude
+A00L$$a_Centaur Warchief:Double Edge
+A00V$$a_Centaur Warchief:Return
+A00S$$a_Centaur Warchief:Hoof Stomp
+A0RZ$$a_Rogue Knight:Storm Bolt
+A01K$$a_Rogue Knight:Great Cleave
+A01M$$a_Rogue Knight:Toughness Aura
+A0WP$$a_Rogue Knight:God s Strength
+A01F$$a_Slayer:Dragon Slave
+A027$$a_Slayer:Light Strike Array
+A001$$a_Slayer:Ultimate
+A01P$$a_Slayer:Laguna Blade
+A09Z$$a_Slayer:Laguna Blade
+A0FV$$a_Bristleback:Warpath
+A0M3$$a_Bristleback:Bristleback
+A0GP$$a_Bristleback:Quill Spray
+A0FW$$a_Bristleback:Viscous Nasal Goo
+A0LV$$a_Holy Knight:Test of Faith
+A069$$a_Holy Knight:Holy Persuasion
+A0LT$$a_Holy Knight:Hand of God
+A0KM$$a_Holy Knight:Penitence
+A0OO$$a_Beastmaster:Call of the Wild
+A0O1$$a_Beastmaster:Wild Axes
+A0O0$$a_Beastmaster:Beast Rage
+A0O2$$a_Beastmaster:Primal Roar
+A09D$$a_Oblivion:Nether Ward
+A0MT$$a_Oblivion:Nether Blast
+A0CE$$a_Oblivion:Decrepify
+A0CC$$a_Oblivion:Life Drain
+A02Z$$a_Oblivion:Life Drain
+A06H$$a_Goblin Techies:Stasis Trap
+A05J$$a_Goblin Techies:Land Mines
+A06B$$a_Goblin Techies:Suicide Squad, Attack!
+A0AK$$a_Goblin Techies:Remote Mines
+A0QK$$a_Dark Seer:Wall of Replica
+A0R7$$a_Dark Seer:Surge
+A0QG$$a_Dark Seer:Ion Shell
+A0QE$$a_Dark Seer:Vacuum
+A0QR$$a_Sacred Warrior:Life Break
+A0QQ$$a_Sacred Warrior:Berserker s Blood
+A0QN$$a_Sacred Warrior:Burning Spear
+A0QP$$a_Sacred Warrior:Inner Vitality
+A14R$$a_Storm Spirit:Electric Vortex
+A14P$$a_Storm Spirit:Static Remnant
+A14O$$a_Storm Spirit:Ball Lightning
+A0QW$$a_Storm Spirit:Overload
+A0Z8$$a_Clockwerk Goblin:Hookshot
+A0Z6$$a_Clockwerk Goblin:Rocket Flare
+A0Z5$$a_Clockwerk Goblin:Power Cog
+A0Z4$$a_Clockwerk Goblin:Battery Assault
+A0VF$$a_Invoker:Invoke
+A0VA$$a_Invoker:Wex
+A0V9$$a_Invoker:Exort
+A0VB$$a_Invoker:Quas
+A02V$$a_Gorgon:Purge
+A0G2$$a_Gorgon:Chain Lightning
+A0MP$$a_Gorgon:Mana Shield
+A012$$a_Gorgon:Split Shot
+A136$$a_Admiral Proudmoore:Torrent
+A13T$$a_Admiral Proudmoore:Tidebringer
+A11N$$a_Admiral Proudmoore:X Marks The Spot
+A11K$$a_Admiral Proudmoore:Ghost Ship
+A12A$$a_Murloc Nightcrawler:Fear of the Dark
+A127$$a_Murloc Nightcrawler:Nightcrawler
+A07Z$$a_Treant Protector:Overgrowth
+A01Z$$a_Treant Protector:Nature s Guise
+A01V$$a_Treant Protector:Eyes in the Forest
+A01U$$a_Treant Protector:Living Armor
+A08N$$a_Omniknight:Purification
+A08V$$a_Omniknight:Repel
+A0ER$$a_Omniknight:Guardian Angel
+A06A$$a_Omniknight:Degen Aura
+A00E$$a_Naga Siren:Critical Strike
+A0BA$$a_Naga Siren:Ensnare
+A063$$a_Naga Siren:Mirror Image
+A07U$$a_Naga Siren:Song of the Siren
+A0DZ$$a_Stealth Assassin:Backstab
+A0K9$$a_Stealth Assassin:Blink Strike
+A00J$$a_Stealth Assassin:Permanent Invisibility
+A0RG$$a_Stealth Assassin:Smoke Screen
+A01D$$a_Crystal Maiden:Frost Nova
+A04C$$a_Crystal Maiden:Frostbite
+AHab$$a_Crystal Maiden:Brilliance Aura
+A03R$$a_Crystal Maiden:Freezing Field
+A0AV$$a_Crystal Maiden:Freezing Field
+A020$$a_Lord of Olympia:Arc Lightning
+A0N5$$a_Lord of Olympia:Static Field
+A0JC$$a_Lord of Olympia:Lightning Bolt
+A07C$$a_Lord of Olympia:Thundergod s Wrath
+A06L$$a_Lord of Olympia:Thundergod s Wrath
+A011$$a_Ogre Magi:Ignite
+A04W$$a_Ogre Magi:Fireblast
+A083$$a_Ogre Magi:Bloodlust
+A088$$a_Ogre Magi:Multi Cast
+A089$$a_Ogre Magi:Fireblast
+A007$$a_Ogre Magi:Ignite 1
+A08F$$a_Ogre Magi:Bloodlust
+A08A$$a_Ogre Magi:Fireblast
+A01T$$a_Ogre Magi:Ignite 2
+A08G$$a_Ogre Magi:Bloodlust
+A08D$$a_Ogre Magi:Fireblast
+A00F$$a_Ogre Magi:Ignite 3
+A08I$$a_Ogre Magi:Bloodlust
+A059$$a_Ursa Warrior:Overpower
+A0LC$$a_Ursa Warrior:Enrage
+A03Y$$a_Ursa Warrior:Earthshock
+ANic$$a_Ursa Warrior:Fury Swipes
+A0LH$$a_Bloodseeker:Rupture
+A0I8$$a_Bloodseeker:Strygwyr s Thirst
+A0EC$$a_Bloodseeker:Bloodrage
+A0LE$$a_Bloodseeker:Blood Bath
+A02A$$a_Vengeful Spirit:Magic Missile
+ACac$$a_Vengeful Spirit:Command Aura
+A17O$$a_Vengeful Spirit:Wave of Terror
+A0IN$$a_Vengeful Spirit:Nether Swap
+A0S8$$a_Faerie Dragon:Dream Coil
+A0SC$$a_Faerie Dragon:Waning Rift
+A0SB$$a_Faerie Dragon:Phase Shift
+A0S9$$a_Faerie Dragon:Illusory Orb
+A0QT$$a_Pit Lord:Expulsion
+A0RA$$a_Pit Lord:Pit of Malice
+A01I$$a_Pit Lord:Firestorm
+A0R0$$a_Pit Lord:Dark Rift
+A0LZ$$a_Silencer:Glaives of Wisdom
+A0MC$$a_Silencer:Last Word
+A14L$$a_Silencer:Curse of the Silent
+A0L3$$a_Silencer:Global Silence
+A0AA$$a_Lone Druid:Rabid
+A0AG$$a_Lone Druid:True Form
+A0AB$$a_Lone Druid:Rabid
+A0AC$$a_Lone Druid:Rabid
+A0AD$$a_Lone Druid:Rabid
+A0AE$$a_Lone Druid:Rabid
+A0L8$$a_Priestess of the Moon:Elune s Arrow
+A0LN$$a_Priestess of the Moon:Leap
+A0KV$$a_Priestess of the Moon:Starfall
+A0KU$$a_Priestess of the Moon:Moonlight Shadow
+A10L$$a_Shadow Priest:Shallow Grave
+A0OR$$a_Shadow Priest:Shadow Wave
+A10Q$$a_Shadow Priest:Weave
+A0NQ$$a_Shadow Priest:Poison Touch
+A14I$$a_Windrunner:Windrunner
+A000$$a_Bounty Hunter:Jinada
+A07A$$a_Bounty Hunter:Wind Walk
+A004$$a_Bounty Hunter:Shuriken Toss
+A0B4$$a_Bounty Hunter:Track
+A047$$a_Juggernaut:Healing Ward
+A05G$$a_Juggernaut:Blade Fury
+A00K$$a_Juggernaut:Blade Dance
+A0M1$$a_Juggernaut:Omnislash
+A0QB$$a_Drow Ranger:Silence
+A029$$a_Drow Ranger:Trueshot Aura
+A026$$a_Drow Ranger:Frost Arrows
+A0VC$$a_Drow Ranger:Marksmanship
+AHtb$$a_Skeleton King:Hellfire Blast
+AUav$$a_Skeleton King:Vampiric Aura
+A01Y$$a_Skeleton King:Reincarnation
+A0FU$$a_Shadow Fiend:Presence of the Dark Lord
+A0BR$$a_Shadow Fiend:Necromastery
+A0HE$$a_Shadow Fiend:Requiem of Souls
+A0EY$$a_Shadow Fiend:Shadowraze
+A06M$$a_Pandaren Brewmaster:Thunder Clap
+Acdh$$a_Pandaren Brewmaster:Drunken Haze
+A0MX$$a_Pandaren Brewmaster:Drunken Brawler
+A0MQ$$a_Pandaren Brewmaster:Primal Split
+ANsy$$a_Tinker:Pocket Factory
+ANcs$$a_Tinker:Cluster Rockets
+ANeg$$a_Tinker:Engineering Upgrade
+ANrg$$a_Tinker:Robo-Goblin
+ANs1$$a_Tinker:Pocket Factory
+ANc1$$a_Tinker:Cluster Rockets
+ANs2$$a_Tinker:Pocket Factory
+ANc2$$a_Tinker:Cluster Rockets
+ANs3$$a_Tinker:Pocket Factory
+ANc3$$a_Tinker:Cluster Rockets
+A065$$a_Tinker:Rearm
+A049$$a_Tinker:Laser
+A05E$$a_Tinker:Heat Seeking Missile
+A0BQ$$a_Tinker:March of the Machines
+A0ML$$a_Spiritbreaker:Charge of Darkness
+A0G4$$a_Spiritbreaker:Nether Strike
+A0G5$$a_Spiritbreaker:Greater Bash
+A0ES$$a_Spiritbreaker:Empowering Haste
+A0G6$$a_Morphling:Adaptive Strike
+A0G8$$a_Morphling:Replicate
+A0KX$$a_Morphling:Morph
+A0FN$$a_Morphling:Waveform
+AOwk$$a_Blademaster:Wind Walk
+AOmi$$a_Blademaster:Mirror Image
+AOww$$a_Blademaster:Bladestorm
+A03Z$$a_Tidehunter:Ravage
+A044$$a_Tidehunter:Anchor Smash
+A046$$a_Tidehunter:Gush
+A04E$$a_Tidehunter:Kraken Shell
+A0DB$$a_Phantom Lancer:Juxtapose
+A10D$$a_Phantom Lancer:Spirit Lance
+A0D7$$a_Phantom Lancer:Doppelwalk
+A0YK$$a_Phantom Lancer:Phantom Edge
+A0I6$$a_Axe:Berserker s Call
+A0S1$$a_Axe:Battle Hunger
+A0C6$$a_Axe:Counter Helix
+A0E2$$a_Axe:Culling Blade
+A00P$$a_Shadow Shaman:Shackles
+A0RX$$a_Shadow Shaman:Voodoo
+A010$$a_Shadow Shaman:Forked Lightning
+A00H$$a_Shadow Shaman:Mass Serpent Ward
+A0A1$$a_Shadow Shaman:Mass Serpent Ward
+A02Q$$a_Bane Elemental:Fiend s Grip
+A0GK$$a_Bane Elemental:Brain Sap
+A04V$$a_Bane Elemental:Enfeeble
+A04Y$$a_Bane Elemental:Nightmare
+A0DH$$a_Earthshaker:Echo Slam
+A0DL$$a_Earthshaker:Enchant Totem
+A0SK$$a_Earthshaker:Fissure
+A0DJ$$a_Earthshaker:Aftershock
+A0X7$$a_Nerubian Assassin:Impale
+A09U$$a_Nerubian Assassin:Vendetta
+A02K$$a_Nerubian Assassin:Mana Burn
+A02L$$a_Nerubian Assassin:Spiked Carapace
+A0WQ$$a_Broodmother:Insatiable Hunger
+A0BK$$a_Broodmother:Incapacitating Bite
+A0BH$$a_Broodmother:Spawn Spiderlings
+A0BG$$a_Broodmother:Spin Web
+A0JQ$$a_Lifestealer:Feast
+A06Y$$a_Lifestealer:Anabolic Frenzy
+A01E$$a_Lifestealer:Poison Sting
+A028$$a_Lifestealer:Rage
+A03E$$a_Lycanthrope:Feral Heart
+A0ZF$$a_Lycanthrope:Howl
+A093$$a_Lycanthrope:Shapeshift
+A03D$$a_Lycanthrope:Summon Wolves
+A03O$$a_Chaos Knight:Phantasm
+A03N$$a_Chaos Knight:Critical Strike
+A0RW$$a_Chaos Knight:Blink Strike
+A055$$a_Chaos Knight:Chaos Bolt
+A0SW$$a_Lifestealer:Infest
+A0SS$$a_Lifestealer:Feast
+A0T2$$a_Lifestealer:Rage
+A0TI$$a_Lifestealer:Open Wounds
+A067$$a_Necrolyte:Reaper s Scythe
+A05V$$a_Necrolyte:Death Pulse
+A060$$a_Necrolyte:Sadist
+A01N$$a_Necrolyte:Heartstopper Aura
+A08P$$a_Necrolyte:Reaper s Scythe
+A06I$$a_Butcher:Meat Hook
+A06D$$a_Butcher:Flesh Heap
+A0FL$$a_Butcher:Dismember
+A06K$$a_Butcher:Rot
+A06R$$a_Sand King:Epicenter
+A0H0$$a_Sand King:Sand Storm
+A06O$$a_Sand King:Burrowstrike
+A0FA$$a_Sand King:Caustic Finale
+A0F1$$a_Sand King:Burrowstrike
+A0F3$$a_Sand King:Epicenter
+A0OK$$a_Obsidian Destroyer:Sanity s Eclipse
+A0OJ$$a_Obsidian Destroyer:Astral Imprisonment
+A0OI$$a_Obsidian Destroyer:Arcane Orb
+A0IF$$a_Obsidian Destroyer:Essence Aura
+A00T$$a_Nerubian Weaver:Watcher
+A0CA$$a_Nerubian Weaver:Shukuchi
+A0CG$$a_Nerubian Weaver:Geminate Attack
+A0CT$$a_Nerubian Weaver:Time Lapse
+A0Q7$$a_Queen of Pain:Shadow Strike
+A0ME$$a_Queen of Pain:Blink
+A04A$$a_Queen of Pain:Scream of Pain
+A00O$$a_Queen of Pain:Sonic Wave
+A0AF$$a_Queen of Pain:Sonic Wave
+A02S$$a_Magnataur:Shockwave
+A037$$a_Magnataur:Empower
+A024$$a_Magnataur:Mighty Swing
+A06F$$a_Magnataur:Reverse Polarity
+A0X5$$a_Demon Witch:Impale
+A0MN$$a_Demon Witch:Voodoo
+A02N$$a_Demon Witch:Mana Drain
+A095$$a_Demon Witch:Finger of Death
+A09W$$a_Demon Witch:Finger of Death
+A094$$a_Doom Bringer:LVL? Death
+A10R$$a_Doom Bringer:Devour
+A0FE$$a_Doom Bringer:Scorched Earth
+A0MU$$a_Doom Bringer:Doom
+A0A2$$a_Doom Bringer:Doom
+A08X$$a_Necro lic:Grave Chill
+A0VY$$a_Necro lic:Soul Assumption
+A0VX$$a_Necro lic:Gravekeeper s Cloak
+A07K$$a_Necro lic:Raise Revenants
+A02C$$a_Death Prophet:Witchcraft
+A02M$$a_Death Prophet:Carrion Swarm
+A0P6$$a_Death Prophet:Silence
+A073$$a_Death Prophet:Exorcism
+A07H$$a_Death Prophet:Silence
+A03J$$a_Death Prophet:Exorcism
+A06N$$a_Death Prophet:Carrion Swarm
+A07I$$a_Death Prophet:Silence
+A04J$$a_Death Prophet:Exorcism
+A072$$a_Death Prophet:Carrion Swarm
+A07J$$a_Death Prophet:Silence
+A04M$$a_Death Prophet:Exorcism
+A074$$a_Death Prophet:Carrion Swarm
+A07M$$a_Death Prophet:Silence
+A04N$$a_Death Prophet:Exorcism
+A078$$a_Death Prophet:Carrion Swarm
+A05C$$a_Slithereen Guard:Sprint
+A01W$$a_Slithereen Guard:Slithereen Crush
+A0JJ$$a_Slithereen Guard:Bash
+A034$$a_Slithereen Guard:Amplify Damage
+A0BU$$a_Stone Giant:Craggy Exterior
+A0CY$$a_Stone Giant:Grow
+A0LL$$a_Stone Giant:Avalanche
+A0BZ$$a_Stone Giant:Toss
+A0NS$$a_Lord of Avernus:Borrowed Time
+A0MG$$a_Lord of Avernus:Frostmourne
+A0I3$$a_Lord of Avernus:Death Coil
+A0MF$$a_Lord of Avernus:Aphotic Shield
+A086$$a_Night Stalker:Hunter in the Night
+A08E$$a_Night Stalker:Crippling Fear
+A03K$$a_Night Stalker:Darkness
+A02H$$a_Night Stalker:Void
+A0I7$$a_Enigma:Malefice
+A0B7$$a_Enigma:Conversion
+A0B1$$a_Enigma:Midnight Pulse
+A0BY$$a_Enigma:Black Hole
+A053$$a_Lich:Dark Ritual
+A07F$$a_Lich:Frost Nova
+A08R$$a_Lich:Frost Armor
+A05T$$a_Lich:Chain Frost
+A08H$$a_Lich:Chain Frost
+A04P$$a_Dwarven Sniper:Assassinate
+A03U$$a_Dwarven Sniper:Take Aim
+A03S$$a_Dwarven Sniper:Headshot
+A064$$a_Dwarven Sniper:ScatterShot
+Aamk$$a_Any:Attribute Bonus
+A0MV$$a_Soul Keeper:Metamorphosis
+A03G$$a_Dragon Knight:Elder Dragon Form
+A03F$$a_Dragon Knight:Breathe Fire
+A0AR$$a_Dragon Knight:Dragon Tail
+A0CL$$a_Dragon Knight:Dragon Blood
+A0N8$$a_Geomancer:Poof
+A0NB$$a_Geomancer:Earthbind
+A0N7$$a_Geomancer:Geostrike
+A0MW$$a_Geomancer:Divided We Stand
+A15S$$a_Any:Decay
+A0R5$$a_Any:Soul Rip
+A15V$$a_Any:Tombstone
+A15J$$a_Any:Flesh Golem
+A0NR$$a_Any:Attribute Bonus
+A085$$a_Keeper of the Light:Illuminate
+A10X$$a_Keeper of the Light:Mana Leak
+A11T$$a_Keeper of the Light:Spirit Form
+A112$$a_Keeper of the Light:Chakra Magic
+AHhb$$a_Paladin:Holy Light
+AHds$$a_Paladin:Divine Shield
+AHre$$a_Paladin:Resurrection
+AHad$$a_Paladin:Devotion Aura
+A0A5$$a_Lone Druid:Summon Spirit Bear
+A0A8$$a_Lone Druid:Synergy
+ANsw$$a_Lone Druid:Summon Hawk
+ANst$$a_Lone Druid:Stampede
+A0BE$$a_Troll Warlord:Berserker Rage
+A0BC$$a_Troll Warlord:Blind
+A0BD$$a_Troll Warlord:Fervor
+A0BB$$a_Troll Warlord:Rampage
+A0J6$$a_Alchemist:Unstable Concoction
+A0IL$$a_Alchemist:Acid Spray
+A0O3$$a_Alchemist:Goblin s Greed
+ANcr$$a_Alchemist:Chemical Rage
+A12P$$a_Windrunner:Focus Fire
+A12K$$a_Windrunner:Powershot
+A12J$$a_Windrunner:Shackleshot
+A130$$a_Windrunner:Windrunner
+AOcr$$a_Any:Critical Strike
+belv$$i_Boots of QuelThalas +6::ReplaceableTextures/CommandButtons/BTNBoots.png
+bfhr$$i_Bloodfeathers Heart::ReplaceableTextures/CommandButtons/BTNPhilosophersStone.png
+bgst$$i_Belt of Giant Strength +6::ReplaceableTextures/CommandButtons/BTNBelt.png
+bspd$$i_Boots of Speed::ReplaceableTextures/CommandButtons/BTNBootsOfSpeed.png
+ccmd$$i_Scepter of Mastery::ReplaceableTextures/CommandButtons/BTNScepterOfMastery.png
+ches$$i_Cheese::ReplaceableTextures/CommandButtons/BTNCheese.png
+ciri$$i_Robe of the Magi +6::ReplaceableTextures/CommandButtons/BTNRobeOfTheMagi.png
+clfm$$i_Cloak of Flames::ReplaceableTextures/CommandButtons/BTNCloakOfFlames.png
+crys$$i_Crystal Ball::ReplaceableTextures/CommandButtons/BTNCrystalBall.png
+desc$$i_Kelens Dagger of Escape::ReplaceableTextures/CommandButtons/BTNDaggerOfEscape.png
+dust$$i_Dust of Appearance::ReplaceableTextures/CommandButtons/BTNDustOfAppearance.png
+e000$$i_Lightning Bolter::ReplaceableTextures/CommandButtons/BTNMonsoon.png
+e001$$i_AttackToUD::ReplaceableTextures/CommandButtons/BTNWisp.png
+e003$$i_Smoke Screen::ReplaceableTextures/CommandButtons/BTNCloudOfFog.png
+e006$$i_Dark Pillar::ReplaceableTextures/CommandButtons/BTNDeathCoil.png
+e007$$i_Dummy::ReplaceableTextures/CommandButtons/BTNWisp.png
+e008$$i_AttackToSent::ReplaceableTextures/CommandButtons/BTNWisp.png
+e009$$i_Frost Missile::ReplaceableTextures/CommandButtons/BTNBreathOfFrost.png
+e00A$$i_AttackToRight::ReplaceableTextures/CommandButtons/BTNWisp.png
+e00B$$i_AttackToMid::ReplaceableTextures/CommandButtons/BTNWisp.png
+e00C$$i_Stop looking at me swan!!::ReplaceableTextures/CommandButtons/BTNWisp.png
+e00D$$i_AttackToLeft::ReplaceableTextures/CommandButtons/BTNWisp.png
+e00E$$i_Spellcaster::ReplaceableTextures/CommandButtons/BTNShade.png
+e00F$$i_Dark Flame::ReplaceableTextures/CommandButtons/BTNAntiMagicShell.png
+e00G$$i_OMG LION TEST::ReplaceableTextures/CommandButtons/BTNWisp.png
+e00H$$i_Fissure Unit::ReplaceableTextures/CommandButtons/BTNShockWave.png
+e00I$$i_Ignis Fatuus::ReplaceableTextures/CommandButtons/BTNWispSplode.png
+e00J$$i_ScatterDebrei::replaceableTextures/CommandButtons/BTNtemp.png
+e00K$$i_Ignis Fatuus::ReplaceableTextures/CommandButtons/BTNWispSplode.png
+e00L$$i_Ignis Fatuus::ReplaceableTextures/CommandButtons/BTNWispSplode.png
+e00M$$i_Liberated Soul::ReplaceableTextures/CommandButtons/BTNPriest.png
+e00N$$i_Liberated Soul::ReplaceableTextures/CommandButtons/BTNPriest.png
+e00O$$i_Liberated Soul::ReplaceableTextures/CommandButtons/BTNPriest.png
+e00Q$$i_Sand Storm (caster)::ReplaceableTextures/CommandButtons/BTNWisp.png
+e00R$$i_Ancient Protector - level 1::ReplaceableTextures/CommandButtons/BTNTreant.png
+e00S$$i_Ancient Protector - level 3::ReplaceableTextures/CommandButtons/BTNTreant.png
+e00T$$i_Object Only Summon unit::ReplaceableTextures/CommandButtons/BTNShade.png
+e00U$$i_Prismatic Prison::ReplaceableTextures/CommandButtons/BTNManaFlare.png
+e00V$$i_Treant::ReplaceableTextures/CommandButtons/BTNEnt.png
+e00W$$i_Druid of the Talon::ReplaceableTextures/CommandButtons/BTNDruidOfTheTalon.png
+e00X$$i_Caster::ReplaceableTextures/CommandButtons/BTNWisp.png
+e00Y$$i_Spellcaster #2::ReplaceableTextures/CommandButtons/BTNShade.png
+e00Z$$i_Soul Assumption Effect::ReplaceableTextures/CommandButtons/BTNShade.png
+e010$$i_Consume::ReplaceableTextures/CommandButtons/BTNOrbOfCorruption.png
+e011$$i_Ancient Protector - level 2::ReplaceableTextures/CommandButtons/BTNTreant.png
+e012$$i_Joke_Extort_FX1::ReplaceableTextures/CommandButtons/BTNShade.png
+e013$$i_Joke_Wex_FX1::ReplaceableTextures/CommandButtons/BTNShade.png
+e014$$i_Joke_Quas_FX1::ReplaceableTextures/CommandButtons/BTNShade.png
+E015$$i_Lycanthrope::ReplaceableTextures/CommandButtons/BTNDireWolf.png
+e016$$i_Joke_Extort_FX2::ReplaceableTextures/CommandButtons/BTNShade.png
+e017$$i_Nova Missile::ReplaceableTextures/PassiveButtons/PASBTNCorrosiveBreath.png
+e018$$i_Joke_Quas_FX2::ReplaceableTextures/CommandButtons/BTNShade.png
+e019$$i_Ancient Protector - level 4::ReplaceableTextures/CommandButtons/BTNTreant.png
+e01D$$i_Joke_Wex_FX2::ReplaceableTextures/CommandButtons/BTNShade.png
+e01E$$i_Acid Spray Model::ReplaceableTextures/CommandButtons/BTNShade.png
+e01F$$i_ItemHolder::ReplaceableTextures/CommandButtons/BTNShade.png
+e01G$$i_Upheaval Model::ReplaceableTextures/CommandButtons/BTNShade.png
+e01H$$i_Crow::ReplaceableTextures/CommandButtons/BTNRavenForm.png
+e01I$$i_Liberated Soul::ReplaceableTextures/CommandButtons/BTNPriest.png
+e01J$$i_Ignis Fatuus::ReplaceableTextures/CommandButtons/BTNWispSplode.png
+e01K$$i_Meteor (Falling Down)::ReplaceableTextures/CommandButtons/BTNShade.png
+e01L$$i_Meteor (Moving)::ReplaceableTextures/CommandButtons/BTNShade.png
+e01M$$i_EMP Main::ReplaceableTextures/CommandButtons/BTNShade.png
+e01N$$i_Caster with Truesight and for Following::ReplaceableTextures/CommandButtons/BTNWisp.png
+e01O$$i_EMP FX::ReplaceableTextures/CommandButtons/BTNShade.png
+e01Q$$i_Vengeance Death caster::ReplaceableTextures/CommandButtons/BTNShade.png
+e01R$$i_Buff Placer::ReplaceableTextures/CommandButtons/BTNShade.png
+e01S$$i_Invis Caster::ReplaceableTextures/CommandButtons/BTNShade.png
+e01T$$i_Wild Axes::ReplaceableTextures/CommandButtons/BTNTreant.png
+e01U$$i_Dummy Ice::ReplaceableTextures/CommandButtons/BTNWisp.png
+e01V$$i_Spellcaster #3::ReplaceableTextures/CommandButtons/BTNShade.png
+e01X$$i_Test Caster::ReplaceableTextures/CommandButtons/BTNShade.png
+e01Z$$i_Vulture::ReplaceableTextures/CommandButtons/BTNRavenForm.png
+e020$$i_Psionic Trap::ReplaceableTextures/CommandButtons/BTNTrap.png
+e022$$i_Spellcaster (vision)::ReplaceableTextures/CommandButtons/BTNShade.png
+e025$$i_Ancient of Wonders::ReplaceableTextures/CommandButtons/BTNAncientOfWonders.png
+e026$$i_Glaive Thrower::ReplaceableTextures/CommandButtons/BTNGlaiveThrower.png
+e027$$i_A Sentinel Player::ReplaceableTextures/CommandButtons/BTNShade.png
+e028$$i_A Scourge Player::ReplaceableTextures/CommandButtons/BTNShade.png
+e029$$i_DotA Caster::ReplaceableTextures/CommandButtons/BTNShade.png
+e02A$$i_Spellcaster #4::ReplaceableTextures/CommandButtons/BTNShade.png
+eaoe$$i_Ancient of Lore::ReplaceableTextures/CommandButtons/BTNAncientOfLore.png
+eaom$$i_Ancient of War::ReplaceableTextures/CommandButtons/BTNAncientOfTheEarth.png
+eaow$$i_Ancient of Wind::ReplaceableTextures/CommandButtons/BTNAncientOfTheMoon.png
+eate$$i_Altar of Elders::ReplaceableTextures/CommandButtons/BTNAltarOfElders.png
+ebal$$i_Glaive Thrower::ReplaceableTextures/CommandButtons/BTNGlaiveThrower.png
+echm$$i_Chimaera::ReplaceableTextures/CommandButtons/BTNChimaera.png
+eden$$i_Ancient of Wonders::ReplaceableTextures/CommandButtons/BTNAncientOfWonders.png
+edob$$i_Hunters Hall::ReplaceableTextures/CommandButtons/BTNHuntersHall.png
+edos$$i_Chimaera Roost::ReplaceableTextures/CommandButtons/BTNChimaeraRoost.png
+edot$$i_Druid of the Talon::ReplaceableTextures/CommandButtons/BTNDruidOfTheTalon.png
+edry$$i_Druid of the Talon::ReplaceableTextures/CommandButtons/BTNDruidOfTheTalon.png
+edtm$$i_Druid of the Talon::ReplaceableTextures/CommandButtons/BTNRavenForm.png
+efon$$i_Treant::ReplaceableTextures/CommandButtons/BTNEnt.png
+egol$$i_Entangled Gold Mine::ReplaceableTextures/CommandButtons/BTNGoldMine.png
+emow$$i_Moon Well::ReplaceableTextures/CommandButtons/BTNMoonWell.png
+esen$$i_Treant::ReplaceableTextures/CommandButtons/BTNEnt.png
+etoa$$i_Tree of Ages::ReplaceableTextures/CommandButtons/BTNTreeOfAges.png
+etoe$$i_Tree of Eternity::ReplaceableTextures/CommandButtons/BTNTreeOfEternity.png
+etol$$i_The World Tree::ReplaceableTextures/CommandButtons/BTNTreeOfLife.png
+etrp$$i_Ancient Protector::ReplaceableTextures/CommandButtons/BTNTreant.png
+ewsp$$i_Wisp::ReplaceableTextures/CommandButtons/BTNWisp.png
+fgrg$$i_Stone Token::ReplaceableTextures/CommandButtons/BTNRockGolem.png
+flag$$i_Human Flag::ReplaceableTextures/CommandButtons/BTNHumanCaptureFlag.png
+gldo$$i_Orb of Kiljaeden::ReplaceableTextures/CommandButtons/BTNUsedSoulGem.png
+gomn$$i_Glyph of Omniscience::ReplaceableTextures/CommandButtons/BTNGlyph.png
+grsl$$i_Grimoire of Souls::ReplaceableTextures/CommandButtons/BTNNecromancerMaster.png
+gsou$$i_Soul Gem::ReplaceableTextures/CommandButtons/BTNSoulGem.png
+gvsm$$i_Gloves of Spell Mastery::ReplaceableTextures/CommandButtons/BTNSpellSteal.png
+h002$$i_Shadow Path::ReplaceableTextures/CommandButtons/BTNAbility_Spectral_Dagger.png
+h003$$i_Shadow Dagger::ReplaceableTextures/CommandButtons/BTNAbility_Spectral_Dagger.png
+h005$$i_Elunes Arrow::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h006$$i_Dire Eidolon::ReplaceableTextures/CommandButtons/BTN_Conversion.png
+h007$$i_Weave::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h009$$i_DummyNet::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h00B$$i_IceArmor Caster::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h00C$$i_Net Projectile::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h00L$$i_Shallow Grave::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+H00M$$i_Bloodrune::ReplaceableTextures/CommandButtons/BTNINV_Misc_Gem_Bloodstone_02.png
+h00O$$i_Wall of Replica::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h00P$$i_Wall of Replica Detection::ReplaceableTextures/CommandButtons/BTNAbomination.png
+h00W$$i_Raise Dead Projectile::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h00X$$i_AH::ReplaceableTextures/CommandButtons/BTNTemp.png
+H00Y$$i_Preloader Hero::ReplaceableTextures/CommandButtons/BTNINV_Misc_Gem_Bloodstone_02.png
+h00Z$$i_Battery Assault::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h010$$i_Stifling Dagger Projectile::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h011$$i_Boots of Speed::ReplaceableTextures/CommandButtons/BTNBootsOfSpeed.png
+h012$$i_Gloves of Haste::ReplaceableTextures/CommandButtons/BTNGlove.png
+h013$$i_Boots of Elvenskin::ReplaceableTextures/CommandButtons/BTNBoots.png
+h014$$i_Power Treads::ReplaceableTextures/CommandButtons/BTNWirtsLeg.png
+h015$$i_Circlet of Nobility::ReplaceableTextures/CommandButtons/BTNCirclet.png
+h016$$i_Belt of Giant Strength::ReplaceableTextures/CommandButtons/BTNBelt.png
+h017$$i_Blade of Alacrity::ReplaceableTextures/CommandButtons/BTNINV_ThrowingKnife_03.png
+h018$$i_Blades of Attack::ReplaceableTextures/CommandButtons/BTNClawsOfAttack.png
+h019$$i_Broadsword::ReplaceableTextures/CommandButtons/BTNSteelMelee.png
+h01A$$i_Chainmail::ReplaceableTextures/CommandButtons/BTNINV_Chest_Chain_12.png
+h01B$$i_Claymore::ReplaceableTextures/CommandButtons/BTNINV_Sword_19.png
+h01C$$i_Demon Edge::ReplaceableTextures/CommandButtons/BTNFrostMourne.png
+h01D$$i_Eaglehorn::ReplaceableTextures/CommandButtons/BTNINV_Weapon_Bow_06.png
+h01E$$i_Energy Booster::ReplaceableTextures/CommandButtons/BTNEnchantedGemstone.png
+h01F$$i_Gauntlets of Strength::ReplaceableTextures/CommandButtons/BTNGauntletsOfOgrePower.png
+h01G$$i_Gem of True Sight::ReplaceableTextures/CommandButtons/BTNGem.png
+h01H$$i_Helm of Iron Will::ReplaceableTextures/CommandButtons/BTNHelmutPurple.png
+h01I$$i_Hyperstone::ReplaceableTextures/CommandButtons/BTNPeriapt1.png
+h01J$$i_Ironwood Branch::ReplaceableTextures/CommandButtons/BTNNatureTouchGrow.png
+h01K$$i_Kelens Dagger::ReplaceableTextures/CommandButtons/BTNDaggerOfEscape.png
+h01L$$i_Mantle of Intelligence::ReplaceableTextures/CommandButtons/BTNMantleOfIntelligence.png
+h01M$$i_Mask of Death::ReplaceableTextures/CommandButtons/BTNUndeadShrine.png
+h01N$$i_Messerschmidts Reaver::ReplaceableTextures/CommandButtons/BTNSpiritWalkerMasterTraining.png
+h01O$$i_Mithril Hammer::ReplaceableTextures/CommandButtons/BTNHammer.png
+h01P$$i_Mystic Staff::ReplaceableTextures/CommandButtons/BTNStaffOfNegation.png
+h01Q$$i_Ogre Axe::ReplaceableTextures/CommandButtons/BTNSpiritWalkerAdeptTraining.png
+h01R$$i_Planeswalkers Cloak::ReplaceableTextures/CommandButtons/BTNINV_Misc_Cape_08.png
+h01S$$i_Plate Mail::ReplaceableTextures/CommandButtons/BTNINV_Chest_Plate13.png
+h01T$$i_Point Booster::ReplaceableTextures/CommandButtons/BTNUsedSoulGem.png
+h01U$$i_Quarterstaff::ReplaceableTextures/CommandButtons/BTNAlleriaFlute.png
+h01V$$i_Ring of Health::ReplaceableTextures/CommandButtons/BTNGoldRing.png
+h01W$$i_Ring of Protection::ReplaceableTextures/CommandButtons/BTNRingGreen.png
+h01X$$i_Ring of Regeneration::ReplaceableTextures/CommandButtons/BTNRingSkull.png
+h01Y$$i_Robe of the Magi::ReplaceableTextures/CommandButtons/BTNRobeOfTheMagi.png
+h01Z$$i_Sacred Relic::ReplaceableTextures/CommandButtons/BTNStaffOfTeleportation.png
+h020$$i_Slippers of Agility::ReplaceableTextures/CommandButtons/BTNSlippersOfAgility.png
+h021$$i_Sobi Mask::ReplaceableTextures/CommandButtons/BTNSobiMask.png
+h022$$i_Staff of Wizardry::ReplaceableTextures/CommandButtons/BTNWandOfCyclone.png
+h023$$i_Stout Shield::ReplaceableTextures/CommandButtons/BTNImprovedUnholyArmor.png
+h024$$i_Ultimate Orb::ReplaceableTextures/CommandButtons/BTNOrbofSlowness.png
+h025$$i_Vitality Booster::ReplaceableTextures/CommandButtons/BTNSoulGem.png
+h026$$i_Void Stone::ReplaceableTextures/CommandButtons/BTNPeriapt.png
+h027$$i_Javelin::ReplaceableTextures/CommandButtons/BTNSteelRanged.png
+h028$$i_Clarity Potion::ReplaceableTextures/CommandButtons/BTNLesserClarityPotion.png
+h029$$i_Healing Salve::ReplaceableTextures/CommandButtons/BTNHealingSalve.png
+h02A$$i_Ancient Tango of Essifation::ReplaceableTextures/CommandButtons/BTNAncientOfTheEarth.png
+h02B$$i_Empty Bottle::ReplaceableTextures/CommandButtons/BTNBottle0.png
+h02C$$i_Observer Wards::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+h02D$$i_Sentry Wards::ReplaceableTextures/CommandButtons/BTNBlueSentryWard.png
+h02E$$i_Scroll of Town Portal::ReplaceableTextures/CommandButtons/BTNScrollUber.png
+h02F$$i_Animal Courier::ReplaceableTextures/CommandButtons/BTNCritterChicken.png
+h02G$$i_Perseverance::ReplaceableTextures/CommandButtons/BTNOrbOfFire.png
+h02H$$i_Headdress of Rejuvenation::ReplaceableTextures/CommandButtons/BTNINV_Helmet_17.png
+h02I$$i_Nathrezim Buckler::ReplaceableTextures/CommandButtons/BTNThoriumArmor.png
+h02J$$i_Ring of Basilius::ReplaceableTextures/CommandButtons/BTNRingVioletSpider.png
+h02K$$i_Boots of Travel::ReplaceableTextures/CommandButtons/BTNAbility_Rogue_Sprint.png
+h02L$$i_Hand of Midas::ReplaceableTextures/CommandButtons/BTNGoldGloves.png
+h02M$$i_Oblivion Staff::ReplaceableTextures/CommandButtons/BTNINV_Mace_10.png
+h02N$$i_Bracer::ReplaceableTextures/CommandButtons/BTNRunedBracers.png
+h02O$$i_Wraith Band::ReplaceableTextures/CommandButtons/BTNRevenant.png
+h02P$$i_Null Talisman::ReplaceableTextures/CommandButtons/BTNTalisman.png
+h02Q$$i_Yasha::ReplaceableTextures/CommandButtons/BTNINV_Sword_10.png
+h02R$$i_Sange::ReplaceableTextures/CommandButtons/BTNJapaneseSword.png
+h02S$$i_Cranium Basher::ReplaceableTextures/CommandButtons/BTNINV_Hammer_10.png
+h02T$$i_Blade Mail::ReplaceableTextures/CommandButtons/BTNINV_Chest_Plate06.png
+h02U$$i_Maelstrom::ReplaceableTextures/CommandButtons/BTNStormHammer.png
+h02V$$i_Diffusal Blade::ReplaceableTextures/CommandButtons/BTNINV_Sword_11.png
+h02W$$i_Helm of the Dominator::ReplaceableTextures/CommandButtons/BTNINV_Helmet_13.png
+h02X$$i_Mask of Madness::ReplaceableTextures/CommandButtons/BTNHelmOfValor.png
+h02Y$$i_Euls Scepter of Divinity::ReplaceableTextures/CommandButtons/BTNStaffofpurification.png
+h02Z$$i_Soul Booster::ReplaceableTextures/CommandButtons/BTNPhilosophersStone.png
+h030$$i_Mekansm::ReplaceableTextures/CommandButtons/BTNSpellShieldAmulet.png
+h031$$i_Sange and Yasha::ReplaceableTextures/CommandButtons/BTNSpell_Holy_BlessingOfStrength.png
+h032$$i_Stygian Desolator::ReplaceableTextures/CommandButtons/BTNAbility_Gouge.png
+h033$$i_Battle Fury::ReplaceableTextures/CommandButtons/BTNINV_ThrowingAxe_06.png
+h034$$i_Crystalys::ReplaceableTextures/CommandButtons/BTNThoriumMelee.png
+h035$$i_Black King Bar::ReplaceableTextures/CommandButtons/BTNRodOfNecromancy.png
+h036$$i_Manta Style::ReplaceableTextures/CommandButtons/BTNINV_ThrowingAxe_02.png
+h037$$i_Lothars Edge::ReplaceableTextures/CommandButtons/BTNLothars.png
+h038$$i_Dagon::ReplaceableTextures/CommandButtons/BTNINV_Wand_06.png
+h039$$i_Necronomicon::ReplaceableTextures/CommandButtons/BTNNecromancerMaster.png
+h03A$$i_Linkens Sphere::ReplaceableTextures/CommandButtons/BTNOrb of Water.png
+h03B$$i_Aegis of the Immortal::ReplaceableTextures/CommandButtons/BTNArcaniteArmor.png
+h03C$$i_Divine Rapier::ReplaceableTextures/CommandButtons/BTNINV_Sword_25.png
+h03D$$i_Buriza-do Kyanon::ReplaceableTextures/CommandButtons/BTNINV_Weapon_Crossbow_10.png
+h03E$$i_Monkey King Bar::ReplaceableTextures/CommandButtons/BTNINV_Weapon_Halberd_10.png
+h03F$$i_Radiance::ReplaceableTextures/CommandButtons/BTNTransmute.png
+h03G$$i_Heart of Tarrasque::ReplaceableTextures/CommandButtons/BTNHeartOfAszune.png
+h03H$$i_Satanic::ReplaceableTextures/CommandButtons/BTNHornOfDoom.png
+h03I$$i_Eye of Skadi::ReplaceableTextures/CommandButtons/BTNIceShard.png
+h03J$$i_The Butterfly::ReplaceableTextures/CommandButtons/BTNINV_ThrowingKnife_04.png
+h03K$$i_Aghanims Scepter::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+h03L$$i_Refresher Orb::ReplaceableTextures/CommandButtons/BTNHeartOfSearinox.png
+h03M$$i_Guinsoos Scythe of Vyse::ReplaceableTextures/CommandButtons/BTNINV_Sword_09.png
+h03N$$i_Vanguard::ReplaceableTextures/CommandButtons/BTNAdvancedUnholyArmor.png
+h03O$$i_Arcane Ring::ReplaceableTextures/CommandButtons/BTNArcaneRing.png
+h03P$$i_Mjollnir::ReplaceableTextures/CommandButtons/BTNThunderMallet.png
+h03Q$$i_Flying Courier::ReplaceableTextures/CommandButtons/BTNRavenForm.png
+h03R$$i_Vladmirs Offering::ReplaceableTextures/CommandButtons/BTNCloakOfFlames.png
+h03S$$i_Assault Cuirass::ReplaceableTextures/CommandButtons/BTNINV_Chest_Chain_14.png
+h03T$$i_Bloodstone::ReplaceableTextures/CommandButtons/BTNINV_Misc_Gem_Bloodstone_02.png
+h03U$$i_Hood of Defiance::ReplaceableTextures/CommandButtons/BTNHoodOfCunning.png
+h03V$$i_Armlet of Mordiggian::ReplaceableTextures/CommandButtons/BTNImprovedUnholyStrength.png
+h03W$$i_Shivas Guard::ReplaceableTextures/CommandButtons/BTNAdvancedMoonArmor.png
+h03X$$i_Orchid Malevolence::ReplaceableTextures/CommandButtons/BTNStaffOfSilence.png
+h03Y$$i_Rocket Flare::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h03Z$$i_Vengeful Spirit::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h040$$i_Zeus::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h041$$i_Enchantress::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h042$$i_Morphling::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h043$$i_Rylai::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h044$$i_Sven::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h045$$i_Slithice::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h046$$i_Earthshaker::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h047$$i_Rikimaru::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h048$$i_Syllabear::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h049$$i_Lina::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04A$$i_Yurnero::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04B$$i_Nortrom::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04C$$i_Rooftrellen::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04D$$i_Enigma::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04E$$i_Ezalor::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04F$$i_Ursa::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04G$$i_Ogre Magi::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04H$$i_Tinker::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04I$$i_Furion::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04J$$i_Phantom Lancer::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04K$$i_Tiny::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04L$$i_Techies::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04M$$i_Chen::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04N$$i_Luna::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04O$$i_Sniper::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04P$$i_Troll::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04Q$$i_Storm::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04R$$i_Jakiro::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04S$$i_Rexxar::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04T$$i_Magina::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04U$$i_Bristleback::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04V$$i_Knight Davion::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04W$$i_Mirana::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04X$$i_Centaur::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04Y$$i_Huskar::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h04Z$$i_Omniknight::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h050$$i_Puck::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h051$$i_Clockwerk::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h052$$i_Gondar::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h053$$i_Panda::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h054$$i_Alchemist::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h055$$i_Traxex::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h056$$i_Terrorblade::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h057$$i_Rhasta::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h058$$i_Lanaya::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h059$$i_Leshrac::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05A$$i_Lich::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05B$$i_Krobelus::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05C$$i_Lion::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05D$$i_Venomancer::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05E$$i_Magnus::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05F$$i_Visage::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05G$$i_Nessaj::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05H$$i_Lycan::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05I$$i_Broodmother::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05J$$i_Mortred::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05K$$i_Medusa::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05L$$i_Balanar::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05M$$i_Leoric::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05N$$i_Lucifer::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05O$$i_Nerubian Assassin::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05P$$i_Slardar::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05Q$$i_Akasha::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05R$$i_Clinkz::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05S$$i_Void::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05T$$i_Viper::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05U$$i_Razor::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05V$$i_Naix::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05W$$i_Pugna::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05X$$i_Tidehunter::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05Y$$i_Atropos::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h05Z$$i_Necrolyte::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h060$$i_Pudge::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h061$$i_Barathrum::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h062$$i_Weaver::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h063$$i_Nevermore::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h064$$i_Crixalis::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h065$$i_Axe::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h066$$i_Strygwyr::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h067$$i_Abaddon::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h068$$i_Spectre::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h069$$i_Witch Doctor::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06A$$i_Destroyer::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06B$$i_Invoker::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06C$$i_Warlock::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06D$$i_Geomancer::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06E$$i_Dazzle::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06F$$i_Pit Lord::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06G$$i_Undying::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06H$$i_Dark Seer::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06I$$i_Shadow Unit::ReplaceableTextures/CommandButtons/BTNAbility_Spectral_Dagger.png
+h06J$$i_BlinkStrike CK::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h06K$$i_Magina Dummy::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06L$$i_Spirit Lance::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h06M$$i_Illuminate Vision::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h06N$$i_Select Hero::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06O$$i_Illusory Orb::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h06P$$i_Blinding Light::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h06Q$$i_Black Hole FX::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h06R$$i_Blackhole Shadow::ReplaceableTextures/CommandButtons/BTNAbility_Spectral_Dagger.png
+h06T$$i_Kunkka::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h06U$$i_Ghost Ship::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h06V$$i_Ghost Ship Trail::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h06Z$$i_Ezalor Dummy::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h070$$i_Cocos Rum::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h072$$i_Slark::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h073$$i_Nightcrawler Shadow::ReplaceableTextures/CommandButtons/BTNAbility_Spectral_Dagger.png
+h074$$i_Magic Stick::ReplaceableTextures/CommandButtons/BTNStarWand.png
+h075$$i_Poison Powder::ReplaceableTextures/CommandButtons/BTNPotionOfDivinity.png
+h076$$i_Dust of Appearance::ReplaceableTextures/CommandButtons/BTNDustOfAppearance.png
+h077$$i_Shackleshot Arrow::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h078$$i_Power Shot Arrow::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h079$$i_Phase Boots::ReplaceableTextures/CommandButtons/BTNPhaseBoots.png
+h07A$$i_Windrunner::ReplaceableTextures/CommandButtons/BTNSelectHero.png
+h07B$$i_Fight in the Shade Shadow::ReplaceableTextures/CommandButtons/BTNAbility_Spectral_Dagger.png
+h07C$$i_Glyph of Fortification::ReplaceableTextures/CommandButtons/BTNGlyph.png
+h07D$$i_Ghost Ship Death::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h07E$$i_Glyph of Fortification::ReplaceableTextures/CommandButtons/BTNGlyph.png
+h07F$$i_Static Remnant::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+H07G$$i_Storm Spirit::ReplaceableTextures/CommandButtons/BTNINV_Misc_Gem_Bloodstone_02.png
+h07H$$i_Tombstone Acolyte::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h07J$$i_Decay Visual::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h07K$$i_Shadowstrike Model::ReplaceableTextures/CommandButtons/BTNImprovedStrengthOfTheMoon.png
+h07L$$i_Version Check::ReplaceableTextures/CommandButtons/BTNFootman.png
+halt$$i_Altar of Kings::ReplaceableTextures/CommandButtons/BTNAltarOfKings.png
+Hapm$$i_Paladin::ReplaceableTextures/CommandButtons/BTNHeroPaladin.png
+harm$$i_Workshop::ReplaceableTextures/CommandButtons/BTNWorkshop.png
+hars$$i_Arcane Sanctum::ReplaceableTextures/CommandButtons/BTNArcaneSanctum.png
+hatw$$i_Arcane Tower::ReplaceableTextures/CommandButtons/BTNHumanArcaneTower.png
+hbar$$i_Barracks::ReplaceableTextures/CommandButtons/BTNHumanBarracks.png
+hbla$$i_Blacksmith::ReplaceableTextures/CommandButtons/BTNBlacksmith.png
+hbth$$i_Helm of Battlethirst::ReplaceableTextures/CommandButtons/BTNUnholyAura.png
+hC95$$i_Cache of the Quelthelan::ReplaceableTextures/CommandButtons/BTNArcaneSanctum.png
+hcas$$i_Castle::ReplaceableTextures/CommandButtons/BTNCastle.png
+hctw$$i_Cannon Tower::ReplaceableTextures/CommandButtons/BTNCannonTower.png
+hdhw$$i_Dragonhawk Rider::ReplaceableTextures/CommandButtons/BTNDragonHawk.png
+hfoo$$i_Footman::ReplaceableTextures/CommandButtons/BTNFootman.png
+hgra$$i_Gryphon Aviary::ReplaceableTextures/CommandButtons/BTNGryphonAviary.png
+hgry$$i_Gryphon Rider::ReplaceableTextures/CommandButtons/BTNGryphonRider.png
+hgtw$$i_Guard Tower::ReplaceableTextures/CommandButtons/BTNGuardTower.png
+hgyr$$i_Flying Machine::ReplaceableTextures/CommandButtons/BTNFlyingMachine.png
+hhou$$i_Farm::ReplaceableTextures/CommandButtons/BTNFarm.png
+hkee$$i_Keep::ReplaceableTextures/CommandButtons/BTNKeep.png
+hkni$$i_Knight::ReplaceableTextures/CommandButtons/BTNKnight.png
+hlst$$i_Health Stone::ReplaceableTextures/CommandButtons/BTNHealthStone.png
+hlum$$i_Lumber Mill::ReplaceableTextures/CommandButtons/BTNHumanLumberMill.png
+hmil$$i_Militia::ReplaceableTextures/CommandButtons/BTNMilitia.png
+hmpr$$i_Priest::ReplaceableTextures/CommandButtons/BTNPriest.png
+hmtm$$i_Mortar Team::ReplaceableTextures/CommandButtons/BTNMortarTeam.png
+hmtt$$i_Siege Engine::ReplaceableTextures/CommandButtons/BTNSeigeEngine.png
+horl$$i_Sacred Relic::ReplaceableTextures/CommandButtons/BTNGlyph.png
+hpea$$i_Peasant::ReplaceableTextures/CommandButtons/BTNPeasant.png
+hrif$$i_Rifleman::ReplaceableTextures/CommandButtons/BTNRifleman.png
+hrtt$$i_Siege Engine::ReplaceableTextures/CommandButtons/BTNSeigeEngineWithMissles.png
+hslv$$i_Healing Salve::ReplaceableTextures/CommandButtons/BTNHealingSalve.png
+hsor$$i_Sorceress::ReplaceableTextures/CommandButtons/BTNSorceress.png
+hspt$$i_Spell Breaker::ReplaceableTextures/CommandButtons/BTNSpellBreaker.png
+htow$$i_Town Hall::ReplaceableTextures/CommandButtons/BTNTownHall.png
+hvlt$$i_Arcane Vault::ReplaceableTextures/CommandButtons/BTNArcaneVault.png
+hwat$$i_Lesser Eidolon::ReplaceableTextures/CommandButtons/BTN_Conversion.png
+hwt2$$i_Eidolon::ReplaceableTextures/CommandButtons/BTN_Conversion.png
+hwt3$$i_Greater Eidolon::ReplaceableTextures/CommandButtons/BTN_Conversion.png
+hwtw$$i_Scout Tower::ReplaceableTextures/CommandButtons/BTNHumanWatchTower.png
+I000$$i_Aghanims Scepter (Rylai)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I001$$i_Aghanims Scepter (Necro)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I002$$i_Aghanims Scepter (Luna)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I003$$i_Aghanims Scepter (Lucifer)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I004$$i_Aghanims Scepter (Lion)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I005$$i_Aghanims Scepter (Lich)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I006$$i_Haste::ReplaceableTextures/CommandButtons/BTNBootsOfSpeed.png
+I007$$i_Illusion::textures/blue_star2
+I008$$i_Regeneration::ReplaceableTextures/CommandButtons/BTNRegenerate.png
+I009$$i_Aghanims Scepter (Leshrac)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I00A$$i_Boots of Speed::ReplaceableTextures/CommandButtonsDisabled/DISBTNBootsOfSpeed.png
+I00B$$i_Aghanims Scepter::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I00C$$i_Arcane Ring::ReplaceableTextures/CommandButtonsDisabled/DISBTNArcaneRing.png
+I00D$$i_Aghanims Scepter (KOTL)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I00E$$i_Morphling Bug Fix::ReplaceableTextures/CommandButtons/BTNManual.png
+I00F$$i_Aghanims Scepter (KOTL)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I00G$$i_Aghanims Scepter (Lina)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I00H$$i_Aghanims Scepter (Pugna)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I00I$$i_Aghanims Scepter (Ogre)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I00J$$i_Invisibility::ReplaceableTextures/CommandButtons/BTNInvisibility.png
+I00K$$i_Double Damage::ReplaceableTextures/CommandButtons/BTNShamanMaster.png
+I00L$$i_Empty Bottle::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I00M$$i_Armlet of Mordiggian::ReplaceableTextures/CommandButtons/BTNImprovedUnholyStrength.png
+I00N$$i_Armlet of Mordiggian (Courier Edition)::ReplaceableTextures/CommandButtons/BTNImprovedUnholyStrength.png
+I00O$$i_Aghanims Scepter (Zeus)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I00P$$i_Aghanims Scepter (QoP)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I00Q$$i_Armlet of Mordiggian::ReplaceableTextures/CommandButtons/BTNUnholyStrength.png
+I00R$$i_Armlet of Mordiggian (Courier Edition)::ReplaceableTextures/CommandButtons/BTNUnholyStrength.png
+I00S$$i_Armlet of Mordiggian::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I00T$$i_Armlet of Mordiggian::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I00U$$i_Aghanims Scepter (Rhasta)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I00V$$i_Armlet of Mordiggian (Courier Edition)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I00W$$i_Armlet of Mordiggian (Courier Edition)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I00X$$i_Shivas Guard::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I00Y$$i_Shivas Guard (Courier Edition)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I00Z$$i_Shivas Guard::ReplaceableTextures/CommandButtons/BTNAdvancedMoonArmor.png
+I010$$i_Shivas Guard (Courier Edition)::ReplaceableTextures/CommandButtons/BTNAdvancedMoonArmor.png
+I011$$i_Aghanims Scepter (Furion)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I012$$i_Orchid Malevolence::ReplaceableTextures/CommandButtons/BTNStaffOfSilence.png
+I013$$i_Orchid Malevolence::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I014$$i_Flying Courier::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I015$$i_Disassembler::ReplaceableTextures/CommandButtons/BTNEngineeringUpgrade.png
+I016$$i_Aghanims Scepter (Veno)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I017$$i_Aghanims Scepter (Witch Doctor)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I018$$i_Aghanims Scepter (Leshrac)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I019$$i_Aghanims Scepter (Lich)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I01A$$i_Aghanims Scepter (Lina)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I01B$$i_Aghanims Scepter (Lion)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I01C$$i_Armlet of Mordiggian (On)::ReplaceableTextures/CommandButtonsDisabled/DISBTNImprovedUnholyStrength.png
+I01D$$i_Flying Courier::ReplaceableTextures/CommandButtons/BTNRavenForm.png
+I01E$$i_Armlet of Mordiggian (Off)::ReplaceableTextures/CommandButtonsDisabled/DISBTNUnholyStrength.png
+I01F$$i_Armlet of Mordiggian (On,Courier)::ReplaceableTextures/CommandButtonsDisabled/DISBTNImprovedUnholyStrength.png
+I01G$$i_Dagon Level 1::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_06.png
+I01H$$i_Aghanims Scepter (Lucifer)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I01I$$i_Aghanims Scepter (Luna)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I01J$$i_Perseverance::ReplaceableTextures/CommandButtons/BTNPerse_Borrowed.png
+I01K$$i_Headdress of Rejuvenation::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Helmet_17.png
+I01L$$i_Nathrezim Buckler::ReplaceableTextures/CommandButtonsDisabled/DISBTNThoriumArmor.png
+I01M$$i_Ring of Basilius::ReplaceableTextures/CommandButtonsDisabled/DISBTNRingVioletSpider.png
+I01N$$i_Freeze Hero::ReplaceableTextures/CommandButtons/BTNPendantOfMana.png
+I01O$$i_Unfreeze Hero::ReplaceableTextures/CommandButtons/BTNPendantOfEnergy.png
+I01P$$i_Boots of Travel::ReplaceableTextures/CommandButtonsDisabled/DISBTNAbility_Rogue_Sprint.png
+I01Q$$i_Power Treads (Strength)::ReplaceableTextures/CommandButtonsDisabled/DISBTNWirtsLeg.png
+I01R$$i_Power Treads (Agility)::ReplaceableTextures/CommandButtonsDisabled/DISBTNWirtsLegGreen.png
+I01S$$i_Power Treads (Intelligence)::ReplaceableTextures/CommandButtonsDisabled/DISBTNWirtsLegBlue.png
+I01T$$i_Hand of Midas::ReplaceableTextures/CommandButtonsDisabled/DISBTNGoldGloves.png
+I01U$$i_Oblivion Staff::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Mace_10.png
+I01V$$i_Bracer::ReplaceableTextures/CommandButtonsDisabled/DISBTNRunedBracers.png
+I01W$$i_Wraith Band::ReplaceableTextures/CommandButtonsDisabled/DISBTNRevenant.png
+I01X$$i_Null Talisman::ReplaceableTextures/CommandButtonsDisabled/DISBTNTalisman.png
+I01Y$$i_Yasha::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Sword_10.png
+I01Z$$i_Sange::ReplaceableTextures/CommandButtonsDisabled/DISBTNJapaneseSword.png
+I020$$i_Cranium Basher::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Hammer_10.png
+I021$$i_Blade Mail::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Chest_Plate06.png
+I022$$i_Maelstrom::ReplaceableTextures/CommandButtonsDisabled/DISBTNStormHammer.png
+I023$$i_Diffusal Blade::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Sword_11.png
+I024$$i_Helm of the Dominator::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Helmet_13.png
+I025$$i_Mask of Madness::ReplaceableTextures/CommandButtonsDisabled/DISBTNHelmOfValor.png
+I026$$i_Euls Scepter of Divinity::ReplaceableTextures/CommandButtonsDisabled/DISBTNStaffofpurification.png
+I027$$i_Soul Booster::ReplaceableTextures/CommandButtonsDisabled/DISBTNPhilosophersStone.png
+I028$$i_Mekansm::ReplaceableTextures/CommandButtonsDisabled/DISBTNSpellShieldAmulet.png
+I029$$i_Sange and Yasha::ReplaceableTextures/CommandButtonsDisabled/DISBTNSpell_Holy_BlessingOfStrength.png
+I02A$$i_Stygian Desolator::ReplaceableTextures/CommandButtonsDisabled/DISBTNAbility_Gouge.png
+I02B$$i_Battle Fury::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_ThrowingAxe_06.png
+I02C$$i_Crystalys::ReplaceableTextures/CommandButtonsDisabled/DISBTNThoriumMelee.png
+I02D$$i_Black King Bar (7)::ReplaceableTextures/CommandButtonsDisabled/DISBTNRodOfNecromancy.png
+I02E$$i_Manta Style::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_ThrowingAxe_02.png
+I02F$$i_Lothars Edge::ReplaceableTextures/CommandButtonsDisabled/DISBTNLothars.png
+I02G$$i_Dagon Level 2::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_06.png
+I02H$$i_Necronomicon Level 1::ReplaceableTextures/CommandButtonsDisabled/DISBTNNecromancerAdept.png
+I02I$$i_Necronomicon Level 2::ReplaceableTextures/CommandButtonsDisabled/DISBTNBookOfTheDead.png
+I02J$$i_Necronomicon Level 3::ReplaceableTextures/CommandButtonsDisabled/DISBTNNecromancerMaster.png
+I02K$$i_Aghanims Scepter (Necro)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I02L$$i_Aghanims Scepter (Ogre)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I02M$$i_Dummy Item::ReplaceableTextures/CommandButtons/BTNSnazzyScrollGreen.png
+I02N$$i_Boots of Elvenskin::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I02O$$i_Boots of Speed::ReplaceableTextures/CommandButtons/BTNBootsOfSpeed.png
+I02P$$i_Gloves of Haste::ReplaceableTextures/CommandButtons/BTNGlove.png
+I02Q$$i_Boots of Speed::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I02R$$i_Boots of Elvenskin::ReplaceableTextures/CommandButtons/BTNBoots.png
+I02S$$i_Gloves of Haste::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I02T$$i_Power Treads (Agility)::ReplaceableTextures/CommandButtons/BTNWirtsLegGreen.png
+I02U$$i_Power Treads (Strength)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I02V$$i_Power Treads Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I02W$$i_Power Treads Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I02X$$i_Circlet of Nobility::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I02Y$$i_Circlet of Nobility::ReplaceableTextures/CommandButtons/BTNCirclet.png
+I02Z$$i_Belt of Giant Strength::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I030$$i_Blade of Alacrity::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I031$$i_Blades of Attack::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I032$$i_Broadsword::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I033$$i_Chainmail::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I034$$i_Claymore::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I035$$i_Demon Edge::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I036$$i_Eaglehorn::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I037$$i_Energy Booster::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I038$$i_Gauntlets of Strength::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I039$$i_Gem of True Sight::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03A$$i_Stout Shield::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03B$$i_Helm of Iron Will::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03C$$i_Hyperstone::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03D$$i_Ironwood Branch::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03E$$i_Kelens Dagger::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03F$$i_Mantle of Intelligence::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03G$$i_Mask of Death::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03H$$i_Messerschmidts Reaver::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03I$$i_Mithril Hammer::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03J$$i_Mystic Staff::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03K$$i_Ogre Axe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03L$$i_Planeswalkers Cloak::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03M$$i_Plate Mail::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03N$$i_Point Booster::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03O$$i_Power Treads (Agility)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03P$$i_Quarterstaff::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03Q$$i_Ring of Health::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03R$$i_Ring of Protection::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03S$$i_Ring of Regeneration::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03T$$i_Robe of the Magi::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03U$$i_Sacred Relic::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03V$$i_Slippers of Agility::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03W$$i_Sobi Mask::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03X$$i_Staff of Wizardry::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03Y$$i_Ultimate Orb::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I03Z$$i_Vitality Booster::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I040$$i_Void Stone::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I041$$i_Javelin::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I042$$i_Clarity Potion::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I043$$i_Belt of Giant Strength::ReplaceableTextures/CommandButtons/BTNBelt.png
+I044$$i_Blade of Alacrity::ReplaceableTextures/CommandButtons/BTNINV_ThrowingKnife_03.png
+I045$$i_Blades of Attack::ReplaceableTextures/CommandButtons/BTNClawsOfAttack.png
+I046$$i_Broadsword::ReplaceableTextures/CommandButtons/BTNSteelMelee.png
+I047$$i_Chainmail::ReplaceableTextures/CommandButtons/BTNINV_Chest_Chain_12.png
+I048$$i_Claymore::ReplaceableTextures/CommandButtons/BTNINV_Sword_19.png
+I049$$i_Demon Edge::ReplaceableTextures/CommandButtons/BTNFrostMourne.png
+I04A$$i_Eaglehorn::ReplaceableTextures/CommandButtons/BTNINV_Weapon_Bow_06.png
+I04B$$i_Energy Booster::ReplaceableTextures/CommandButtons/BTNEnchantedGemstone.png
+I04C$$i_Gauntlets of Strength::ReplaceableTextures/CommandButtons/BTNGauntletsOfOgrePower.png
+I04D$$i_Gem of True Sight::ReplaceableTextures/CommandButtons/BTNGem.png
+I04E$$i_Helm of Iron Will::ReplaceableTextures/CommandButtons/BTNHelmutPurple.png
+I04F$$i_Hyperstone::ReplaceableTextures/CommandButtons/BTNPeriapt1.png
+I04G$$i_Ironwood Branch::ReplaceableTextures/CommandButtons/BTNNatureTouchGrow.png
+I04H$$i_Kelens Dagger::ReplaceableTextures/CommandButtons/BTNDaggerOfEscape.png
+I04I$$i_Disabled Kelens Dagger::ReplaceableTextures/CommandButtons/BTNDaggerOfEscape.png
+I04J$$i_Mantle of Intelligence::ReplaceableTextures/CommandButtons/BTNMantleOfIntelligence.png
+I04K$$i_Mask of Death::ReplaceableTextures/CommandButtons/BTNUndeadShrine.png
+I04L$$i_Messerschmidts Reaver::ReplaceableTextures/CommandButtons/BTNSpiritWalkerMasterTraining.png
+I04M$$i_Mithril Hammer::ReplaceableTextures/CommandButtons/BTNHammer.png
+I04N$$i_Mystic Staff::ReplaceableTextures/CommandButtons/BTNStaffOfNegation.png
+I04O$$i_Ogre Axe::ReplaceableTextures/CommandButtons/BTNSpiritWalkerAdeptTraining.png
+I04P$$i_Planeswalkers Cloak::ReplaceableTextures/CommandButtons/BTNINV_Misc_Cape_08.png
+I04Q$$i_Plate Mail::ReplaceableTextures/CommandButtons/BTNINV_Chest_Plate13.png
+I04R$$i_Point Booster::ReplaceableTextures/CommandButtons/BTNUsedSoulGem.png
+I04S$$i_Quarterstaff::ReplaceableTextures/CommandButtons/BTNAlleriaFlute.png
+I04T$$i_Ring of Health::ReplaceableTextures/CommandButtons/BTNGoldRing.png
+I04U$$i_Ring of Protection::ReplaceableTextures/CommandButtons/BTNRingGreen.png
+I04V$$i_Ring of Regeneration::ReplaceableTextures/CommandButtons/BTNRingSkull.png
+I04W$$i_Robe of the Magi::ReplaceableTextures/CommandButtons/BTNRobeOfTheMagi.png
+I04X$$i_Sacred Relic::ReplaceableTextures/CommandButtons/BTNStaffOfTeleportation.png
+I04Y$$i_Slippers of Agility::ReplaceableTextures/CommandButtons/BTNSlippersOfAgility.png
+I04Z$$i_Sobi Mask::ReplaceableTextures/CommandButtons/BTNSobiMask.png
+I050$$i_Staff of Wizardry::ReplaceableTextures/CommandButtons/BTNWandOfCyclone.png
+I051$$i_Stout Shield::ReplaceableTextures/CommandButtons/BTNImprovedUnholyArmor.png
+I052$$i_Ultimate Orb::ReplaceableTextures/CommandButtons/BTNOrbofSlowness.png
+I053$$i_Vitality Booster::ReplaceableTextures/CommandButtons/BTNSoulGem.png
+I054$$i_Void Stone::ReplaceableTextures/CommandButtons/BTNPeriapt.png
+I055$$i_Javelin::ReplaceableTextures/CommandButtons/BTNSteelRanged.png
+I056$$i_Healing Salve::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I057$$i_Ancient Tango of Essifation::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I058$$i_Observer Wards::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I059$$i_Sentry Wards::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05A$$i_Scroll of Town Portal::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05B$$i_Animal Courier::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05C$$i_Ancient Tango of Essifation::ReplaceableTextures/CommandButtons/BTNAncientOfTheEarth.png
+I05D$$i_Clarity Potion::ReplaceableTextures/CommandButtons/BTNLesserClarityPotion.png
+I05E$$i_Empty Bottle::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05F$$i_Healing Salve::ReplaceableTextures/CommandButtons/BTNHealingSalve.png
+I05G$$i_Observer Wards::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+I05H$$i_Sentry Wards::ReplaceableTextures/CommandButtons/BTNBlueSentryWard.png
+I05I$$i_Scroll of Town Portal::ReplaceableTextures/CommandButtons/BTNScrollUber.png
+I05J$$i_Animal Courier::ReplaceableTextures/CommandButtons/BTNCritterChicken.png
+I05K$$i_Bracer Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05L$$i_Headdress of Rejuvenation Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05M$$i_Nathrezim Buckler Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05N$$i_Wraith Band Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05O$$i_Boots of Travel Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05P$$i_Hand of Midas Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05Q$$i_Null Talisman Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I05R$$i_Headdress of Rejuvenation Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I05S$$i_Nathrezim Buckler Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I05T$$i_Boots of Travel Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I05U$$i_Hand of Midas Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I05V$$i_Bracer Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I05W$$i_Wraith Band Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I05X$$i_Null Talisman Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I05Y$$i_Power Treads (Strength)::ReplaceableTextures/CommandButtons/BTNWirtsLeg.png
+I05Z$$i_Power Treads (Intelligence)::ReplaceableTextures/CommandButtons/BTNWirtsLegBlue.png
+I060$$i_Power Treads (Intelligence)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I061$$i_Perseverance::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I062$$i_Perseverance::ReplaceableTextures/CommandButtons/BTNOrbOfFire.png
+I063$$i_Headdress of Rejuvenation::ReplaceableTextures/CommandButtons/BTNINV_Helmet_17.png
+I064$$i_Headdress of Rejuvenation::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I065$$i_Nathrezim Buckler::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I066$$i_Nathrezim Buckler::ReplaceableTextures/CommandButtons/BTNThoriumArmor.png
+I067$$i_Ring of Basilius (Normal)::ReplaceableTextures/CommandButtons/BTNRingVioletSpider.png
+I068$$i_Ring of Basilius::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I069$$i_Ring of Basilius (Heroes)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06A$$i_Ring of Basilius (Heroes)::ReplaceableTextures/CommandButtons/BTNRingVioletSpider.png
+I06B$$i_Boots of Travel::ReplaceableTextures/CommandButtons/BTNAbility_Rogue_Sprint.png
+I06C$$i_Boots of Travel::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06D$$i_Hand of Midas::ReplaceableTextures/CommandButtons/BTNGoldGloves.png
+I06E$$i_Hand of Midas::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06F$$i_Oblivion Staff::ReplaceableTextures/CommandButtons/BTNINV_Mace_10.png
+I06G$$i_Oblivion Staff::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06H$$i_Bracer::ReplaceableTextures/CommandButtons/BTNRunedBracers.png
+I06I$$i_Bracer::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06J$$i_Wraith Band::ReplaceableTextures/CommandButtons/BTNRevenant.png
+I06K$$i_Wraith Band::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06L$$i_Null Talisman::ReplaceableTextures/CommandButtons/BTNTalisman.png
+I06M$$i_Null Talisman::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06N$$i_Yasha Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06O$$i_Yasha Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I06P$$i_Sange Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I06Q$$i_Sange Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06R$$i_Cranium Basher Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06S$$i_Cranium Basher Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I06T$$i_Blade Mail Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06U$$i_Blade Mail Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I06V$$i_Maelstrom Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I06W$$i_Maelstrom Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06X$$i_Diffusal Blade Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I06Y$$i_Diffusal Blade Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I06Z$$i_Mask of Madness Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I070$$i_Mask of Madness Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I071$$i_Euls Scepter of Divinity Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I072$$i_Euls Scepter of Divinity Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I073$$i_Mekansm Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I074$$i_Mekansm Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I075$$i_Sange and Yasha Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I076$$i_Stygian Desolator Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I077$$i_Crystalys Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I078$$i_Black King Bar Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I079$$i_Manta Style Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07A$$i_Lothars Edge Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07B$$i_Dagon Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07C$$i_Necronomicon Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07D$$i_Linkens Sphere Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07E$$i_Buriza-do Kyanon Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07F$$i_Radiance Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I07G$$i_Radiance Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07H$$i_Heart of Tarrasque Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07I$$i_The Butterfly Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07J$$i_Refresher Orb Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07K$$i_Guinsoos Scythe of Vyse::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07L$$i_Mjollnir Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07M$$i_Arcane Ring Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07N$$i_Eye of Skadi Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07O$$i_Satanic Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07P$$i_Flying Courier Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07Q$$i_Vladmirs Offering Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07R$$i_Assault Cuirass Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07S$$i_Armlet of Mordiggian Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07T$$i_Shivas Guard Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I07U$$i_Sange and Yasha Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I07V$$i_Stygian Desolator Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I07W$$i_Crystalys Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I07X$$i_Black King Bar Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I07Y$$i_Manta Style Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I07Z$$i_Lothars Edge Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I080$$i_Dagon Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I081$$i_Necronomicon Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I082$$i_Linkens Sphere Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I083$$i_Buriza-do Kyanon Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I084$$i_Heart of Tarrasque Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I085$$i_Satanic Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I086$$i_Eye of Skadi Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I087$$i_The Butterfly Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I088$$i_Refresher Orb Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I089$$i_Arcane Ring Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I08A$$i_Flying Courier Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I08B$$i_Vladmirs Offering Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I08C$$i_Assault Cuirass Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I08D$$i_Armlet of Mordiggian Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I08E$$i_Shivas Guard Recipe::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+I08F$$i_Yasha::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08G$$i_Yasha::ReplaceableTextures/CommandButtons/BTNINV_Sword_10.png
+I08H$$i_Sange::ReplaceableTextures/CommandButtons/BTNJapaneseSword.png
+I08I$$i_Sange::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08J$$i_Cranium Basher::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08K$$i_Cranium Basher::ReplaceableTextures/CommandButtons/BTNINV_Hammer_10.png
+I08L$$i_Cranium Basher (Ranged)::ReplaceableTextures/CommandButtons/BTNINV_Hammer_10.png
+I08M$$i_Cranium Basher (Ranged)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08N$$i_Blade Mail::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08O$$i_Blade Mail::ReplaceableTextures/CommandButtons/BTNINV_Chest_Plate06.png
+I08P$$i_Maelstrom::ReplaceableTextures/CommandButtons/BTNStormHammer.png
+I08Q$$i_Maelstrom::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08R$$i_Diffusal Blade::ReplaceableTextures/CommandButtons/BTNINV_Sword_11.png
+I08S$$i_Diffusal Blade::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08T$$i_Helm of the Dominator::ReplaceableTextures/CommandButtons/BTNINV_Helmet_13.png
+I08U$$i_Helm of the Dominator::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08V$$i_Helm of the Dominator (Courier Edition)::ReplaceableTextures/CommandButtons/BTNINV_Helmet_13.png
+I08W$$i_Helm of the Dominator (Courier Edition)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08X$$i_Mask of Madness::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I08Y$$i_Mask of Madness::ReplaceableTextures/CommandButtons/BTNHelmOfValor.png
+I08Z$$i_Euls Scepter of Divinity::ReplaceableTextures/CommandButtons/BTNStaffofpurification.png
+I090$$i_Euls Scepter of Divinity::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I091$$i_Soul Booster::ReplaceableTextures/CommandButtons/BTNPhilosophersStone.png
+I092$$i_Soul Booster::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I093$$i_Mekansm::ReplaceableTextures/CommandButtons/BTNSpellShieldAmulet.png
+I094$$i_Mekansm::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I095$$i_Sange and Yasha::ReplaceableTextures/CommandButtons/BTNSpell_Holy_BlessingOfStrength.png
+I096$$i_Sange and Yasha::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I097$$i_Stygian Desolator::ReplaceableTextures/CommandButtons/BTNAbility_Gouge.png
+I098$$i_Stygian Desolator::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I099$$i_Battle Fury::ReplaceableTextures/CommandButtons/BTNINV_ThrowingAxe_06.png
+I09A$$i_Battle Fury::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09B$$i_Crystalys::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09C$$i_Crystalys::ReplaceableTextures/CommandButtons/BTNThoriumMelee.png
+I09D$$i_Black King Bar (6)::ReplaceableTextures/CommandButtons/BTNRodOfNecromancy.png
+I09E$$i_Black King Bar (8)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09F$$i_Manta Style::ReplaceableTextures/CommandButtons/BTNINV_ThrowingAxe_02.png
+I09G$$i_Manta Style::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09H$$i_Lothars Edge::ReplaceableTextures/CommandButtons/BTNLothars.png
+I09I$$i_Lothars Edge::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09J$$i_Dagon Level 2::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09K$$i_Dagon Level 1::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09L$$i_Dagon Level 5::ReplaceableTextures/CommandButtons/BTNINV_Wand_06.png
+I09M$$i_Dagon Level 1::ReplaceableTextures/CommandButtons/BTNINV_Wand_06.png
+I09N$$i_Dagon Level 3::ReplaceableTextures/CommandButtons/BTNINV_Wand_06.png
+I09O$$i_Dagon Level 4::ReplaceableTextures/CommandButtons/BTNINV_Wand_06.png
+I09P$$i_Dagon Level 2::ReplaceableTextures/CommandButtons/BTNINV_Wand_06.png
+I09Q$$i_Dagon Level 3::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09R$$i_Dagon Level 5::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09S$$i_Dagon Level 4::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09T$$i_Necronomicon Level 1::ReplaceableTextures/CommandButtons/BTNNecromancerAdept.png
+I09U$$i_Necronomicon Level 1::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09V$$i_Necronomicon Level 2::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09W$$i_Necronomicon Level 3::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I09X$$i_Necronomicon Level 2::ReplaceableTextures/CommandButtons/BTNBookOfTheDead.png
+I09Y$$i_Necronomicon Level 3::ReplaceableTextures/CommandButtons/BTNNecromancerMaster.png
+I09Z$$i_Linkens Sphere::ReplaceableTextures/CommandButtons/BTNOrb of Water.png
+I0A0$$i_Linkens Sphere::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0A1$$i_Divine Rapier::ReplaceableTextures/CommandButtons/BTNINV_Sword_25.png
+I0A2$$i_Divine Rapier::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0A3$$i_Buriza-do Kyanon::ReplaceableTextures/CommandButtons/BTNINV_Weapon_Crossbow_10.png
+I0A4$$i_Buriza-do Kyanon::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0A5$$i_Monkey King Bar::ReplaceableTextures/CommandButtons/BTNINV_Weapon_Halberd_10.png
+I0A6$$i_Monkey King Bar::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0A7$$i_Radiance::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0A8$$i_Radiance::ReplaceableTextures/CommandButtons/BTNTransmute.png
+I0A9$$i_Heart of Tarrasque::ReplaceableTextures/CommandButtons/BTNHeartOfAszune.png
+I0AA$$i_Heart of Tarrasque::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AB$$i_Satanic::ReplaceableTextures/CommandButtons/BTNHornOfDoom.png
+I0AC$$i_Satanic::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AD$$i_Eye of Skadi::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AE$$i_Eye of Skadi::ReplaceableTextures/CommandButtons/BTNIceShard.png
+I0AF$$i_Eye of Skadi (Ranged)::ReplaceableTextures/CommandButtons/BTNIceShard.png
+I0AG$$i_Eye of Skadi (Ranged)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AH$$i_The Butterfly::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AI$$i_The Butterfly::ReplaceableTextures/CommandButtons/BTNINV_ThrowingKnife_04.png
+I0AJ$$i_Refresher Orb::ReplaceableTextures/CommandButtons/BTNHeartOfSearinox.png
+I0AK$$i_Refresher Orb::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AL$$i_Guinsoos Scythe of Vyse::ReplaceableTextures/CommandButtons/BTNINV_Sword_09.png
+I0AM$$i_Empty Bottle::ReplaceableTextures/CommandButtons/BTNBottle0.png
+I0AN$$i_Magical Bottle - 1/3::ReplaceableTextures/CommandButtons/BTNBottle1.png
+I0AO$$i_Magical Bottle - 2/3::ReplaceableTextures/CommandButtons/BTNBottle2.png
+I0AP$$i_Magical Bottle - 3/3::ReplaceableTextures/CommandButtons/BTNBottle3.png
+I0AQ$$i_Magical Bottle - Rune::ReplaceableTextures/CommandButtons/BTNBottle4.png
+I0AR$$i_Magical Bottle - Rune::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AS$$i_Magical Bottle - 2/3::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AT$$i_Magical Bottle - 3/3::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AU$$i_Magical Bottle - 1/3::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AV$$i_Empty Bottle Store::ReplaceableTextures/CommandButtons/BTNBottle0.png
+I0AW$$i_Aegis of the Immortal::ReplaceableTextures/CommandButtons/BTNArcaniteArmor.png
+I0AX$$i_Aegis of the Immortal::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0AY$$i_Aghanims Scepter (Basic)::ReplaceableTextures/CommandButtons/BTNINV_Wand_05.png
+I0AZ$$i_Aghanims Scepter (Furion)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0B0$$i_Cheese::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0B1$$i_Cheese::ReplaceableTextures/CommandButtons/BTNCheese.png
+I0B2$$i_Aghanims Scepter (Pugna)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0B3$$i_Aghanims Scepter (QoP)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0B4$$i_Aghanims Scepter (Rhasta)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0B5$$i_Aghanims Scepter (Witch Doctor)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0B6$$i_Aghanims Scepter (Veno)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0B7$$i_Aghanims Scepter (Rylai)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0B8$$i_Aghanims Scepter (Basic)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0B9$$i_Aghanims Scepter (Zeus)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0BA$$i_Vanguard::ReplaceableTextures/CommandButtons/BTNAdvancedUnholyArmor.png
+I0BB$$i_Vanguard::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0BC$$i_Arcane Ring::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0BD$$i_Arcane Ring::ReplaceableTextures/CommandButtons/BTNArcaneRing.png
+I0BE$$i_Mjollnir::ReplaceableTextures/CommandButtons/BTNThunderMallet.png
+I0BF$$i_Mjollnir::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0BG$$i_Vladmirs Offering::ReplaceableTextures/CommandButtons/BTNCloakOfFlames.png
+I0BH$$i_Vladmirs Offering::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0BI$$i_Assault Cuirass::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0BJ$$i_Assault Cuirass::ReplaceableTextures/CommandButtons/BTNINV_Chest_Chain_14.png
+I0BK$$i_Bloodstone::ReplaceableTextures/CommandButtons/BTNINV_Misc_Gem_Bloodstone_02.png
+I0BL$$i_Bloodstone::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0BM$$i_Hood of Defiance::ReplaceableTextures/CommandButtons/BTNHoodOfCunning.png
+I0BN$$i_Hood of Defiance::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0BO$$i_Linkins Sphere::ReplaceableTextures/CommandButtonsDisabled/DISBTNOrb of Water.png
+I0BP$$i_Divine Rapier::ReplaceableTextures/CommandButtons/BTNDivine_Borrowed.png
+I0BQ$$i_Buriza-do Kyanon::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Weapon_Crossbow_10.png
+I0BR$$i_Monkey King Bar::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Weapon_Halberd_10.png
+I0BS$$i_Radiance::ReplaceableTextures/CommandButtonsDisabled/DISBTNTransmute.png
+I0BT$$i_Heart of Tarrasque::ReplaceableTextures/CommandButtonsDisabled/DISBTNHeartOfAszune.png
+I0BU$$i_Satanic::ReplaceableTextures/CommandButtonsDisabled/DISBTNHornOfDoom.png
+I0BV$$i_Eye of Skadi::ReplaceableTextures/CommandButtonsDisabled/DISBTNIceShard.png
+I0BW$$i_The Butterfly::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_ThrowingKnife_04.png
+I0BX$$i_Refresher Orb::ReplaceableTextures/CommandButtonsDisabled/DISBTNHeartOfSearinox.png
+I0BY$$i_Guinsoos Scythe of Vyse::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Sword_09.png
+I0BZ$$i_Vanguard::ReplaceableTextures/CommandButtonsDisabled/DISBTNAdvancedUnholyArmor.png
+I0C0$$i_Mjollnir::ReplaceableTextures/CommandButtonsDisabled/DISBTNThunderMallet.png
+I0C1$$i_Vladmirs Offering::ReplaceableTextures/CommandButtonsDisabled/DISBTNCloakOfFlames.png
+I0C2$$i_Assault Cuirass::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Chest_Chain_14.png
+I0C3$$i_Bloodstone::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Misc_Gem_Bloodstone_02.png
+I0C4$$i_Hood of Defiance::ReplaceableTextures/CommandButtonsDisabled/DISBTNHoodOfCunning.png
+I0C5$$i_Slippers of Agility::ReplaceableTextures/CommandButtonsDisabled/DISBTNSlippersOfAgility.png
+I0C6$$i_Ring of Basilius (Heroes)::ReplaceableTextures/CommandButtonsDisabled/DISBTNRingVioletSpider.png
+I0C7$$i_Kelens Dagger::ReplaceableTextures/CommandButtonsDisabled/DISBTNDaggerOfEscape.png
+I0C8$$i_Cranium Basher (Ranged)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Hammer_10.png
+I0C9$$i_Ultimate Orb::ReplaceableTextures/CommandButtonsDisabled/DISBTNOrbofSlowness.png
+I0CA$$i_Gloves of Haste::ReplaceableTextures/CommandButtonsDisabled/DISBTNGlove.png
+I0CB$$i_Orchid Malevolence::ReplaceableTextures/CommandButtonsDisabled/DISBTNStaffOfSilence.png
+I0CC$$i_Sacred Relic::ReplaceableTextures/CommandButtonsDisabled/DISBTNStaffOfTeleportation.png
+I0CD$$i_Mask of Death::ReplaceableTextures/CommandButtonsDisabled/DISBTNUndeadShrine.png
+I0CE$$i_Planeswalkers Cloak::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Misc_Cape_08.png
+I0CF$$i_Shivas Guard::ReplaceableTextures/CommandButtonsDisabled/DISBTNAdvancedMoonArmor.png
+I0CG$$i_Messerschmidts Reaver::ReplaceableTextures/CommandButtonsDisabled/DISBTNSpiritWalkerMasterTraining.png
+I0CH$$i_Eaglehorn::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Weapon_Bow_06.png
+I0CI$$i_Demon Edge::ReplaceableTextures/CommandButtonsDisabled/DISBTNFrostMourne.png
+I0CJ$$i_Gauntlets of Strength::ReplaceableTextures/CommandButtonsDisabled/DISBTNGauntletsOfOgrePower.png
+I0CK$$i_Vitality Booster::ReplaceableTextures/CommandButtonsDisabled/DISBTNSoulGem.png
+I0CL$$i_Point Booster::ReplaceableTextures/CommandButtonsDisabled/DISBTNUsedSoulGem.png
+I0CM$$i_Mantle of Intelligence::ReplaceableTextures/CommandButtonsDisabled/DISBTNMantleOfIntelligence.png
+I0CN$$i_Mystic Staff::ReplaceableTextures/CommandButtonsDisabled/DISBTNStaffOfNegation.png
+I0CO$$i_Helm of the Dominator (Courier)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Helmet_13.png
+I0CP$$i_Robe of the Magi::ReplaceableTextures/CommandButtonsDisabled/DISBTNRobeOfTheMagi.png
+I0CQ$$i_Hyperstone::ReplaceableTextures/CommandButtonsDisabled/DISBTNPeriapt1.png
+I0CR$$i_Energy Booster::ReplaceableTextures/CommandButtonsDisabled/DISBTNEnchantedGemstone.png
+I0CS$$i_Boots of Elvenskin::ReplaceableTextures/CommandButtonsDisabled/DISBTNBoots.png
+I0CT$$i_Eye of Skadi (Ranged)::ReplaceableTextures/CommandButtonsDisabled/DISBTNIceShard.png
+I0CU$$i_Ironwood Branch::ReplaceableTextures/CommandButtonsDisabled/DISBTNNatureTouchGrow.png
+I0CV$$i_Belt of Giant Strength::ReplaceableTextures/CommandButtonsDisabled/DISBTNBelt.png
+I0CW$$i_Ring of Protection::ReplaceableTextures/CommandButtonsDisabled/DISBTNRingGreen.png
+I0CX$$i_Claymore::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Sword_19.png
+I0CY$$i_Quarterstaff::ReplaceableTextures/CommandButtonsDisabled/DISBTNAlleriaFlute.png
+I0CZ$$i_Broadsword::ReplaceableTextures/CommandButtonsDisabled/DISBTNSteelMelee.png
+I0D0$$i_Mithril Hammer::ReplaceableTextures/CommandButtonsDisabled/DISBTNHammer.png
+I0D1$$i_Staff of Wizardry::ReplaceableTextures/CommandButtonsDisabled/DISBTNWandOfCyclone.png
+I0D2$$i_Blade of Alacrity::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_ThrowingKnife_03.png
+I0D3$$i_Dagon Level 5::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_06.png
+I0D4$$i_Circlet of Nobility::ReplaceableTextures/CommandButtonsDisabled/DISBTNCirclet.png
+I0D5$$i_Blades of Attack::ReplaceableTextures/CommandButtonsDisabled/DISBTNClawsOfAttack.png
+I0D6$$i_Javelin::ReplaceableTextures/CommandButtonsDisabled/DISBTNSteelRanged.png
+I0D7$$i_Chain Mail::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Chest_Chain_12.png
+I0D8$$i_Ogre Axe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSpiritWalkerAdeptTraining.png
+I0D9$$i_Stout Shield::ReplaceableTextures/CommandButtonsDisabled/DISBTNImprovedUnholyArmor.png
+I0DA$$i_Helm of Iron Will::ReplaceableTextures/CommandButtonsDisabled/DISBTNHelmutPurple.png
+I0DB$$i_Plate Mail::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Chest_Plate13.png
+I0DC$$i_Dagon Level 3::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_06.png
+I0DD$$i_Dagon Level 4::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_06.png
+I0DE$$i_Armlet of Mordiggian (Off,Courier)::ReplaceableTextures/CommandButtonsDisabled/DISBTNUnholyStrength.png
+I0DF$$i_Shivas Guard (Courier)::ReplaceableTextures/CommandButtonsDisabled/DISBTNAdvancedMoonArmor.png
+I0DG$$i_Gem of True Sight::ReplaceableTextures/CommandButtons/BTNGem_Borrowed.png
+I0DH$$i_Disabled Kelens Dagger::ReplaceableTextures/CommandButtonsDisabled/DISBTNDaggerOfEscape.png
+I0DI$$i_Ring of Health::ReplaceableTextures/CommandButtons/BTNRoH_Borrowed.png
+I0DJ$$i_Ring of Regeneration::ReplaceableTextures/CommandButtons/BTNRoR_Borrowed.png
+I0DK$$i_Sobi Mask::ReplaceableTextures/CommandButtons/BTNSobiMask_Borrowed.png
+I0DL$$i_Void Stone::ReplaceableTextures/CommandButtons/BTNVoidStone_Borrowed.png
+I0DM$$i_Empty Bottle Store::ReplaceableTextures/CommandButtons/BTNBottleEmpty_Borrowed.png
+I0DN$$i_Empty Bottle::ReplaceableTextures/CommandButtons/BTNBottleEmpty_Borrowed.png
+I0DO$$i_Magical Bottle - 1/3::ReplaceableTextures/CommandButtons/BTNBottle1_Borrowed.png
+I0DP$$i_Magical Bottle - 2/3::ReplaceableTextures/CommandButtons/BTNBottle2_Borrowed.png
+I0DQ$$i_Magical Bottle - 3/3::ReplaceableTextures/CommandButtons/BTNBottle3_Borrowed.png
+I0DR$$i_Magical Bottle - Rune::ReplaceableTextures/CommandButtons/BTNBottleRune_Borrowed.png
+I0DS$$i_Headdress of Rejuvenation Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0DT$$i_Nathrezim Buckler Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0DU$$i_Boots of Travel Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0DV$$i_Power Treads Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0DW$$i_Hand of Midas Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0DX$$i_Bracer Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0DY$$i_Wraith Band Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0DZ$$i_Null Talisman Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E0$$i_Yasha Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E1$$i_Sange Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E2$$i_Cranium Basher Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E3$$i_Blade Mail Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E4$$i_Maelstrom Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E5$$i_Diffusal Blade Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E6$$i_Mask of Madness Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E7$$i_Euls Scepter of Divinity Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E8$$i_Mekansm Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0E9$$i_Sange and Yasha Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EA$$i_Stygian Desolator Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EB$$i_Crystalys Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EC$$i_Black King Bar Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0ED$$i_Manta Style Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EE$$i_Lothars Edge Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EF$$i_Dagon Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EG$$i_Necronomicon Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EH$$i_Linkens Sphere Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EI$$i_Buriza-do Kyanon Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EJ$$i_Radiance Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EK$$i_Heart of Tarrasque Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EL$$i_Satanic Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EM$$i_Eye of Skadi Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EN$$i_The Butterfly Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EO$$i_Refresher Orb Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EP$$i_Arcane Ring Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EQ$$i_Flying Courier Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0ER$$i_Vladmirs Offering Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0ES$$i_Assault Cuirass Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0ET$$i_Armlet of Mordiggian Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EU$$i_Shivas Guard Recipe::ReplaceableTextures/CommandButtonsDisabled/DISBTNSnazzyScroll.png
+I0EV$$i_Diffusal Blade (Empty)::ReplaceableTextures/CommandButtons/BTNINV_Sword_11.png
+I0EW$$i_Diffusal Blade (Empty)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0EX$$i_Diffusal Blade (Empty)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Sword_11.png
+I0EY$$i_Aghanims Scepter (Furion)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0EZ$$i_Aghanims Scepter (KOTL)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F0$$i_Aghanims Scepter (Leshrac)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F1$$i_Aghanims Scepter (Lina)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F2$$i_Aghanims Scepter (Lion)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F3$$i_Aghanims Scepter (Lucifer)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F4$$i_Aghanims Scepter (Necro)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F5$$i_Aghanims Scepter (Luna::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F6$$i_Aghanims Scepter (Lich)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F7$$i_Aghanims Scepter (Rhasta)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F8$$i_Aghanims Scepter (Zeus)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0F9$$i_Aghanims Scepter (Pugna)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0FA$$i_Aghanims Scepter (QoP)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0FB$$i_Aghanims Scepter (Witch Doctor)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0FC$$i_Aghanims Scepter (Veno)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0FD$$i_Aghanims Scepter (Rylai)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0FE$$i_Aghanims Scepter (Ogre)::ReplaceableTextures/CommandButtonsDisabled/DISBTNINV_Wand_05.png
+I0FF$$i_Temporary Item::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0FG$$i_Temporary Item::ReplaceableTextures/CommandButtons/BTNSelectHeroOn.png
+I0FH$$i_Lycan Damage - Hero - 2::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FI$$i_Lycan Damage - Hero - 4::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FJ$$i_Lycan Damage - Hero - 4 (negative)::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FK$$i_Lycan Damage - Hero - 1::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FL$$i_Lycan Damage - Hero - 3::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FM$$i_Lycan Damage - Hero - 1 (negative)::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FN$$i_Lycan Damage - Hero - 2 (negative)::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FO$$i_Lycan Damage - Hero - 3 (negative)::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FP$$i_Lycan Damage - Creep - 4 (negative)::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FQ$$i_Lycan Damage - Creep - 3::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FR$$i_Lycan Damage - Creep - 2 (negative)::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FS$$i_Black King Bar (7)::ReplaceableTextures/CommandButtons/BTNRodOfNecromancy.png
+I0FT$$i_Lycan Damage - Creep - 3 (negative)::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FU$$i_Lycan Damage - Creep - 1 (negative)::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FV$$i_Lycan Damage - Creep - 4::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FW$$i_Lycan Damage - Creep - 1::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FX$$i_Lycan Damage - Creep - 2::ReplaceableTextures/CommandButtons/BTNManual.png
+I0FY$$i_Black King Bar (8)::ReplaceableTextures/CommandButtons/BTNRodOfNecromancy.png
+I0FZ$$i_Black King Bar (10)::ReplaceableTextures/CommandButtons/BTNRodOfNecromancy.png
+I0G0$$i_Black King Bar (9)::ReplaceableTextures/CommandButtons/BTNRodOfNecromancy.png
+I0G1$$i_Black King Bar (5)::ReplaceableTextures/CommandButtons/BTNRodOfNecromancy.png
+I0G2$$i_Black King Bar (10)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0G3$$i_Black King Bar (6)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0G4$$i_Black King Bar (5)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0G5$$i_Black King Bar (7)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0G6$$i_Black King Bar (9)::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0G7$$i_Black King Bar (8)::ReplaceableTextures/CommandButtonsDisabled/DISBTNRodOfNecromancy.png
+I0G8$$i_Black King Bar (10)::ReplaceableTextures/CommandButtonsDisabled/DISBTNRodOfNecromancy.png
+I0G9$$i_Black King Bar (9)::ReplaceableTextures/CommandButtonsDisabled/DISBTNRodOfNecromancy.png
+I0GA$$i_Black King Bar (5)::ReplaceableTextures/CommandButtonsDisabled/DISBTNRodOfNecromancy.png
+I0GB$$i_Black King Bar (6)::ReplaceableTextures/CommandButtonsDisabled/DISBTNRodOfNecromancy.png
+I0GC$$i_Magic Stick::ReplaceableTextures/CommandButtons/BTNStarWand.png
+I0GD$$i_Magic Stick::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0GE$$i_Magic Stick::ReplaceableTextures/CommandButtonsDisabled/DISBTNStarWand.png
+I0GF$$i_Poison Powder::ReplaceableTextures/CommandButtons/BTNPotionOfDivinity.png
+I0GG$$i_Poison Powder::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0GH$$i_Dust of Appearance::ReplaceableTextures/CommandButtons/BTNDustOfAppearance.png
+I0GI$$i_Dust of Appearance::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0GJ$$i_Phase Boots::ReplaceableTextures/CommandButtons/BTNPhaseBoots.png
+I0GK$$i_Phase Boots::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+I0GL$$i_Phase Boots::ReplaceableTextures/CommandButtonsDisabled/DISBTNPhaseBoots.png
+I0GM$$i_Version Check::ReplaceableTextures/CommandButtons/BTNCirclet.png
+infs$$i_Inferno Stone::ReplaceableTextures/CommandButtons/BTNInfernalStone.png
+iwbr$$i_Ironwood Branch::ReplaceableTextures/CommandButtons/BTNNatureTouchGrow.png
+jdrn$$i_Jade Ring::ReplaceableTextures/CommandButtons/BTNRingJadeFalcon.png
+kgal$$i_Keg of Ale::ReplaceableTextures/CommandButtons/BTNBarrel.png
+klmm$$i_Killmaim::ReplaceableTextures/CommandButtons/BTNSpiritWalkerAdeptTraining.png
+kybl$$i_Blood Key::ReplaceableTextures/CommandButtons/BTNBloodKey.png
+lgdh$$i_Legion Doom-Horn::ReplaceableTextures/CommandButtons/BTNHornOfDoom.png
+lnrn$$i_Lions Ring::ReplaceableTextures/CommandButtons/BTNRingLionHead.png
+lure$$i_Monster Lure::ReplaceableTextures/CommandButtons/BTNMonsterLure.png
+mcou$$i_Medallion of Courage::ReplaceableTextures/CommandButtons/BTNMedalionOfCourage.png
+mcri$$i_Mechanical Critter::ReplaceableTextures/CommandButtons/BTNMechanicalCritter.png
+mlst$$i_Maul of Strength::ReplaceableTextures/CommandButtons/BTNHammer.png
+mnsf$$i_Mindstaff::ReplaceableTextures/CommandButtons/BTNBrilliance.png
+mnst$$i_Mana Stone::ReplaceableTextures/CommandButtons/BTNManaStone.png
+modt$$i_Mask of Death::ReplaceableTextures/CommandButtons/BTNMaskOfDeath.png
+moon$$i_Moonstone::ReplaceableTextures/CommandButtons/BTNMoonStone.png
+n000$$i_Greater Infernel::ReplaceableTextures/CommandButtons/BTNInfernal.png
+n001$$i_Ancestral Spirit::ReplaceableTextures/CommandButtons/BTNWisp.png
+n002$$i_Recipe Shop 3::ReplaceableTextures/CommandButtons/BTNWisp.png
+n003$$i_Siege Golem::ReplaceableTextures/CommandButtons/BTNArmorGolem.png
+n004$$i_Spirit Bear::ReplaceableTextures/CommandButtons/BTNGrizzlyBear.png
+n005$$i_Midnight Tavern::ReplaceableTextures/CommandButtons/BTNTavern.png
+n006$$i_Necronomicon Warrior 3::ReplaceableTextures/CommandButtons/BTNOrcWarlock.png
+n007$$i_Evening Tavern::ReplaceableTextures/CommandButtons/BTNTavern.png
+n008$$i_Morning Tavern::ReplaceableTextures/CommandButtons/BTNTavern.png
+n009$$i_Recipe Shop 5::ReplaceableTextures/CommandButtons/BTNBloodElfPeasant.png
+n00A$$i_Necronomicon Warrior 2::ReplaceableTextures/CommandButtons/BTNOrcWarlock.png
+n00C$$i_Zone Indicator::ReplaceableTextures/CommandButtons/BTNPortal.png
+n00D$$i_Ancient Hydra::ReplaceableTextures/CommandButtons/BTNGreenHydra.png
+n00E$$i_Scary Fish::ReplaceableTextures/CommandButtons/BTNMurgulTideWarrior.png
+n00F$$i_Ancestral Spirit::ReplaceableTextures/CommandButtons/BTNWisp.png
+n00G$$i_Necronomicon Archer 2::ReplaceableTextures/CommandButtons/BTNOrcWarlock.png
+n00H$$i_Necronomicon Archer 1::ReplaceableTextures/CommandButtons/BTNOrcWarlock.png
+n00I$$i_Chicken::ReplaceableTextures/CommandButtons/BTNCritterChicken.png
+n00J$$i_Necronomicon Warrior 1::ReplaceableTextures/CommandButtons/BTNOrcWarlock.png
+n00K$$i_Necronomicon Archer 3::ReplaceableTextures/CommandButtons/BTNOrcWarlock.png
+n00L$$i_Roshan::ReplaceableTextures/CommandButtons/BTNRockGolem.png
+n00M$$i_Mini Pudge::ReplaceableTextures/CommandButtons/BTNAbomination.png
+n00N$$i_Goblin Land Mine::ReplaceableTextures/CommandButtons/BTNGoblinLandMine.png
+n00O$$i_Goblin Land Mine::ReplaceableTextures/CommandButtons/BTNGoblinLandMine.png
+n00P$$i_Goblin Land Mine::ReplaceableTextures/CommandButtons/BTNGoblinLandMine.png
+n00Q$$i_Goblin Land Mine::ReplaceableTextures/CommandButtons/BTNGoblinLandMine.png
+n00S$$i_Alpha Wolf::ReplaceableTextures/CommandButtons/BTNTimberWolf.png
+n00T$$i_Transportation::ReplaceableTextures/CommandButtons/BTNCOP.png
+n00U$$i_Infernal::ReplaceableTextures/CommandButtons/BTNInfernal.png
+n00V$$i_Recipe Shop 1::ReplaceableTextures/CommandButtons/BTNPeasant.png
+n00W$$i_Recipe Shop 2::ReplaceableTextures/CommandButtons/BTNPeon.png
+n00X$$i_Recipe Shop 4::ReplaceableTextures/CommandButtons/BTNAcolyte.png
+n00Y$$i_Infernal::ReplaceableTextures/CommandButtons/BTNInfernal.png
+n00Z$$i_Infernal::ReplaceableTextures/CommandButtons/BTNInfernal.png
+n010$$i_Earth::ReplaceableTextures/CommandButtons/BTNEarthBrewmaster.png
+n011$$i_Fire::ReplaceableTextures/CommandButtons/BTNFireBrewmaster.png
+n012$$i_Storm::ReplaceableTextures/CommandButtons/BTNStormBrewmaster.png
+n018$$i_Spirit Bear::ReplaceableTextures/CommandButtons/BTNGrizzlyBear.png
+n019$$i_Spiderling::ReplaceableTextures/CommandButtons/BTNSpiderGreen.png
+n01B$$i_Twilight Tavern::ReplaceableTextures/CommandButtons/BTNTavern.png
+n01C$$i_Spirit Bear::ReplaceableTextures/CommandButtons/BTNGrizzlyBear.png
+n01D$$i_Sunrise Tavern::ReplaceableTextures/CommandButtons/BTNTavern.png
+n01E$$i_Spiderite::ReplaceableTextures/CommandButtons/BTNSpiderGreen.png
+n01F$$i_Spawning Artifact::ReplaceableTextures/CommandButtons/BTNCOP.png
+n01G$$i_Spirit Bear::ReplaceableTextures/CommandButtons/BTNGrizzlyBear.png
+n01K$$i_Weapons Dealer::ReplaceableTextures/CommandButtons/BTNHeroMountainKing.png
+n01L$$i_Goblin Land Mine::ReplaceableTextures/CommandButtons/BTNGoblinLandMine.png
+n01M$$i_Quilbeast::ReplaceableTextures/CommandButtons/BTNQuillBeast.png
+n01N$$i_Dawn Tavern::ReplaceableTextures/CommandButtons/BTNTavern.png
+n01P$$i_Dusk Tavern::ReplaceableTextures/CommandButtons/BTNTavern.png
+n01Q$$i_Scout Hawk::ReplaceableTextures/CommandButtons/BTNWarEagle.png
+n01R$$i_Greater Hawk::ReplaceableTextures/CommandButtons/BTNWarEagle.png
+n01S$$i_Greater Quilbeast::ReplaceableTextures/CommandButtons/BTNQuillBeast.png
+n01U$$i_Invoke Tornado::ReplaceableTextures/CommandButtons/BTNTornado.png
+n01X$$i_Defeaning Blast::ReplaceableTextures/CommandButtons/BTNTornado.png
+n01Y$$i_Draft Tavern 1::ReplaceableTextures/CommandButtons/BTNTavern.png
+n01Z$$i_Draft Tavern 2::ReplaceableTextures/CommandButtons/BTNTavern.png
+n020$$i_Living Dead::ReplaceableTextures/CommandButtons/BTNDalaranMutant.png
+n021$$i_Penguin::ReplaceableTextures/CommandButtons/BTNPenguin.png
+n022$$i_Raccoon::ReplaceableTextures/CommandButtons/BTNRacoon.png
+n023$$i_Carrion Beetle::ReplaceableTextures/CommandButtons/BTNCarrionScarabs.png
+n024$$i_Dune Worm::ReplaceableTextures/CommandButtons/BTNDuneWorm.png
+n025$$i_Fel Boar::ReplaceableTextures/CommandButtons/BTNFelBoar.png
+n026$$i_Mud Golem::ReplaceableTextures/CommandButtons/BTNRockGolem.png
+n027$$i_Forged Spirit::ReplaceableTextures/CommandButtons/BTNLavaSpawn.png
+n028$$i_Ancestral Spirit::ReplaceableTextures/CommandButtons/BTNWisp.png
+n029$$i_Ancestral Spirit::ReplaceableTextures/CommandButtons/BTNWisp.png
+n02A$$i_Hero Selector::ReplaceableTextures/CommandButtons/BTNCOP.png
+n0DC$$i_Zone Indicator RD::ReplaceableTextures/CommandButtons/BTNPortal.png
+n0EO$$i_Dummy Tavern::ReplaceableTextures/CommandButtons/BTNTavern.png
+n0F5$$i_Living Dead::ReplaceableTextures/CommandButtons/BTNDalaranMutant.png
+n0F6$$i_Tombstone - Level 3::ReplaceableTextures/CommandButtons/BTNResStone.png
+n0F7$$i_Living Dead::ReplaceableTextures/CommandButtons/BTNDalaranMutant.png
+n0F8$$i_Living Dead::ReplaceableTextures/CommandButtons/BTNFleshGolem.png
+n0F9$$i_Living Dead::ReplaceableTextures/CommandButtons/BTNDalaranMutant.png
+n0FH$$i_Tombstone - Level 4::ReplaceableTextures/CommandButtons/BTNResStone.png
+n0FI$$i_Tombstone - Level 2::ReplaceableTextures/CommandButtons/BTNResStone.png
+n0FJ$$i_Tombstone - Level 1::ReplaceableTextures/CommandButtons/BTNResStone.png
+nalb$$i_Albatross::ReplaceableTextures/CommandButtons/BTNAlbatross.png
+nbal$$i_Doom Guard::ReplaceableTextures/CommandButtons/BTNDoomGuard.png
+nbdk$$i_Black Drake::ReplaceableTextures/CommandButtons/BTNBlackDragon.png
+nbdo$$i_Blue Dragonspawn Overseer::ReplaceableTextures/CommandButtons/BTNpurpleDragonSpawn.png
+nbds$$i_Blue Dragonspawn Sorcerer::ReplaceableTextures/CommandButtons/BTNGreenDragonSpawn.png
+nbrg$$i_Brigand::ReplaceableTextures/CommandButtons/BTNBanditSpearThrower.png
+nbwm$$i_Black Dragon::ReplaceableTextures/CommandButtons/BTNBlackDragon.png
+nC35$$i_Gateway of Demonic Artifacts::ReplaceableTextures/CommandButtons/BTNMageTower.png
+nC38$$i_Sena The Accessorizer::ReplaceableTextures/CommandButtons/BTNFemaleElfVillager.png
+ncen$$i_Centaur Outrunner::ReplaceableTextures/CommandButtons/BTNcentaur.png
+ncg1$$i_Clockwerk Goblin::ReplaceableTextures/CommandButtons/BTNClockWerkGoblin.png
+ncg2$$i_Clockwerk Goblin::ReplaceableTextures/CommandButtons/BTNClockWerkGoblin.png
+ncgb$$i_Clockwerk Goblin::ReplaceableTextures/CommandButtons/BTNClockWerkGoblin.png
+ncnk$$i_Centaur Khan::ReplaceableTextures/CommandButtons/BTNCentaurKhan.png
+ncop$$i_Circle of Power::ReplaceableTextures/CommandButtons/BTNCOP.png
+ncrb$$i_Crab::ReplaceableTextures/CommandButtons/BTNSpinyCrab.png
+ndfl$$i_Defiled Fountain of Life::ReplaceableTextures/CommandButtons/BTNFountainOfLifeDefiled.png
+ndr1$$i_Lesser Dark Minion::ReplaceableTextures/CommandButtons/BTNSkeletonWarrior.png
+ndr2$$i_Dark Minion::ReplaceableTextures/CommandButtons/BTNSkeletonWarrior.png
+ndr3$$i_Greater Dark Minion::ReplaceableTextures/CommandButtons/BTNSkeletonWarrior.png
+ndtr$$i_Dark Troll::ReplaceableTextures/CommandButtons/BTNDarkTroll.png
+ndtw$$i_Dark Troll Warlord::ReplaceableTextures/CommandButtons/BTNDarkTrollTrapper.png
+nech$$i_Chicken::ReplaceableTextures/CommandButtons/BTNCritterChicken.png
+necr$$i_Rabbit::ReplaceableTextures/CommandButtons/BTNCritterRabbit.png
+nfa1$$i_Pocket Factory::ReplaceableTextures/CommandButtons/BTNPocketFactory.png
+nfa2$$i_Pocket Factory::ReplaceableTextures/CommandButtons/BTNPocketFactory.png
+nfac$$i_Pocket Factory::ReplaceableTextures/CommandButtons/BTNPocketFactory.png
+nfoh$$i_Well of Life::ReplaceableTextures/CommandButtons/BTNFountainOfLife.png
+nfpc$$i_Polar Furbolg Champion::ReplaceableTextures/CommandButtons/BTNPolarFurbolg.png
+nfpu$$i_Polar Furbolg Ursa Warrior::ReplaceableTextures/CommandButtons/BTNPolarFurbolgElder.png
+nfro$$i_Frog::ReplaceableTextures/CommandButtons/BTNHex.png
+nfsh$$i_Forest Troll High Priest::ReplaceableTextures/CommandButtons/BTNForestTrollShadowPriest.png
+nftb$$i_Forest Troll Berserker::ReplaceableTextures/CommandButtons/BTNForestTroll.png
+nggr$$i_Granite Golem::ReplaceableTextures/CommandButtons/BTNRockGolem.png
+ngh1$$i_Ghost::ReplaceableTextures/CommandButtons/BTNGhost.png
+ngns$$i_Gnoll Assassin::ReplaceableTextures/CommandButtons/BTNGnollArcher.png
+ngst$$i_Rock Golem::ReplaceableTextures/CommandButtons/BTNRockGolem.png
+nhmc$$i_Hermit Crab::ReplaceableTextures/CommandButtons/BTNHermitCrab.png
+njg1$$i_Jungle Stalker::ReplaceableTextures/CommandButtons/BTNJungleBeast.png
+njga$$i_Elder Jungle Stalker::ReplaceableTextures/CommandButtons/BTNJungleBeast.png
+nkob$$i_Kobold::ReplaceableTextures/CommandButtons/BTNKobold.png
+nkol$$i_Kobold Taskmaster::ReplaceableTextures/CommandButtons/BTNKobold.png
+nkot$$i_Kobold Tunneler::ReplaceableTextures/CommandButtons/BTNKobold.png
+nlur$$i_Monster Lure::ReplaceableTextures/CommandButtons/BTNMonsterLure.png
+nmdm$$i_Medivh::ReplaceableTextures/CommandButtons/BTNRavenForm.png
+nmed$$i_Medivh::ReplaceableTextures/CommandButtons/BTNMedivh.png
+nmrl$$i_Murloc Tiderunner::ReplaceableTextures/CommandButtons/BTNMurloc.png
+nmrm$$i_Murloc Nightcrawler::ReplaceableTextures/CommandButtons/BTNMurlocNightCrawler.png
+nmrr$$i_Murloc Huntsman::ReplaceableTextures/CommandButtons/BTNMurloc.png
+nogm$$i_Ogre Mauler::ReplaceableTextures/CommandButtons/BTNOgre.png
+nomg$$i_Ogre Magi::ReplaceableTextures/CommandButtons/BTNOgreMagi.png
+nowb$$i_Wildkin::ReplaceableTextures/CommandButtons/BTNOwlBear.png
+nowe$$i_Enraged Wildkin::ReplaceableTextures/CommandButtons/BTNOwlBear.png
+npfl$$i_Fel Beast::ReplaceableTextures/CommandButtons/BTNPurpleFelhound.png
+npig$$i_Pig::ReplaceableTextures/CommandButtons/BTNPig.png
+npn1$$i_Fire::ReplaceableTextures/CommandButtons/BTNFireBrewmaster.png
+npn2$$i_Storm::ReplaceableTextures/CommandButtons/BTNStormBrewmaster.png
+npn3$$i_Earth::ReplaceableTextures/CommandButtons/BTNEarthBrewmaster.png
+npn4$$i_Fire::ReplaceableTextures/CommandButtons/BTNFireBrewmaster.png
+npn5$$i_Storm::ReplaceableTextures/CommandButtons/BTNStormBrewmaster.png
+npn6$$i_Earth::ReplaceableTextures/CommandButtons/BTNEarthBrewmaster.png
+npng$$i_Penguin::ReplaceableTextures/CommandButtons/BTNPenguin.png
+npnw$$i_Penguin::ReplaceableTextures/CommandButtons/BTNPenguin.png
+nrac$$i_Raccoon::ReplaceableTextures/CommandButtons/BTNRacoon.png
+nrat$$i_Rat::ReplaceableTextures/CommandButtons/BTNYouDirtyRat!.png
+nsat$$i_Satyr Trickster::ReplaceableTextures/CommandButtons/BTNSatyrTrickster.png
+nsea$$i_Seal::ReplaceableTextures/CommandButtons/BTNSeal.png
+nsha$$i_Sheep::ReplaceableTextures/CommandButtons/BTNSheep.png
+nshe$$i_Sheep::ReplaceableTextures/CommandButtons/BTNSheep.png
+nshf$$i_Flying Sheep::ReplaceableTextures/CommandButtons/BTNSheep.png
+nshw$$i_Sheep::ReplaceableTextures/CommandButtons/BTNSheep.png
+nsno$$i_Snowy Owl::ReplaceableTextures/CommandButtons/BTNSnowOwl.png
+nspi$$i_Necklace of Spell Immunity::ReplaceableTextures/CommandButtons/BTNNecklace.png
+nsth$$i_Satyr Hellcaller::ReplaceableTextures/CommandButtons/BTNSatyr.png
+nstl$$i_Satyr Soulstealer::ReplaceableTextures/CommandButtons/BTNSatyr.png
+ntav$$i_Light Tavern::ReplaceableTextures/CommandButtons/BTNTavern.png
+ntor$$i_Tornado::ReplaceableTextures/CommandButtons/BTNTornado.png
+nvul$$i_Vulture::ReplaceableTextures/CommandButtons/BTNVulture.png
+nwe1$$i_Hawk::ReplaceableTextures/CommandButtons/BTNWarEagle.png
+nwe2$$i_Thunder Hawk::ReplaceableTextures/CommandButtons/BTNWarEagle.png
+nwe3$$i_Spirit Hawk::ReplaceableTextures/CommandButtons/BTNWarEagle.png
+nwgt$$i_Way Gate::ReplaceableTextures/CommandButtons/BTNWaygate.png
+nwlg$$i_Giant Wolf::ReplaceableTextures/CommandButtons/BTNTimberWolf.png
+o000$$i_Death Ward::ReplaceableTextures/CommandButtons/BTNScatterRockets.png
+o001$$i_Death Ward::ReplaceableTextures/CommandButtons/BTNScatterRockets.png
+o002$$i_Remote Mine::ReplaceableTextures/CommandButtons/BTNRemote.png
+o003$$i_Spin Web::ReplaceableTextures/CommandButtons/BTNWeb.png
+o004$$i_Observer Ward::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+o005$$i_Lycanthropy Wolf::ReplaceableTextures/CommandButtons/BTNSpiritWolf.png
+o006$$i_Lycanthropy Wolf::ReplaceableTextures/CommandButtons/BTNSpiritWolf.png
+o007$$i_Lycanthropy Wolf::ReplaceableTextures/CommandButtons/BTNSpiritWolf.png
+o008$$i_Serpent Ward::ReplaceableTextures/CommandButtons/BTNSerpentWard.png
+o009$$i_Serpent Ward::ReplaceableTextures/CommandButtons/BTNSerpentWard.png
+o00A$$i_Death Ward::ReplaceableTextures/CommandButtons/BTNScatterRockets.png
+o00B$$i_Remote Mine::ReplaceableTextures/CommandButtons/BTNRemote.png
+o00C$$i_Healing Ward::ReplaceableTextures/CommandButtons/BTNHealingWard.png
+o00D$$i_Vision Dummy::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+o00E$$i_Vision Dummy::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+o00F$$i_Lycanthropy Wolf::ReplaceableTextures/CommandButtons/BTNSpiritWolf.png
+o00G$$i_Vision Dummy::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+o00H$$i_Weaver Web::ReplaceableTextures/CommandButtons/BTNEntrapmentWard.png
+o00I$$i_Poison Nova Attack 1::ReplaceableTextures/PassiveButtons/PASBTNCorrosiveBreath.png
+o00K$$i_Fireball::ReplaceableTextures/CommandButtons/BTNFire.png
+o00L$$i_Nether Ward 2::ReplaceableTextures/CommandButtons/BTNEntrapmentWard.png
+o00M$$i_Nether Ward 1::ReplaceableTextures/CommandButtons/BTNEntrapmentWard.png
+o00N$$i_Nether Ward 4::ReplaceableTextures/CommandButtons/BTNEntrapmentWard.png
+o00O$$i_Nether Ward 3::ReplaceableTextures/CommandButtons/BTNEntrapmentWard.png
+o00Q$$i_Vision Dummy::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+o00R$$i_Fireball::ReplaceableTextures/CommandButtons/BTNFire.png
+o00S$$i_Corrosive Skin Attacker::ReplaceableTextures/PassiveButtons/PASBTNCorrosiveBreath.png
+o00T$$i_Plague Ward::ReplaceableTextures/CommandButtons/BTNVenomWards.png
+o00U$$i_Plague Ward::ReplaceableTextures/CommandButtons/BTNVenomWards.png
+o00V$$i_Plague Ward::ReplaceableTextures/CommandButtons/BTNVenomWards.png
+o00W$$i_Plague Ward::ReplaceableTextures/CommandButtons/BTNVenomWards.png
+o00X$$i_Death Ward::ReplaceableTextures/CommandButtons/BTNScatterRockets.png
+o00Y$$i_Lion Roar Effect::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+o00Z$$i_Vision Dummy::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+o010$$i_Ball Lightning::ReplaceableTextures/CommandButtons/BTNSentryWard.png
+o018$$i_Remote Mine::ReplaceableTextures/CommandButtons/BTNRemote.png
+oalt$$i_Altar of Storms::ReplaceableTextures/CommandButtons/BTNAltarOfStorms.png
+obar$$i_Barracks::ReplaceableTextures/CommandButtons/BTNBarracks.png
+obea$$i_Beastiary::ReplaceableTextures/CommandButtons/BTNBeastiary.png
+ocat$$i_Demolisher::ReplaceableTextures/CommandButtons/BTNDemolisher.png
+ocor$$i_Orb of Corruption::ReplaceableTextures/CommandButtons/BTNOrbOfCorruption.png
+odoc$$i_Troll Witch Doctor::ReplaceableTextures/CommandButtons/BTNWitchDoctor.png
+oeye$$i_Sentry Ward::ReplaceableTextures/CommandButtons/BTNBlueSentryWard.png
+ofir$$i_Orb of Fire::ReplaceableTextures/CommandButtons/BTNOrbOfFire.png
+oflg$$i_Orc Flag::ReplaceableTextures/CommandButtons/BTNOrcCaptureFlag.png
+ofor$$i_War Mill::ReplaceableTextures/CommandButtons/BTNForge.png
+ofro$$i_Orb of Frost::ReplaceableTextures/CommandButtons/BTNOrbOfFrost.png
+ofrt$$i_Fortress::ReplaceableTextures/CommandButtons/BTNFortress.png
+ogre$$i_Great Hall::ReplaceableTextures/CommandButtons/BTNGreathall.png
+ogru$$i_Grunt::ReplaceableTextures/CommandButtons/BTNGrunt.png
+ohun$$i_Troll Headhunter::ReplaceableTextures/CommandButtons/BTNHeadhunter.png
+ohwd$$i_Healing Ward::ReplaceableTextures/CommandButtons/BTNHealingWard.png
+okod$$i_Kodo Beast::ReplaceableTextures/CommandButtons/BTNKotoBeast.png
+oli2$$i_Orb of Lightning::ReplaceableTextures/CommandButtons/BTNOrbOfLightning.png
+olig$$i_Orb of Lightning::ReplaceableTextures/CommandButtons/BTNOrbOfLightning.png
+opeo$$i_Peon::ReplaceableTextures/CommandButtons/BTNPeon.png
+orai$$i_Raider::ReplaceableTextures/CommandButtons/BTNRaider.png
+oshm$$i_Shaman::ReplaceableTextures/CommandButtons/BTNShaman.png
+osld$$i_Spirit Lodge::ReplaceableTextures/CommandButtons/BTNSpiritLodge.png
+oslo$$i_Orb of Slow::ReplaceableTextures/CommandButtons/BTNOrbofSlowness.png
+osp1$$i_Serpent Ward::ReplaceableTextures/CommandButtons/BTNSerpentWard.png
+osp2$$i_Serpent Ward::ReplaceableTextures/CommandButtons/BTNSerpentWard.png
+osp3$$i_Serpent Ward::ReplaceableTextures/CommandButtons/BTNSerpentWard.png
+osp4$$i_Serpent Ward::ReplaceableTextures/CommandButtons/BTNSerpentWard.png
+ospm$$i_Spirit Walker::ReplaceableTextures/CommandButtons/BTNSpiritWalker.png
+ospw$$i_Spirit Walker::ReplaceableTextures/CommandButtons/BTNSpiritWalker.png
+ostr$$i_Stronghold::ReplaceableTextures/CommandButtons/BTNStronghold.png
+osw3$$i_Shadow Wolf::ReplaceableTextures/CommandButtons/BTNSpiritWolf.png
+otau$$i_Tauren::ReplaceableTextures/CommandButtons/BTNTauren.png
+otbk$$i_Troll Berserker::ReplaceableTextures/CommandButtons/BTNHeadHunterBerserker.png
+otbr$$i_Troll Batrider::ReplaceableTextures/CommandButtons/BTNTrollBatRider.png
+otot$$i_Stasis Trap::ReplaceableTextures/CommandButtons/BTNStasisTrap.png
+otrb$$i_Orc Burrow::ReplaceableTextures/CommandButtons/BTNTrollBurrow.png
+otto$$i_Tauren Totem::ReplaceableTextures/CommandButtons/BTNTaurenTotem.png
+oven$$i_Orb of Venom::ReplaceableTextures/CommandButtons/BTNOrbOfVenom.png
+ovln$$i_Voodoo Lounge::ReplaceableTextures/CommandButtons/BTNVoodooLounge.png
+owtw$$i_Watch Tower::ReplaceableTextures/CommandButtons/BTNOrcTower.png
+owyv$$i_Wind Rider::ReplaceableTextures/CommandButtons/BTNWyvernRider.png
+pams$$i_Anti-magic Potion::ReplaceableTextures/CommandButtons/BTNSnazzyPotion.png
+pclr$$i_Clarity Potion::ReplaceableTextures/CommandButtons/BTNPotionOfClarity.png
+pdiv$$i_Potion of Divinity::ReplaceableTextures/CommandButtons/BTNPotionOfDivinity.png
+penr$$i_Pendant of Energy::ReplaceableTextures/CommandButtons/BTNPendantOfEnergy.png
+pgin$$i_Potion of Greater Invisibility::ReplaceableTextures/CommandButtons/BTNGreaterInvisibility.png
+pgma$$i_Potion of Greater Mana::ReplaceableTextures/CommandButtons/BTNPotionBlueBig.png
+phea$$i_Potion of Healing::ReplaceableTextures/CommandButtons/BTNPotionGreenSmall.png
+pinv$$i_Potion of Invisibility::ReplaceableTextures/CommandButtons/BTNLesserInvisibility.png
+plcl$$i_Lesser Clarity Potion::ReplaceableTextures/CommandButtons/BTNLesserClarityPotion.png
+pman$$i_Potion of Mana::ReplaceableTextures/CommandButtons/BTNPotionBlueSmall.png
+prvt$$i_Periapt of Vitality::ReplaceableTextures/CommandButtons/BTNPeriapt.png
+pspd$$i_Potion of Speed::ReplaceableTextures/CommandButtons/BTNPotionRed.png
+ram1$$i_Ring of the Archmagi::ReplaceableTextures/CommandButtons/BTNRingJadeFalcon.png
+ram2$$i_Ring of the Archmagi::ReplaceableTextures/CommandButtons/BTNRingJadeFalcon.png
+ram3$$i_Ring of the Archmagi::ReplaceableTextures/CommandButtons/BTNRingJadeFalcon.png
+ram4$$i_Ring of the Archmagi::ReplaceableTextures/CommandButtons/BTNRingJadeFalcon.png
+rat6$$i_Claws of Attack +6::ReplaceableTextures/CommandButtons/BTNClawsOfAttack.png
+ratf$$i_Claws of Attack +15::ReplaceableTextures/CommandButtons/BTNClawsOfAttack.png
+rde0$$i_Ring of Protection +1::ReplaceableTextures/CommandButtons/BTNRingGreen.png
+rde2$$i_Ring of Protection +3::ReplaceableTextures/CommandButtons/BTNRingGreen.png
+rde4$$i_Ring of Protection +5::ReplaceableTextures/CommandButtons/BTNRingGreen.png
+rdis$$i_Rune of Dispel Magic::ReplaceableTextures/CommandButtons/BTNRune.png
+rej1$$i_Minor Replenishment Potion::ReplaceableTextures/CommandButtons/BTNMinorRejuvPotion.png
+rej2$$i_Lesser Replenishment Potion::ReplaceableTextures/CommandButtons/BTNLesserRejuvPotion.png
+rej4$$i_Greater Replenishment Potion::ReplaceableTextures/CommandButtons/BTNGreaterRejuvPotion.png
+rej5$$i_Lesser Scroll of Replenishment::ReplaceableTextures/CommandButtons/BTNLesserRejuvScroll.png
+rej6$$i_Greater Scroll of Replenishment::ReplaceableTextures/CommandButtons/BTNGreaterRejuvScroll.png
+rhe2$$i_Rune of Healing::ReplaceableTextures/CommandButtons/BTNRune.png
+rlif$$i_Ring of Regeneration::ReplaceableTextures/CommandButtons/BTNRingSkull.png
+rma2$$i_Rune of Greater Mana::ReplaceableTextures/CommandButtons/BTNRune.png
+rnec$$i_Rod of Necromancy::ReplaceableTextures/CommandButtons/BTNRodOfNecromancy.png
+rnsp$$i_Ring of Superiority::ReplaceableTextures/CommandButtons/BTNGoldRing.png
+rots$$i_Scepter of the Sea::ReplaceableTextures/CommandButtons/BTNWitchDoctorAdept.png
+rre1$$i_Rune of Lesser Resurrection::ReplaceableTextures/CommandButtons/BTNRune.png
+rreb$$i_Rune of Rebirth::ReplaceableTextures/CommandButtons/BTNRune.png
+rspl$$i_Rune of Spirit Link::ReplaceableTextures/CommandButtons/BTNRune.png
+rsps$$i_Rune of Shielding::ReplaceableTextures/CommandButtons/BTNRune.png
+rst1$$i_Gauntlets of Ogre Strength +3::ReplaceableTextures/CommandButtons/BTNGauntletsOfOgrePower.png
+rugt$$i_Runed Gauntlets::ReplaceableTextures/CommandButtons/BTNImprovedUnholyStrength.png
+rump$$i_Rusty Mining Pick::ReplaceableTextures/CommandButtons/BTNGatherGold.png
+rwiz$$i_Sobi Mask::ReplaceableTextures/CommandButtons/BTNSobiMask.png
+sand$$i_Scroll of Animate Dead::ReplaceableTextures/CommandButtons/BTNSnazzyScrollPurple.png
+sbok$$i_Spell Book::ReplaceableTextures/CommandButtons/BTNSpellBookBLS.png
+schl$$i_Scepter of Healing::ReplaceableTextures/CommandButtons/BTNPriestAdept.png
+scul$$i_Scroll of the Unholy Legion::ReplaceableTextures/CommandButtons/BTNBansheeMaster.png
+sfog$$i_Horn of the Clouds::ReplaceableTextures/CommandButtons/BTNHornOfFog.png
+shas$$i_Scroll of Speed::ReplaceableTextures/CommandButtons/BTNScrollOfHaste.png
+shcw$$i_Shaman Claws::ReplaceableTextures/CommandButtons/BTNShamanMaster.png
+shdt$$i_Shield of the Deathlord::ReplaceableTextures/CommandButtons/BTNLightningShield.png
+shea$$i_Scroll of Healing::ReplaceableTextures/CommandButtons/BTNScrollOfTownPortal.png
+shhn$$i_Shield of Honor::ReplaceableTextures/CommandButtons/BTNHumanArmorUpThree.png
+shrs$$i_Shimmerglaze Roast::ReplaceableTextures/CommandButtons/BTNMonsterLure.png
+shtm$$i_Shamanic Totem::ReplaceableTextures/CommandButtons/BTNEntrapmentWard.png
+silk$$i_Spider Silk Broach::ReplaceableTextures/CommandButtons/BTNSpiderSilkBroach.png
+sksh$$i_Skull Shield::ReplaceableTextures/CommandButtons/BTNGrimWard.png
+skul$$i_Sacrificial Skull::ReplaceableTextures/CommandButtons/BTNSacrificialSkull.png
+sman$$i_Scroll of Mana::ReplaceableTextures/CommandButtons/BTNScrollOfProtection.png
+sor1$$i_Shadow Orb +1::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+sor2$$i_Shadow Orb +2::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+sor3$$i_Shadow Orb +3::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+sor4$$i_Shadow Orb +4::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+sor5$$i_Shadow Orb +5::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+sor6$$i_Shadow Orb +6::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+sor7$$i_Shadow Orb +7::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+sor8$$i_Shadow Orb +8::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+sor9$$i_Shadow Orb +9::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+sora$$i_Shadow Orb +10::ReplaceableTextures/CommandButtons/BTNOrbOfDarkness.png
+soul$$i_Soul::ReplaceableTextures/CommandButtons/BTNUsedSoulGem.png
+spre$$i_Staff of Preservation::ReplaceableTextures/CommandButtons/BTNStaffOfPreservation.png
+sprn$$i_Spider Ring::ReplaceableTextures/CommandButtons/BTNRingVioletSpider.png
+spsh$$i_Amulet of Spell Shield::ReplaceableTextures/CommandButtons/BTNSpellShieldAmulet.png
+srbd$$i_Searing Blade::ReplaceableTextures/CommandButtons/BTNArcaniteMelee.png
+sreg$$i_Scroll of Regeneration::ReplaceableTextures/CommandButtons/BTNScrollOfRegenerationGreen.png
+srrc$$i_Scroll of Resurrection::ReplaceableTextures/CommandButtons/BTNSnazzyScroll.png
+srtl$$i_Serathil::ReplaceableTextures/CommandButtons/BTNOrcMeleeUpThree.png
+ssan$$i_Staff of Sanctuary::ReplaceableTextures/CommandButtons/BTNStaffOfSanctuary.png
+stel$$i_Staff of Teleportation::ReplaceableTextures/CommandButtons/BTNStaffOfTeleportation.png
+stre$$i_Staff of Reanimation::ReplaceableTextures/CommandButtons/BTNWandSkull.png
+stwa$$i_Sturdy War Axe::ReplaceableTextures/CommandButtons/BTNOrcMeleeUpOne.png
+stwp$$i_Scroll of Town Portal::ReplaceableTextures/CommandButtons/BTNScrollUber.png
+tbak$$i_Tiny Altar of Kings::ReplaceableTextures/CommandButtons/BTNAltarOfKings.png
+tbar$$i_Tiny Barracks::ReplaceableTextures/CommandButtons/BTNHumanBarracks.png
+tbsm$$i_Tiny Blacksmith::ReplaceableTextures/CommandButtons/BTNBlacksmith.png
+tdex$$i_Tome of Agility::ReplaceableTextures/CommandButtons/BTNTome.png
+tels$$i_Goblin Night Scope::ReplaceableTextures/CommandButtons/BTNTelescope.png
+texp$$i_Tome of Experience::ReplaceableTextures/CommandButtons/BTNTomeBrown.png
+tfar$$i_Tiny Farm::ReplaceableTextures/CommandButtons/BTNFarm.png
+tgrh$$i_Tiny Great Hall::ReplaceableTextures/CommandButtons/BTNGreathall.png
+tgxp$$i_Tome of Greater Experience::ReplaceableTextures/CommandButtons/BTNManual3.png
+thdm$$i_Thunderlizard Diamond::ReplaceableTextures/CommandButtons/BTNEnchantedGemstone.png
+tkno$$i_Tome of Power::ReplaceableTextures/CommandButtons/BTNTomeRed.png
+tlum$$i_Tiny Lumber Mill::ReplaceableTextures/CommandButtons/BTNHumanLumberMill.png
+tmmt$$i_Totem of Might::ReplaceableTextures/CommandButtons/BTNEntrapmentWard.png
+tmsc$$i_Tome of Sacrifices::ReplaceableTextures/CommandButtons/BTNNecromancerAdept.png
+tsct$$i_Ivory Tower::ReplaceableTextures/CommandButtons/BTNHumanWatchTower.png
+u001$$i_Ghoul::ReplaceableTextures/CommandButtons/BTNGhoul.png
+u002$$i_Necromancer::ReplaceableTextures/CommandButtons/BTNNecromancer.png
+u003$$i_Revenant::ReplaceableTextures/CommandButtons/BTNGargoyle.png
+u004$$i_Black Hole::ReplaceableTextures/PassiveButtons/PASBTNGenericSpellImmunity.png
+u005$$i_Revenant::ReplaceableTextures/CommandButtons/BTNGargoyle.png
+u009$$i_Revenant::ReplaceableTextures/CommandButtons/BTNGargoyle.png
+u00B$$i_ObserverTruesight::ReplaceableTextures/CommandButtons/BTNLocustSwarm.png
+u00D$$i_Spirit Tower - level 2::ReplaceableTextures/CommandButtons/BTNZigguratUpgrade.png
+u00G$$i_Ghosts::ReplaceableTextures/CommandButtons/BTNLocustSwarm.png
+u00H$$i_Chain Link::ReplaceableTextures/CommandButtons/BTNImpale.png
+u00I$$i_Natures Attendants::ReplaceableTextures/CommandButtons/BTNLocustSwarm.png
+u00J$$i_Illuminate Orb::ReplaceableTextures/CommandButtons/BTNorboflightning.png
+u00L$$i_ChronoSphere::ReplaceableTextures/CommandButtons/BTNTimeStop.png
+u00M$$i_Spirit Tower - level 1::ReplaceableTextures/CommandButtons/BTNZigguratUpgrade.png
+u00N$$i_Spirit Tower - level 3::ReplaceableTextures/CommandButtons/BTNZigguratUpgrade.png
+u00O$$i_Icy Path::ReplaceableTextures/PassiveButtons/PASBTNFreezingBreath.png
+u00Q$$i_Graveyard::ReplaceableTextures/CommandButtons/BTNGraveyard.png
+u00R$$i_Meat Wagon::ReplaceableTextures/CommandButtons/BTNMeatWagon.png
+u00S$$i_Power Cog::ReplaceableTextures/CommandButtons/BTNPowerGenerator.png
+u00T$$i_Spirit Tower - level 4::ReplaceableTextures/CommandButtons/BTNZigguratUpgrade.png
+u00U$$i_Hookshot Head::ReplaceableTextures/CommandButtons/BTNImpale.png
+u00V$$i_Hookshot Link::ReplaceableTextures/CommandButtons/BTNImpale.png
+u00W$$i_Power Cog Effect::ReplaceableTextures/CommandButtons/BTNPowerGenerator.png
+u00X$$i_Electric Vortex::ReplaceableTextures/CommandButtons/BTNorboflightning.png
+u00Z$$i_Goblin Shop::ReplaceableTextures/CommandButtons/BTNAcolyte.png
+uabo$$i_Abomination::ReplaceableTextures/CommandButtons/BTNAbomination.png
+uaco$$i_Acolyte::ReplaceableTextures/CommandButtons/BTNAcolyte.png
+uaod$$i_Altar of Darkness::ReplaceableTextures/CommandButtons/BTNAltarOfDarkness.png
+ubon$$i_Boneyard::ReplaceableTextures/CommandButtons/BTNBoneyard.png
+ubsp$$i_Destroyer::ReplaceableTextures/CommandButtons/BTNDestroyer.png
+uC74$$i_Leragas The Vile::ReplaceableTextures/CommandButtons/BTNAcolyte.png
+ugho$$i_Ghoul::ReplaceableTextures/CommandButtons/BTNGhoul.png
+ugol$$i_Haunted Gold Mine::ReplaceableTextures/CommandButtons/BTNGoldMine.png
+ugrv$$i_Graveyard::ReplaceableTextures/CommandButtons/BTNGraveyard.png
+umtw$$i_Meat Wagon::ReplaceableTextures/CommandButtons/BTNMeatWagon.png
+unec$$i_Necromancer::ReplaceableTextures/CommandButtons/BTNNecromancer.png
+unp1$$i_Halls of the Dead::ReplaceableTextures/CommandButtons/BTNHallOfTheDead.png
+unp2$$i_Black Citadel::ReplaceableTextures/CommandButtons/BTNBlackCitadel.png
+unpl$$i_The Frozen Throne::ReplaceableTextures/CommandButtons/BTNNecropolis.png
+uobs$$i_Obsidian Statue::ReplaceableTextures/CommandButtons/BTNObsidianStatue.png
+uplg$$i_Disease Cloud::ReplaceableTextures/PassiveButtons/PASBTNPlagueCloud.png
+usap$$i_Sacrificial Pit::ReplaceableTextures/CommandButtons/BTNSacrificialPit.png
+usep$$i_Crypt::ReplaceableTextures/CommandButtons/BTNCrypt.png
+ushd$$i_Watcher::ReplaceableTextures/CommandButtons/BTNShade.png
+uske$$i_Skeleton Warrior::ReplaceableTextures/CommandButtons/BTNSkeletonWarrior.png
+uslh$$i_Slaughterhouse::ReplaceableTextures/CommandButtons/BTNSlaughterhouse.png
+utod$$i_Temple of the Damned::ReplaceableTextures/CommandButtons/BTNTempleOfTheDamned.png
+utom$$i_Tomb of Relics::ReplaceableTextures/CommandButtons/BTNTombOfRelics.png
+uzig$$i_Ziggurat::ReplaceableTextures/CommandButtons/BTNZiggurat.png
+vddl$$i_Voodoo Doll::ReplaceableTextures/CommandButtons/BTNShadowPact.png
+ward$$i_Warsong Battle Drums::ReplaceableTextures/CommandButtons/BTNDrum.png
+wcyc$$i_Wand of the Wind::ReplaceableTextures/CommandButtons/BTNWandOfCyclone.png
+whwd$$i_Healing Wards::ReplaceableTextures/CommandButtons/BTNHealingWard.png
+will$$i_Wand of Illusion::ReplaceableTextures/CommandButtons/BTNWand.png
+wswd$$i_Sentry Wards::ReplaceableTextures/CommandButtons/BTNSentryWard.png

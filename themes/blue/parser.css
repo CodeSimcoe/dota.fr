@@ -1,0 +1,153 @@
+div.center,
+table.center
+{
+	margin-left: 10px;
+}
+table.parser 
+{
+	width: 600px; 
+	table-layout: fixed; 
+	border-collapse: collapse;
+}
+table.fixed 
+{
+	width: 100%;
+	table-layout: fixed; 
+	border-collapse: collapse;
+}
+table.fixed td,
+table.parser td
+{
+	font-family: Verdana;
+	font-size: 10pt;
+	overlfow: hidden;
+	cursor: default;
+}
+table.parser td.left
+{
+	text-align: left;
+}
+table.parser td.right
+{
+	text-align: right;
+}
+table.parser td.center
+{
+	text-align: center;
+}
+table.parser td.left img
+{
+	margin-right: 5px;
+}
+table.parser td.left span
+{
+	color: #FFFFFF;
+	float: right;
+	margin-right: 5px;
+	margin-top: 9px;
+	font-size: 8pt;
+}
+table.parser td.right img
+{
+	margin-left: 5px;
+}
+table.parser td.right span
+{
+	color: #FFFFFF;
+	float: left;
+	margin-left: 5px;
+	margin-top: 9px;
+	font-size: 8pt;
+}
+table.parser td p.teams-player
+{
+	margin: 2px 0px; 
+	padding: 0px;
+}
+table.parser td.padding
+{
+	height: 5px;
+	overflow: hidden;
+}
+table.parser td.legend 
+{
+	color: #97CAFC;
+	text-indent: 5px;
+}
+table.stats td
+{
+	font-family: Verdana;
+	font-size: 8pt;
+	overlfow: hidden;
+	cursor: default;
+}
+.border-all
+{
+	border: solid 2px #E0B73F;
+}
+.border-top
+{
+	border-top: solid 2px #E0B73F;
+}
+.border-right
+{
+	border-right: solid 2px #E0B73F;
+}
+.border-bottom
+{
+	border-bottom: solid 2px #E0B73F;
+}
+.border-left
+{
+	border-left: solid 2px #E0B73F;
+}
+div.replay-chat
+{
+	width: 100%;
+	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: auto;
+	overflow : -moz-scrollbars-vertical;
+	height: 250px; 
+}
+div.replay-chat table.parser td
+{
+	padding: 1px 0px;
+	font-size: 8pt;
+}
+div.map
+{
+	position: relative;
+}
+div.map div.tower
+{
+	overflow: hidden;
+	font-size: 0pt;
+	width: 4px;
+	height: 4px;
+	position: absolute;
+}
+div.map div.rax
+{
+	overflow: hidden;
+	font-size: 0pt;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+}
+div.map div.throne
+{
+	overflow: hidden;
+	font-size: 0pt;
+	width: 7px;
+	height: 7px;
+	position: absolute;
+}
+div.map div.sentinel
+{
+	background-color: green;
+}
+div.map div.scourge
+{
+	background-color: red;
+}

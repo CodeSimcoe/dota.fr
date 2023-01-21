@@ -1,0 +1,334 @@
+html {
+    height: 100%;
+}
+body {
+	color: #EEE;
+	background: #000;
+	font-size: 12px;
+	font-family: verdana, arial, sans-serif;
+	margin: 0;
+}
+
+img {
+    border: 0;
+    margin: 0;
+}
+
+img.hid {
+	visibility: hidden;
+}
+
+div#icon {
+	visibility: hidden;
+}
+
+hr {
+	border: 1px solid #AAA;
+	height: 1px;
+}
+
+/*
+**	LIENS
+*/
+
+a:link, a:visited {
+	color: #39F;
+	text-decoration:none;
+}
+
+a:hover, a:active {
+	color: #A2D0FF;
+	text-decoration:none;
+}
+
+a.friendlink 	{ color: #6F6; }
+
+.info 			{ color: #555; }
+.win 			{ color: #6F6; }
+.newser 			{ color: #90F; }
+.draw 			{ color: #FF6; }
+.lose 			{ color: #F00; }
+.red 			{ color: #F90; }
+.vip 			{ color: #FC0; }
+.fun 			{ color: #09F; }
+.team, .bigger 	{ font-size: 10pt; }
+.biggest 		{ font-size: 12pt; font-weight: bold; }
+
+/*
+**	TABLEAUX
+*/
+
+table {
+    border-collapse: collapse;
+}
+
+table.simple {
+	width: 100%;
+}
+
+td { 
+	font-size: 12px;
+	/*font-family: sans-serif;*/
+	font-family: verdana, arial, sans-serif;
+}
+
+td.newstitle {
+	background-image: url(newstitle_bg.jpg);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	font-weight: bold;
+	height: 22px;
+	min-width: 300px
+}
+
+td.points {
+	background-color: #222;
+	text-align: center;
+}
+
+td.line {
+	border-top: 1px solid #FFF;
+}
+
+td.spacer {
+	border-top: 4px solid #222;
+}
+
+td.title {
+	font-weight: bold;
+	border-bottom: 1px solid white;
+}
+
+td.alternate {
+	border-top: 1px solid #303036;
+	border-bottom: 1px solid #303036;
+	background-color: #121212;
+}
+
+tr.line {
+	border-top: 1px solid #FFF;
+}
+
+tr.spacer {
+	border-top: 4px solid #222;
+}
+
+div.quote {
+	border: 1px dashed #333;
+	width: 98%;
+	padding: 2px 0px 2px 3px;
+	margin-right: 5px;
+	background-color: #111;
+}
+
+table.rank {
+	border: 1px solid #555;
+}
+
+table.cw {
+	table-layout: fixed;
+	width: 520px;
+}
+
+table.cw td {
+	padding: 1px;
+}
+
+table.cw td.left {
+	border-left: 1px solid #999;
+}
+
+table.cw td.right {
+	border-right: 1px solid #999;
+}
+
+table.cw td.lr {
+	border-right: 1px solid #333;
+	border-left: 1px solid #333;
+}
+
+table.cw tr.bottom td {
+	border-bottom: 1px solid #999;
+}
+
+table.cw tr.title td {
+	height: 25px;
+	background-image: url(images/cellpic_title.gif);
+	border: 1px solid #999;
+}
+
+table.cw tr.bans td {
+	background-color: #202020;
+	border: 1px solid #999;
+}
+
+table.cw tr.bans img{
+	vertical-align: middle;
+}
+
+table.cw tr.alternated td {
+	background-color: #202020;
+	border-bottom: 1px solid #333;
+}
+
+table.cw tr.alternatedlast td {
+	background-color: #202020;
+	border-bottom: 1px solid #999;
+}
+
+input {
+	background-color: #000;
+	color: #EEE;
+	padding: 2px;
+	margin: 1px;
+}
+
+input.num {
+	text-align: right;
+}
+
+input:focus, input:active{
+	border-color: #76A4FB;
+}
+
+textarea {
+	background-color: #000;
+	color: #EEE;
+}
+
+textarea:focus, textarea:active {
+	border-color: #76A4FB;
+}
+
+select {
+	background-color: #000;
+	color: #EEE;
+}
+
+select:focus, select:active {
+	border-color: #76A4FB;
+}
+
+option {
+	background-color: #000;
+	color: #EEE;
+}
+
+/*
+* Menus
+*/
+
+table.menu {
+	width: 175px;
+}
+
+th.diviz,
+td.diviz {
+	font-weight: bold;
+	text-align: center;
+}
+
+div#ap1, #ap2, #ap3, #ap4, #ap5, #ap6, #ap7, #ap8, #bp1, #bp2, #bp3, #bp4, #bp5, #bp6, #bp7, #bp8 {
+	display: inline;
+	font-weight: bold;
+}
+
+div#results {
+	display: inline;
+}
+
+/*
+* Tournoi
+*/
+table.tntable {
+	
+}
+.tntable td{
+    padding: 0px;
+    width: 180px;
+}
+.tntable td div{
+    line-height: 20px;
+    padding-left: 5px;
+}
+.tntable td div.player{
+    background-color: #1A1A1A;
+    border-left: 5px solid #6A6A6A;
+}
+.tntable td div.player div.score{
+    float: right;
+    font-weight: bold;
+    padding-right: 3px;
+}
+.tntable td div.join{
+    border-left: 5px solid #666;
+}
+.tntable td.legend{
+    font-weight: bold;
+    padding: 5px;
+}
+.tntable td.legend div{
+	background-image: url(cell_bg.png);
+    line-height: 20px;
+    padding: 0px;
+    text-align: center;
+}
+
+div.global {
+	width: 1000px;
+	position: absolute;
+	top: 0px;
+	left: 50%;
+	margin-left: -500px;
+}
+
+div.global div.logo {
+	width: 1000px;
+	height: 176px;
+}
+
+div.global div.left {
+	position: absolute;
+	top: 226px;
+	left: 0px;
+	width: 175px;
+}
+
+div.global div.right {
+	position: absolute;
+	top: 226px;
+	left: 825px;
+	width: 175px;
+}
+
+div.global div.middle {
+	position: absolute;
+	top: 226px;
+	left: 175px;
+	width: 650px;
+}
+
+div.menu {
+	position: relative;
+	width: 100%;
+	height: 50px;
+	line-height: 46px;
+	text-indent: 20px;
+	background: transparent url(images/boxes/menu-background.png) no-repeat top left;
+	cursor: default;
+}
+
+div.menu a {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0px 20px;
+	padding: 2px 0px;
+}
+div.menu a:link,
+div.menu a:visited {
+	color: #EEEEEE;
+}
+div.menu a:hover,
+div.menu a:active {
+	color: #A2D0FF;
+}

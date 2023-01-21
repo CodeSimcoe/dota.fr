@@ -1,0 +1,100 @@
+div.boxes
+{
+  background: Black url(images/boxes/box_ml.jpg) repeat-y left top;
+  clear: both;
+}
+
+div.boxes div.title
+{
+  background: transparent url(images/boxes/box_tm.jpg) repeat-x left top;
+  height: 40px;
+  width: 100%;
+}
+div.boxes div.title p
+{
+  background: transparent url(images/boxes/box_tr.jpg) no-repeat right top;
+  height: 40px;
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+div.boxes div.title p strong,
+div.boxes div.title p b
+{
+  background: transparent url(images/boxes/box_tl.jpg) no-repeat left top;
+  /*height: 39px;*/
+  display: block;
+  text-align: center;
+  width: 100%;
+  color: White;
+  /*line-height: 40px;
+  padding-top: 1px;*/
+  height: 40px;
+  line-height: 40px;
+}
+
+div.boxes div.footer
+{
+  background: transparent url(images/boxes/box_bm.jpg) repeat-x left top;
+  height: 25px;
+  width: 100%;
+}
+div.boxes div.footer p
+{
+  background: transparent url(images/boxes/box_br.jpg) no-repeat right top;
+  height: 25px;
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+div.boxes div.footer p.right
+{
+  background: transparent url(images/boxes/box_br_o.jpg) no-repeat right top;
+  height: 25px;
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+div.boxes div.footer p.double
+{
+  background: transparent url(images/boxes/box_br_o.jpg) no-repeat right top;
+  height: 25px;
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+div.boxes div.footer p strong,
+div.boxes div.footer p b
+{
+  background: transparent url(images/boxes/box_bl.jpg) no-repeat left top;
+  height: 25px;
+  display: block;
+  width: 100%;
+  color: White;
+}
+div.boxes div.footer p.left strong,
+div.boxes div.footer p.left b
+{
+  background: transparent url(images/boxes/box_bl_o.jpg) no-repeat left top;
+  height: 25px;
+  display: block;
+  width: 100%;
+  color: White;
+}
+div.boxes div.footer p.double strong,
+div.boxes div.footer p.double b
+{
+  background: transparent url(images/boxes/box_bl_o.jpg) no-repeat left top;
+  height: 25px;
+  display: block;
+  width: 100%;
+  color: White;
+}
+
+div.boxes div.arghcontent
+{
+  background: transparent url(images/boxes/box_mr.jpg) repeat-y right top;
+  color: White;
+  margin: 0px 0px 0px 15px;
+  padding: 0px 15px 0px 0px;
+}

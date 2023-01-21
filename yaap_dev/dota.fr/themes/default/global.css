@@ -1,0 +1,142 @@
+html, body { 
+	margin: 0px; 
+	padding: 0px; 
+	text-align: center; 
+	color: #EEE;
+	background: #000;
+	font-size: 12px;
+	font-family: verdana, arial, sans-serif;
+}
+
+img {
+    border: 0px;
+    margin: 0px;
+}
+
+hr {
+	border: 1px solid #AAA;
+	height: 1px;
+}
+
+a:link, a:visited {
+	color: #39F;
+	text-decoration:none;
+}
+
+a:hover, a:active {
+	color: #A2D0FF;
+	text-decoration:none;
+}
+
+input {
+	background-color: #000;
+	color: #EEE;
+	padding: 2px;
+	margin: 1px;
+}
+
+input:focus, input:active{
+	border-color: #76A4FB;
+}
+
+textarea {
+	background-color: #000;
+	color: #EEE;
+}
+
+textarea:focus, textarea:active {
+	border-color: #76A4FB;
+}
+
+select {
+	background-color: #000;
+	color: #EEE;
+}
+
+select:focus, select:active {
+	border-color: #76A4FB;
+}
+
+option {
+	background-color: #000;
+	color: #EEE;
+}
+
+div.container {
+	width: 1000px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.logo {
+	position: relative;
+	width: 100%;
+	height: 176px;
+}
+
+div.menu {
+	position: relative;
+	width: 100%;
+	height: 50px;
+	line-height: 46px;
+	text-indent: 20px;
+	background: transparent url(images/menu-background.png) no-repeat top left;
+	cursor: default;
+}
+
+div.menu a {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0px 20px;
+	padding: 2px 0px;
+}
+div.menu a:link,
+div.menu a:visited {
+	color: white;
+}
+div.menu a:hover,
+div.menu a:active {
+	color: #39F;
+}
+
+div.left {
+	width: 175px; 
+	float: left;
+	position: relative;
+}
+ 
+div.main {
+	float: right; 
+	display: inline; 
+	position: relative; 
+	width: 825px; 
+}
+ 
+div.footer {
+	height: 20px; 
+	line-height: 18px;
+	clear: both;
+	margin-top: 10px;
+	text-align: center;
+}
+
+div.clearfix:after {
+	content: "."; 
+	display: block; 
+	height: 0px; 
+	clear: both; 
+	visibility: hidden;
+}
+div.clearfix {
+	display: inline-block;
+}
+
+/* Hides from IE-mac \*/
+* html div.clearfix {
+	height: 1%;
+}
+div.clearfix {
+	display: block;
+}
+/* End hide from IE-mac */  

@@ -1,0 +1,103 @@
+table.listing {
+	table-layout: fixed;
+	border-collapse: collapse;
+	width: 100%;
+	border: 0px solid Black;
+}
+
+table.mini_listing {
+	table-layout: fixed;
+	border-collapse: collapse;
+	border: 1px solid #669;
+}
+
+table.mini_listing tbody {
+	background-color: #040408;
+}
+
+table.listing tr.alternate_bleu {
+	background-color: #070714;
+	border-top: 1px solid #363654;
+	border-bottom: 1px solid #363654;
+}
+
+table.listing tbody > tr {
+	height: 23px;
+}
+
+table.listing tr.highlightable:hover,
+table.listing tr.highlighted {
+	background-color: #212121;
+}
+
+table.listing tr.active {
+	background-color: #141421;
+}
+
+table.listing tr.alternate,
+table.listing tr.alternateh {
+	background-color: #141414;
+	border-top: 1px solid #363636;
+	border-bottom: 1px solid #363636;
+}
+
+table.listing tr.profile {
+	border-bottom: 1px solid #333333;
+}
+
+table.listing tr.alternateh:hover {
+	background-color: #212121;
+	border-top: 1px solid #363636;
+	border-bottom: 1px solid #363636;
+}
+
+table.listing tr.alttop {
+	background-color: #141421;
+	border-top: 1px solid #363654;
+	border-bottom: 0px;
+}
+
+table.listing tr.altbot {
+	background-color: #141421;
+	border-top: 0px;
+	border-bottom: 1px solid #363654;
+}
+
+table.listing caption {
+	text-align: left;
+	padding: 0px 0px 10px 0px;
+	font-weight: bold;
+	color: #FF6;
+}
+
+table.listing thead tr th,
+table.mini_listing thead tr th {
+	text-align: left;
+	padding: 0px 0px 2px 0px;
+	border-bottom: 1px solid White;
+}
+table.listing thead tr th.diviz {
+	text-align: center;
+}
+table.listing tfoot tr td {
+	text-align: left;
+	padding: 2px 0px 0px 0px;
+	border-top: 1px solid White;
+}
+table.listing thead tr th a {
+	float: left;
+}
+
+table.listing thead th img {
+	float: right;
+	margin: -11px 4px 0px 0px;
+}
+
+table.mini_listing thead th img.normal {
+	float: none;
+	margin: 0px;
+}
+
+table.listing tbody tr td {
+	/*border: 1px solid #666666;*/
+}
